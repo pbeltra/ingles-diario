@@ -110,7 +110,8 @@
   <div class="card" style="text-align:left">
     <h2 style="text-align:center">Tus rutinas</h2>
     <div class="routine" id="r5"><div class="t">5:00 AM</div><div><b>Conversación</b> en tu chat con Ingles (Grok Bot)<br><span class="small">Todos los días · inglés fácil con español debajo</span></div></div>
-    <div class="routine" id="r19"><div class="t">7:00 PM</div><div><b>Vocabulario de oído</b> en tu chat<br><span class="small">Lunes a viernes</span></div></div>
+    <div class="routine" id="r12"><div class="t">11:59 AM</div><div><b>Tarjetas rápidas</b> en tu chat<br><span class="small">Todos los días · unas 5 palabras</span></div></div>
+    <div class="routine" id="r19"><div class="t">7:00 PM</div><div><b>Vocabulario de oído</b> en tu chat<br><span class="small">Todos los días</span></div></div>
     <div class="routine"><div class="t">🃏</div><div><b>Tarjetas</b> aquí, cuando quieras<br><span class="small">5 minutos bastan</span></div></div>
   </div>
 
@@ -405,7 +406,7 @@ function renderHome(){
   $("bestN").textContent=bestStreak(); $("totalN").textContent=Object.keys(S.days).length;
   // rutinas de hoy (solo informativo)
   const wk=now.getDay()>=1&&now.getDay()<=5;
-  $("r19").style.opacity = wk?1:.5;
+  $("r19").style.opacity = 1;
   // calendario: 5 semanas, lunes primero
   const cal=$("cal"); cal.innerHTML=""; DIAS.forEach(d=>{const e=document.createElement("div");e.className="h";e.textContent=d;cal.appendChild(e);});
   const dow=(now.getDay()+6)%7; let start=addDays(t,-dow-28);
