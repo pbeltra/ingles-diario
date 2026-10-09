@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="theme-color" content="#1F4E8C">
+<title>Inglés diario · Pablo</title>
+<style>
+  :root{--blue:#1F4E8C;--blue2:#E6EEF8;--orange:#F07D16;--dark:#1F2A33;--grey:#5A6570;--bg:#F3F6FA;--yellow:#FFF6D6;--lad:#E8C21A;--green:#2E8B57;--green2:#E3F3EA;--red:#C0392B}
+  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  html,body{margin:0;min-height:100%;background:var(--bg);color:var(--dark);
+    font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",Arial,sans-serif}
+  body{display:flex;flex-direction:column;min-height:100vh;min-height:100dvh;
+    padding:env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left)}
+  header{background:var(--blue);color:#fff;padding:12px 16px;display:flex;align-items:center;justify-content:space-between;gap:10px}
+  header h1{margin:0;font-size:20px;font-weight:800}
+  header .streak{font-weight:800;font-size:17px;background:rgba(255,255,255,.15);padding:4px 10px;border-radius:20px}
+  main{flex:1;padding:12px 14px 96px;max-width:560px;width:100%;margin:0 auto}
+  section.view{display:none;flex-direction:column;gap:12px} section.view.on{display:flex}
+  .card{background:#fff;border:2px solid #D3DCE6;border-radius:20px;padding:14px;text-align:center}
+  .card h2{margin:0 0 6px;font-size:20px}
+  .muted{color:var(--grey);font-size:15px}
+  .small{font-size:13px;color:var(--grey)}
+  button.b,a.b{font:inherit;font-size:20px;font-weight:800;border:none;border-radius:18px;padding:14px 10px;min-height:60px;color:#fff;background:var(--blue);width:100%;display:block;text-align:center;text-decoration:none;cursor:pointer}
+  button.b:active,a.b:active{transform:scale(.98)}
+  button.b:disabled{opacity:.4}
+  .b.orange{background:var(--orange)} .b.green{background:var(--green)} .b.grey{background:#7A8A96} .b.light{background:var(--blue2);color:var(--blue)}
+  #status{font-size:22px;font-weight:900;margin:6px 0}
+  #status.ok{color:var(--green)} #status.no{color:var(--orange)}
+  .routine{display:flex;gap:10px;align-items:center;text-align:left;background:var(--blue2);border-radius:14px;padding:10px 12px;margin-top:8px}
+  .routine .t{font-weight:900;font-size:18px;color:var(--blue);min-width:72px}
+  .routine.done{background:var(--green2)} .routine.done .t{color:var(--green)}
+  /* calendario */
+  .cal{display:grid;grid-template-columns:repeat(7,1fr);gap:5px;margin-top:8px}
+  .cal .h{font-size:12px;font-weight:800;color:var(--grey)}
+  .cal .d{aspect-ratio:1;border-radius:10px;background:#EEF2F6;display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:700;color:#9AA6B2}
+  .cal .d.p{background:var(--green);color:#fff}
+  .cal .d.today{outline:3px solid var(--orange)}
+  .cal .d.future{background:transparent}
+  /* tarjetas */
+  .modes{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+  .modes button{font:inherit;font-weight:800;font-size:16px;padding:10px;border-radius:14px;border:2px solid var(--blue);background:#fff;color:var(--blue)}
+  .modes button.on{background:var(--blue);color:#fff}
+  #fc{min-height:300px;display:flex;flex-direction:column;justify-content:center;gap:10px;cursor:pointer}
+  #fcWord{font-size:64px;font-weight:900;line-height:1.05;color:var(--dark);word-break:break-word}
+  #fcHidden{font-size:56px}
+  #fcBack{display:none;border-top:2px dashed #D3DCE6;padding-top:12px}
+  #fc.revealed #fcBack{display:block}
+  #fcEs{font-size:34px;font-weight:900;color:var(--green)}
+  .ex{background:var(--yellow);border:3px solid var(--lad);border-radius:14px;padding:8px 10px;margin-top:10px}
+  .ex .en{font-size:22px;font-weight:800} .ex .es{font-size:17px;color:#6B5600;margin-top:2px}
+  .sound{display:flex;gap:8px;justify-content:center}
+  .sound button{font:inherit;font-size:18px;font-weight:800;border:none;border-radius:14px;padding:10px 14px;background:var(--blue2);color:var(--blue)}
+  #tapHint{font-size:16px;color:var(--grey);font-weight:700}
+  #fc.revealed #tapHint{display:none}
+  .rate{display:none;grid-template-columns:1fr 1fr 1fr;gap:8px}
+  .rate.on{display:grid}
+  .rate button{font:inherit;font-size:17px;font-weight:800;border:none;border-radius:16px;padding:12px 4px;min-height:64px;color:#fff}
+  .rate .r0{background:#8C7AB8} .rate .r1{background:var(--orange)} .rate .r2{background:var(--green)}
+  .bar{height:14px;background:#DCE3EA;border-radius:10px;overflow:hidden}
+  .bar>div{height:100%;width:0;background:var(--blue);border-radius:10px;transition:width .3s}
+  .fin{font-size:46px;font-weight:900;color:var(--orange);margin:4px 0}
+  /* progreso */
+  .stats{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+  .stat{background:#fff;border:2px solid #D3DCE6;border-radius:16px;padding:10px 4px;text-align:center}
+  .stat b{display:block;font-size:34px;font-weight:900}
+  .stat.k b{color:var(--green)} .stat.l b{color:var(--orange)} .stat.n b{color:#7A8A96}
+  .chips{display:flex;flex-wrap:wrap;gap:6px;justify-content:center;margin-top:8px}
+  .chip{padding:6px 10px;border-radius:20px;font-weight:800;font-size:15px;background:#EEF2F6;color:#7A8A96}
+  .chip.k{background:var(--green2);color:var(--green)} .chip.l{background:#FDEBD8;color:#B85A00}
+  nav{position:fixed;left:0;right:0;bottom:0;background:#fff;border-top:2px solid #D3DCE6;display:grid;grid-template-columns:repeat(3,1fr);
+    padding:6px 6px calc(6px + env(safe-area-inset-bottom))}
+  nav button{font:inherit;font-size:14px;font-weight:800;background:none;border:none;color:var(--grey);padding:6px 0;display:flex;flex-direction:column;align-items:center;gap:2px}
+  nav button span{font-size:24px}
+  nav button.on{color:var(--blue)}
+  input[type=time]{font:inherit;font-size:20px;padding:8px;border-radius:12px;border:2px solid #D3DCE6}
+  .row{display:flex;gap:8px;align-items:center;justify-content:center;flex-wrap:wrap}
+  #copyMsg,#copyMsg2{min-height:20px;color:var(--green);font-weight:800}
+  #donePanel{display:none;position:fixed;inset:0;background:rgba(20,30,40,.55);z-index:20;align-items:flex-end;justify-content:center}
+  #donePanel.on{display:flex}
+  #donePanel .sheet{background:var(--bg);width:100%;max-width:560px;border-radius:22px 22px 0 0;padding:18px 16px calc(18px + env(safe-area-inset-bottom));display:grid;gap:10px;max-height:95vh;overflow:auto}
+  #donePanel h2{margin:0;font-size:30px;font-weight:900;color:var(--orange);text-align:center}
+  .chk{display:flex;align-items:center;gap:12px;background:#fff;border:2px solid #D3DCE6;border-radius:14px;padding:12px;font-size:18px;font-weight:800}
+  .chk input{width:26px;height:26px}
+  #doneText{font-size:17px;font-weight:900;background:#fff;border:3px dashed var(--blue);border-radius:14px;padding:10px;text-align:center;user-select:all;-webkit-user-select:all}
+</style>
+</head>
+<body>
+<header>
+  <h1>🇺🇸 Inglés diario</h1>
+  <div class="streak" id="hdrStreak">🔥 0 días</div>
+</header>
+
+<main>
+<!-- ================= INICIO ================= -->
+<section class="view on" id="v-home">
+  <div class="card">
+    <div class="muted" id="todayLbl">Hoy</div>
+    <div id="status" class="no">Aún no practicas hoy</div>
+    <div class="muted" id="cheer">Un poquito cada día vale más que mucho un solo día.</div>
+    <div style="margin-top:12px;display:grid;gap:8px">
+      <button class="b orange" id="goCards">🃏 Repasar tarjetas (<span id="dueN">0</span>)</button>
+      <button class="b green" id="doneBtn">✅ Practiqué hoy</button>
+    </div>
+  </div>
+
+  <div class="card" style="text-align:left">
+    <h2 style="text-align:center">Tus rutinas</h2>
+    <div class="routine" id="r5"><div class="t">5:00 AM</div><div><b>Conversación</b> en tu chat con Ingles (Grok Bot)<br><span class="small">Todos los días · inglés fácil con español debajo</span></div></div>
+    <div class="routine" id="r19"><div class="t">7:00 PM</div><div><b>Vocabulario de oído</b> en tu chat<br><span class="small">Lunes a viernes</span></div></div>
+    <div class="routine"><div class="t">🃏</div><div><b>Tarjetas</b> aquí, cuando quieras<br><span class="small">5 minutos bastan</span></div></div>
+  </div>
+
+  <div class="card">
+    <h2>Tus días de práctica</h2>
+    <div class="row muted"><span>Racha: <b id="streakN">0</b></span> · <span>Mejor: <b id="bestN">0</b></span> · <span>Total: <b id="totalN">0</b></span></div>
+    <div class="cal" id="cal"></div>
+  </div>
+
+  <div class="card">
+    <h2>Recordatorio</h2>
+    <div class="muted" style="margin-bottom:8px">Tus recordatorios de verdad llegan por tu chat (5 AM y 7 PM). Este aviso extra solo funciona mientras esta página esté abierta.</div>
+    <div class="row"><input type="time" id="remTime" value="19:30"><button class="b light" id="remBtn" style="width:auto;padding:10px 16px;min-height:0;font-size:17px">🔔 Activar aviso</button></div>
+    <div class="small" id="remMsg" style="margin-top:6px"></div>
+  </div>
+</section>
+
+<!-- ================= TARJETAS ================= -->
+<section class="view" id="v-cards">
+  <div class="modes">
+    <button id="mRead" class="on">👀 Ver y escuchar</button>
+    <button id="mEar">👂 Solo oído</button>
+  </div>
+  <div>
+    <div class="row muted" style="justify-content:space-between"><span id="sessLbl">Tarjeta 1 de 10</span><span id="sessKnown"></span></div>
+    <div class="bar"><div id="sessBar"></div></div>
+  </div>
+
+  <div class="card" id="fc">
+    <div id="fcFront">
+      <div id="fcWord">want</div>
+      <div id="fcHidden" style="display:none">👂</div>
+    </div>
+    <div class="sound">
+      <button id="playW">🔊 Escuchar</button>
+      <button id="playSlow">🐢 Lento</button>
+    </div>
+    <div id="tapHint">Piensa qué significa… y toca la tarjeta para ver</div>
+    <div id="fcBack">
+      <div id="fcEnAgain" style="font-size:30px;font-weight:900;display:none"></div>
+      <div id="fcEs">querer</div>
+      <div class="ex">
+        <div class="en" id="exEn">I want coffee.</div>
+        <div class="es" id="exEs">Quiero café.</div>
+        <div class="sound" style="margin-top:6px"><button id="playEx">🔊 Frase</button></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="rate" id="rate">
+    <button class="r0" data-r="0">🌱 No lo sabía</button>
+    <button class="r1" data-r="1">🤏 Casi</button>
+    <button class="r2" data-r="2">💪 Lo sabía</button>
+  </div>
+  <div class="small" style="text-align:center">Equivocarse aquí es parte del método: la tarjeta vuelve pronto y así se queda.</div>
+
+  <div class="card" id="finCard" style="display:none">
+    <div class="fin">¡Muy bien, Pablo!</div>
+    <div class="muted" id="finTxt"></div>
+    <div style="display:grid;gap:8px;margin-top:12px">
+      <button class="b green" id="finSend">✅ Enviar HECHO a Ingles</button>
+      <button class="b orange" id="moreBtn">➕ 5 tarjetas más</button>
+      <button class="b grey" id="homeBtn">🏠 Volver al inicio</button>
+    </div>
+  </div>
+</section>
+
+<!-- ================= PROGRESO ================= -->
+<section class="view" id="v-prog">
+  <div class="stats">
+    <div class="stat k"><b id="nK">0</b>ya las sabes</div>
+    <div class="stat l"><b id="nL">0</b>aprendiendo</div>
+    <div class="stat n"><b id="nN">0</b>por conocer</div>
+  </div>
+  <div class="card">
+    <h2>Tus palabras</h2>
+    <div class="small">Verde: ya la sabes · Naranja: aprendiendo · Gris: aún no la ves</div>
+    <div class="chips" id="chips"></div>
+  </div>
+  <div class="card">
+    <h2>Avisar a Ingles</h2>
+    <div class="muted">Copia esto y pégalo en tu chat para que sepa cómo vas:</div>
+    <div id="reportTxt" style="font-weight:800;font-size:17px;background:#fff;border:3px dashed var(--blue);border-radius:14px;padding:10px;margin:8px 0;user-select:all;-webkit-user-select:all"></div>
+    <button class="b light" id="copyBtn">📋 Copiar</button>
+    <div id="copyMsg"></div>
+    <a class="b grey" id="issueBtn" href="#" target="_blank" rel="noopener" style="font-size:16px;min-height:0;margin-top:6px">✅ Enviar HECHO de hoy</a>
+  </div>
+  <div class="small" style="text-align:center">Tu avance se guarda solo en este teléfono/navegador.</div>
+</section>
+</main>
+
+<div id="donePanel"><div class="sheet">
+  <h2>¡HECHO! ✅</h2>
+  <div class="muted" style="text-align:center">¿Qué practicaste hoy? (marca lo que hiciste)</div>
+  <label class="chk"><input type="checkbox" id="pT"> 🃏 Tarjetas <span class="small" id="pTn"></span></label>
+  <label class="chk"><input type="checkbox" id="pC"> 💬 Conversación (5 AM)</label>
+  <label class="chk"><input type="checkbox" id="pO"> 👂 Vocabulario de oído (7 PM)</label>
+  <a class="b green" id="sendBtn" href="#" target="_blank" rel="noopener" style="font-size:24px;padding:18px 10px">✅ Enviar HECHO a Ingles</a>
+  <div class="small" style="text-align:center;margin-top:-4px">Se abre GitHub: toca "Submit new issue" / "Crear" y listo</div>
+  <div class="muted" style="text-align:center">o copia esto y pégalo en tu chat de Ingles:</div>
+  <div id="doneText"></div>
+  <button class="b orange" id="copyBtn2">📋 Copiar</button>
+  <div id="copyMsg2" style="text-align:center"></div>
+  <button class="b grey" id="closeDone">Cerrar</button>
+</div></div>
+
+<nav>
+  <button class="on" data-v="home"><span>🏠</span>Inicio</button>
+  <button data-v="cards"><span>🃏</span>Tarjetas</button>
+  <button data-v="prog"><span>📈</span>Progreso</button>
+</nav>
+
+<script>
+"use strict";
+/* =====================================================================
+   PALABRAS — para agregar una nueva, copia una línea y cámbiala.
+   en: palabra en inglés · es: significado · ex: frase corta · exEs: traducción
+   (El audio sale de audio/w_<palabra>.mp3; si no existe, usa la voz del navegador.)
+   ===================================================================== */
+const WORDS = [
+  {en:"I",     es:"yo",                  ex:"I want coffee.",          exEs:"Yo quiero café."},
+  {en:"you",   es:"tú",                  ex:"I see you.",              exEs:"Te veo."},
+  {en:"want",  es:"querer",              ex:"I want water.",           exEs:"Quiero agua."},
+  {en:"go",    es:"ir",                  ex:"I go to work.",           exEs:"Voy al trabajo."},
+  {en:"good",  es:"bueno",               ex:"Good morning!",           exEs:"¡Buenos días!"},
+  {en:"have",  es:"tener",               ex:"I have a car.",           exEs:"Tengo un carro."},
+  {en:"like",  es:"gustar",              ex:"I like coffee.",          exEs:"Me gusta el café."},
+  {en:"know",  es:"saber / conocer",     ex:"I don't know.",           exEs:"No sé."},
+  {en:"can",   es:"poder",               ex:"I can help.",             exEs:"Puedo ayudar."},
+  {en:"need",  es:"necesitar",           ex:"I need coffee.",          exEs:"Necesito café."},
+  {en:"see",   es:"ver",                 ex:"See you!",                exEs:"¡Nos vemos!"},
+  {en:"get",   es:"conseguir / obtener", ex:"I get a coffee.",         exEs:"Consigo un café."},
+  {en:"think", es:"pensar",              ex:"I think so.",             exEs:"Creo que sí."},
+  {en:"make",  es:"hacer",               ex:"I make coffee.",          exEs:"Hago café."},
+  {en:"come",  es:"venir",               ex:"Come here!",              exEs:"¡Ven aquí!"},
+  {en:"take",  es:"tomar",               ex:"I take the bus.",         exEs:"Tomo el bus."},
+  {en:"say",   es:"decir",               ex:"Say hello.",              exEs:"Di hola."},
+  {en:"give",  es:"dar",                 ex:"Give me water, please.",  exEs:"Dame agua, por favor."},
+  {en:"look",  es:"mirar",               ex:"Look at me.",             exEs:"Mírame."},
+  {en:"use",   es:"usar",                ex:"I use my phone.",         exEs:"Uso mi teléfono."},
+  {en:"find",  es:"encontrar",           ex:"I can't find my keys.",   exEs:"No encuentro mis llaves."},
+  {en:"tell",  es:"contar / decir",      ex:"Tell me.",                exEs:"Dime. / Cuéntame."},
+  {en:"ask",   es:"preguntar",           ex:"Ask me.",                 exEs:"Pregúntame."},
+  {en:"work",  es:"trabajar",            ex:"I work today.",           exEs:"Hoy trabajo."},
+  {en:"help",  es:"ayudar",              ex:"Can you help me?",        exEs:"¿Me puedes ayudar?"},
+  {en:"early", es:"temprano",            ex:"I get up early.",         exEs:"Me levanto temprano."},
+];
+/* ===================================================================== */
+
+const NEW_PER_DAY = 5;          // palabras nuevas por día (suave)
+const SESSION_MAX = 12;         // tarjetas por sesión
+const INTERVALS = [0,1,2,4,7,14,30]; // días de espera por caja (Leitner)
+const KNOWN_BOX = 3;            // desde esta caja cuenta como "ya la sabes"
+const REPO = "pbeltra/ingles-diario";
+
+const $ = id => document.getElementById(id);
+const p2 = n => String(n).padStart(2,"0");
+const ymd = d => d.getFullYear()+"-"+p2(d.getMonth()+1)+"-"+p2(d.getDate());
+const addDays = (s,n) => { const d=new Date(s+"T12:00:00"); d.setDate(d.getDate()+n); return ymd(d); };
+const today = () => ymd(new Date());
+const slug = w => w.toLowerCase().replace(/[^a-z0-9]+/g,"_");
+
+/* ---------- almacenamiento ---------- */
+const KEY="inglesDiario.v1";
+function load(){ try{ return JSON.parse(localStorage.getItem(KEY))||{}; }catch(e){ return {}; } }
+let S = load();
+S.days = S.days || {};      // {"2026-10-09": n tarjetas}
+S.cards = S.cards || {};    // {"want": {box, due, seen, ok}}
+S.newDay = S.newDay || {};  // {"2026-10-09": n nuevas introducidas}
+S.rem = S.rem || {on:false, time:"19:30", last:""};
+S.mode = S.mode || "read";
+function save(){ try{ localStorage.setItem(KEY, JSON.stringify(S)); }catch(e){} }
+function cardOf(w){ return S.cards[w.en] || null; }
+
+/* ---------- práctica / racha ---------- */
+function markPracticed(n){
+  const t=today(); S.days[t]=(S.days[t]||0)+(n||0); save(); renderHome();
+}
+function practiced(d){ return Object.prototype.hasOwnProperty.call(S.days,d); }
+function streak(){
+  let d=today(), n=0;
+  if(!practiced(d)) d=addDays(d,-1); // hoy aún no cuenta en contra
+  while(practiced(d)){ n++; d=addDays(d,-1); }
+  return n;
+}
+function bestStreak(){
+  const ds=Object.keys(S.days).sort(); let best=0, cur=0, prev=null;
+  for(const d of ds){ cur = (prev && addDays(prev,1)===d) ? cur+1 : 1; best=Math.max(best,cur); prev=d; }
+  return best;
+}
+
+/* ---------- audio ---------- */
+let enVoice=null;
+function pickVoice(){
+  if(!("speechSynthesis" in window)) return;
+  const v=speechSynthesis.getVoices();
+  enVoice = v.find(x=>/^en[-_]US/i.test(x.lang) && /natural|neural|samantha|google/i.test(x.name)) || v.find(x=>/^en[-_]US/i.test(x.lang)) || v.find(x=>/^en/i.test(x.lang)) || null;
+}
+if("speechSynthesis" in window){ pickVoice(); speechSynthesis.onvoiceschanged=pickVoice; }
+function tts(text, rate){
+  if(!("speechSynthesis" in window)) return;
+  try{ speechSynthesis.cancel(); const u=new SpeechSynthesisUtterance(text); u.lang="en-US"; if(enVoice) u.voice=enVoice; u.rate=rate; speechSynthesis.speak(u); }catch(e){}
+}
+let player=null;
+function play(file, text, slow){
+  try{ if(player){ player.pause(); } }catch(e){}
+  try{ if("speechSynthesis" in window) speechSynthesis.cancel(); }catch(e){}
+  const a=new Audio(file); player=a;
+  a.playbackRate = slow ? 0.7 : 1; try{ a.preservesPitch=true; }catch(e){}
+  let fell=false; const fallback=()=>{ if(fell) return; fell=true; tts(text, slow?0.55:0.8); };
+  a.onerror=fallback;
+  const p=a.play(); if(p && p.catch) p.catch(fallback);
+}
+const playWord = (w,slow) => play("audio/w_"+slug(w.en)+".mp3", w.en, slow);
+const playEx   = (w,slow) => play("audio/e_"+slug(w.en)+".mp3", w.ex, slow);
+
+/* ---------- Leitner ---------- */
+function dueList(){
+  const t=today();
+  return WORDS.filter(w=>{ const c=cardOf(w); return c && c.due<=t; })
+              .sort((a,b)=>cardOf(a).box-cardOf(b).box || cardOf(a).due.localeCompare(cardOf(b).due));
+}
+function newAvailable(){
+  const left = Math.max(0, NEW_PER_DAY-(S.newDay[today()]||0));
+  return WORDS.filter(w=>!cardOf(w)).slice(0,left);
+}
+let queue=[], qi=0, sessDone=0, sessKnown=0, cur=null, revealed=false;
+function buildSession(extra){
+  let q = dueList().concat(newAvailable());
+  if(extra || !q.length){ // "más tarjetas": repaso libre de las que toca antes
+    const seen=new Set(q.map(w=>w.en));
+    const rest=WORDS.filter(w=>cardOf(w) && !seen.has(w.en)).sort((a,b)=>cardOf(a).due.localeCompare(cardOf(b).due));
+    q=q.concat(rest);
+    if(!q.length) q=WORDS.slice(0,5);
+  }
+  queue=q.slice(0, extra?5:SESSION_MAX); qi=0; sessDone=0; sessKnown=0;
+  $("finCard").style.display="none"; $("fc").style.display=""; showCard();
+}
+function showCard(){
+  if(qi>=queue.length){ finishSession(); return; }
+  cur=queue[qi]; revealed=false;
+  const ear = S.mode==="ear";
+  $("fc").classList.remove("revealed");
+  $("fcWord").textContent=cur.en; $("fcWord").style.display= ear?"none":"";
+  $("fcHidden").style.display= ear?"":"none";
+  $("fcEnAgain").textContent=cur.en; $("fcEnAgain").style.display= ear?"":"none";
+  $("fcEs").textContent=cur.es; $("exEn").textContent=cur.ex; $("exEs").textContent=cur.exEs;
+  $("tapHint").textContent = ear ? "Escucha… ¿qué significa? Toca para ver" : "Escúchala, piensa qué significa… y toca para ver";
+  $("rate").classList.remove("on");
+  $("sessLbl").textContent="Tarjeta "+(qi+1)+" de "+queue.length + (cardOf(cur)? "" : " · nueva ✨");
+  $("sessKnown").textContent = sessKnown? "💪 "+sessKnown : "";
+  $("sessBar").style.width=(qi/queue.length*100)+"%";
+  setTimeout(()=>playWord(cur,false), 250);
+}
+function reveal(){
+  if(revealed||!cur) return; revealed=true;
+  $("fc").classList.add("revealed"); $("rate").classList.add("on");
+}
+function rate(r){
+  if(!cur||!revealed) return;
+  const t=today(); let c=cardOf(cur);
+  if(!c){ c={box:0,due:t,seen:0,ok:0}; S.newDay[t]=(S.newDay[t]||0)+1; }
+  c.seen++;
+  if(r===2){ c.box=Math.min(INTERVALS.length-1, c.box+1); c.ok++; c.due=addDays(t, INTERVALS[c.box]); sessKnown++; }
+  else if(r===1){ c.box=Math.max(1,c.box); c.due=addDays(t,1); }
+  else { c.box=1; c.due=addDays(t,1); if(queue.length-qi<=SESSION_MAX) queue.push(cur); } // vuelve al final de esta sesión
+  S.cards[cur.en]=c; sessDone++; qi++;
+  save(); showCard();
+}
+function finishSession(){
+  cur=null; $("fc").style.display="none"; $("rate").classList.remove("on");
+  $("sessBar").style.width="100%";
+  markPracticed(sessDone);
+  $("finTxt").textContent = "Repasaste "+sessDone+" tarjeta"+(sessDone===1?"":"s")+" hoy" + (sessKnown? " y sabías "+sessKnown+". ":". ") + "Día marcado como practicado ✅";
+  $("finCard").style.display="";
+  renderProg();
+}
+
+/* ---------- vistas ---------- */
+const DIAS=["L","M","M","J","V","S","D"];
+const MESES=["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"];
+const SEM=["domingo","lunes","martes","miércoles","jueves","viernes","sábado"];
+function renderHome(){
+  const t=today(), now=new Date(), done=practiced(t);
+  $("todayLbl").textContent="Hoy, "+SEM[now.getDay()]+" "+now.getDate()+" de "+MESES[now.getMonth()];
+  $("status").textContent= done ? "¡Hoy ya practicaste! ✅" : "Aún no practicas hoy";
+  $("status").className= done ? "ok" : "no";
+  $("cheer").textContent= done ? "Bien hecho. Tu oído se entrena aunque no lo notes." : "Un poquito cada día vale más que mucho un solo día.";
+  $("doneBtn").textContent= done ? "✅ Hecho hoy · enviar otra vez" : "✅ Practiqué hoy";
+  const due=dueList().length+newAvailable().length; $("dueN").textContent=due;
+  const st=streak(); $("streakN").textContent=st; $("hdrStreak").textContent="🔥 "+st+(st===1?" día":" días");
+  $("bestN").textContent=bestStreak(); $("totalN").textContent=Object.keys(S.days).length;
+  // rutinas de hoy (solo informativo)
+  const wk=now.getDay()>=1&&now.getDay()<=5;
+  $("r19").style.opacity = wk?1:.5;
+  // calendario: 5 semanas, lunes primero
+  const cal=$("cal"); cal.innerHTML=""; DIAS.forEach(d=>{const e=document.createElement("div");e.className="h";e.textContent=d;cal.appendChild(e);});
+  const dow=(now.getDay()+6)%7; let start=addDays(t,-dow-28);
+  for(let i=0;i<35;i++){
+    const d=addDays(start,i), e=document.createElement("div");
+    e.className="d"+(practiced(d)?" p":"")+(d===t?" today":"")+(d>t?" future":"");
+    e.textContent= d>t ? "" : String(+d.slice(8)); e.title=d; cal.appendChild(e);
+  }
+  $("remTime").value=S.rem.time; $("remBtn").textContent= S.rem.on ? "🔕 Quitar aviso" : "🔔 Activar aviso";
+  $("remMsg").textContent= S.rem.on ? "Aviso activo a las "+S.rem.time+" (si la página está abierta y aún no practicaste)." : "";
+}
+function level(w){ const c=cardOf(w); if(!c) return "n"; return c.box>=KNOWN_BOX ? "k" : "l"; }
+function renderProg(){
+  let k=0,l=0,n=0; const chips=$("chips"); chips.innerHTML="";
+  WORDS.forEach(w=>{ const lv=level(w); if(lv==="k")k++; else if(lv==="l")l++; else n++;
+    const e=document.createElement("span"); e.className="chip "+lv; e.textContent=w.en; e.title=w.es; chips.appendChild(e); });
+  $("nK").textContent=k; $("nL").textContent=l; $("nN").textContent=n;
+  const t=today();
+  $("reportTxt").textContent="PRACTIQUÉ "+t+" · racha "+streak()+" · sé "+k+" de "+WORDS.length+" palabras, aprendiendo "+l;
+  $("issueBtn").href="#"; $("issueBtn").onclick=e=>{ e.preventDefault(); openDone(); };
+}
+function show(v){
+  document.querySelectorAll("section.view").forEach(s=>s.classList.toggle("on", s.id==="v-"+v));
+  document.querySelectorAll("nav button").forEach(b=>b.classList.toggle("on", b.dataset.v===v));
+  if(v==="home") renderHome();
+  if(v==="prog") renderProg();
+  if(v==="cards"){ if(!cur) buildSession(false); }
+  window.scrollTo(0,0);
+}
+function setMode(m){ S.mode=m; save(); $("mRead").classList.toggle("on",m==="read"); $("mEar").classList.toggle("on",m==="ear"); if(cur) showCard(); }
+
+/* ---------- recordatorio (solo con la página abierta) ---------- */
+function checkReminder(){
+  if(!S.rem.on) return;
+  const now=new Date(), t=today(), hhmm=p2(now.getHours())+":"+p2(now.getMinutes());
+  if(hhmm>=S.rem.time && S.rem.last!==t && !practiced(t)){
+    S.rem.last=t; save();
+    try{ if("Notification" in window && Notification.permission==="granted") new Notification("Inglés diario", {body:"Pablo, 5 minutos de tarjetas y listo 🃏"}); }catch(e){}
+    $("remMsg").textContent="⏰ ¡Es tu hora de practicar!";
+  }
+}
+async function toggleReminder(){
+  if(S.rem.on){ S.rem.on=false; save(); renderHome(); return; }
+  S.rem.time=$("remTime").value||"19:30"; S.rem.on=true; S.rem.last="";
+  try{ if("Notification" in window && Notification.permission==="default") await Notification.requestPermission(); }catch(e){}
+  save(); renderHome();
+  if(!("Notification" in window) || Notification.permission!=="granted") $("remMsg").textContent+=" Este navegador no permite notificaciones; verás el aviso aquí en la página.";
+}
+
+/* ---------- HECHO → issue en GitHub (igual que la app de tenis) ---------- */
+const REPO_ISSUE_URL="https://github.com/"+REPO+"/issues/new";
+const hm=d=>p2(d.getHours())+":"+p2(d.getMinutes());
+function doneKinds(){ const k=[]; if($("pT").checked)k.push("tarjetas"); if($("pC").checked)k.push("conversación"); if($("pO").checked)k.push("oído"); return k; }
+function counts(){ let k=0,l=0,n=0; WORDS.forEach(w=>{const v=level(w); if(v==="k")k++; else if(v==="l")l++; else n++;}); return {k,l,n}; }
+function doneTitle(){
+  const t=today(), nT=Math.floor(S.days[t]||0), kinds=doneKinds();
+  return "HECHO "+t+" · "+(kinds.length?kinds.join("+"):"práctica")+" · "+nT+" tarjetas";
+}
+function updateDone(){
+  const t=today(), now=new Date(), c=counts(), title=doneTitle();
+  const body=[
+    "Rutina: Inglés diario",
+    "Fecha: "+t,
+    "Hora: "+hm(now),
+    "Práctica: "+(doneKinds().join(", ")||"práctica"),
+    "Tarjetas hoy: "+Math.floor(S.days[t]||0),
+    "Racha: "+streak()+" días",
+    "Ya las sé: "+c.k+" / "+WORDS.length,
+    "Aprendiendo: "+c.l,
+    "Por conocer: "+c.n
+  ].join("\n");
+  $("sendBtn").href=REPO_ISSUE_URL+"?title="+encodeURIComponent(title)+"&body="+encodeURIComponent(body)+"&labels=hecho";
+  $("doneText").textContent=title;
+}
+function openDone(){
+  markPracticed(0);
+  const nT=Math.floor(S.days[today()]||0);
+  $("pT").checked = nT>0; $("pTn").textContent = nT? "("+nT+" hoy)" : "";
+  const h=new Date().getHours(); $("pC").checked = h<12 && !$("pT").checked; $("pO").checked = h>=19;
+  $("copyMsg2").textContent=""; updateDone(); $("donePanel").classList.add("on");
+}
+async function copyText(t, msgId){
+  let ok=false;
+  try{ if(navigator.clipboard && window.isSecureContext){ ok=await Promise.race([navigator.clipboard.writeText(t).then(()=>true), new Promise(r=>setTimeout(()=>r(false),1500))]); } }catch(e){}
+  if(!ok){ try{ const ta=document.createElement("textarea"); ta.value=t; ta.style.position="fixed"; ta.style.opacity="0"; document.body.appendChild(ta); ta.select(); ok=document.execCommand("copy"); document.body.removeChild(ta);}catch(e){} }
+  $(msgId).textContent= ok ? "✓ Copiado. Pégalo en tu chat de Ingles." : "Mantén presionado el texto para copiarlo.";
+}
+
+/* ---------- copiar ---------- */
+async function copyReport(){
+  const t=$("reportTxt").textContent; let ok=false;
+  try{ if(navigator.clipboard && window.isSecureContext){ ok=await Promise.race([navigator.clipboard.writeText(t).then(()=>true), new Promise(r=>setTimeout(()=>r(false),1500))]); } }catch(e){}
+  if(!ok){ try{ const ta=document.createElement("textarea"); ta.value=t; ta.style.position="fixed"; ta.style.opacity="0"; document.body.appendChild(ta); ta.select(); ok=document.execCommand("copy"); document.body.removeChild(ta);}catch(e){} }
+  $("copyMsg").textContent= ok ? "✓ Copiado. Pégalo en tu chat de Ingles." : "Mantén presionado el texto para copiarlo.";
+}
+
+/* ---------- eventos ---------- */
+document.querySelectorAll("nav button").forEach(b=>b.addEventListener("click",()=>show(b.dataset.v)));
+$("goCards").addEventListener("click",()=>show("cards"));
+$("doneBtn").addEventListener("click",openDone);
+$("finSend").addEventListener("click",openDone);
+["pT","pC","pO"].forEach(id=>$(id).addEventListener("change",updateDone));
+$("copyBtn2").addEventListener("click",()=>copyText($("doneText").textContent,"copyMsg2"));
+$("closeDone").addEventListener("click",()=>{ $("donePanel").classList.remove("on"); renderHome(); });
+$("donePanel").addEventListener("click",e=>{ if(e.target.id==="donePanel"){ $("donePanel").classList.remove("on"); renderHome(); } });
+$("fc").addEventListener("click",e=>{ if(e.target.closest("button")) return; reveal(); });
+$("playW").addEventListener("click",()=>cur&&playWord(cur,false));
+$("playSlow").addEventListener("click",()=>cur&&playWord(cur,true));
+$("playEx").addEventListener("click",()=>cur&&playEx(cur,false));
+document.querySelectorAll("#rate button").forEach(b=>b.addEventListener("click",()=>rate(+b.dataset.r)));
+$("mRead").addEventListener("click",()=>setMode("read"));
+$("mEar").addEventListener("click",()=>setMode("ear"));
+$("moreBtn").addEventListener("click",()=>buildSession(true));
+$("homeBtn").addEventListener("click",()=>show("home"));
+$("remBtn").addEventListener("click",toggleReminder);
+$("remTime").addEventListener("change",()=>{ S.rem.time=$("remTime").value; S.rem.last=""; save(); renderHome(); });
+$("copyBtn").addEventListener("click",copyReport);
+setInterval(checkReminder,30000); document.addEventListener("visibilitychange",()=>{ if(document.visibilityState==="visible"){ renderHome(); checkReminder(); } });
+
+setMode(S.mode); renderHome(); checkReminder();
+if(location.hash==="#tarjetas") show("cards");
+if(location.hash==="#hecho") openDone();
+</script>
+</body>
+</html>
