@@ -1,0 +1,100 @@
+wind|sust|viento|Strong wind today.|Hoy hay mucho viento.
+soldier|sust|soldado|A brave soldier.|Un soldado valiente.
+dirty|adj|sucio|My shoes are dirty.|Mis zapatos están sucios.
+suspect|sust|sospechoso · sospechar|The police have a suspect.|La policía tiene un sospechoso.
+cell|sust|celular · celda|My cell phone.|Mi celular.
+breakfast|sust|desayuno|Breakfast is ready.|El desayuno está listo.
+space|sust|espacio|Give me some space.|Dame espacio.
+prison|sust|prisión / cárcel|Ten years in prison.|Diez años de cárcel.
+ruin|verbo|arruinar|Don't ruin it.|No lo arruines.
+discuss|verbo|hablar de / discutir (un tema)|Let's discuss it.|Hablemos de eso.
+guest|sust|invitado|We have guests tonight.|Esta noche tenemos invitados.
+settle|verbo|arreglar / instalarse|Let's settle this.|Arreglemos esto.
+spirit|sust|espíritu / ánimo|Team spirit.|Espíritu de equipo.
+ear|sust|oreja / oído|Train your ear.|Entrena tu oído.
+suggest|verbo|sugerir|I suggest coffee.|Sugiero un café.
+government|sust|gobierno|The government says no.|El gobierno dice que no.
+freeze|verbo|congelar(se)|Freeze! Don't move!|¡Alto! ¡No se mueva!
+egg|sust|huevo|Eggs for breakfast.|Huevos de desayuno.
+pardon|interj|perdón / ¿cómo?|Pardon?|¿Perdón? ¿Cómo dijo?
+nurse|sust|enfermera / enfermero|Ask the nurse.|Pregúntale a la enfermera.
+south|sust|sur|South America.|Sudamérica.
+queen|sust|reina|I love Queen's music.|Me encanta la música de Queen.
+flight|sust|vuelo|My flight is at nine.|Mi vuelo es a las nueve.
+sea|sust|mar|I love the sea.|Me encanta el mar.
+sweetheart|sust|cariño / amor|Good morning, sweetheart.|Buenos días, amor.
+seriously|adv|en serio|Seriously?|¿En serio?
+bottle|sust|botella|A bottle of water.|Una botella de agua.
+dare|verbo|atreverse|Don't you dare!|¡Ni se te ocurra!
+hire|verbo|contratar|They hired me!|¡Me contrataron!
+rain|sust|lluvia · llover|It's going to rain.|Va a llover.
+north|sust|norte|North of Quito.|Al norte de Quito.
+wash|verbo|lavar|Wash your hands.|Lávate las manos.
+fail|verbo|fallar / reprobar|It's okay to fail.|Está bien fallar.
+department|sust|departamento / área|The sales department.|El área de ventas.
+escape|verbo|escapar|Escape the traffic.|Escapar del tráfico.
+remind|verbo|recordar (a alguien)|Remind me tomorrow.|Recuérdamelo mañana.
+pal|sust|amigo / pana|Thanks, pal.|Gracias, pana.
+awful|adj|horrible / terrible|Awful weather.|Un clima horrible.
+shake|verbo|sacudir · dar la mano|Shake hands.|Dense la mano.
+sad|adj|triste|Don't be sad.|No estés triste.
+favorite|adj|favorito|My favorite song.|Mi canción favorita.
+usually|adv|normalmente / por lo general|I usually walk.|Normalmente camino.
+grand|adj|grande / grandioso|Grand opening.|Gran inauguración.
+sergeant|sust|sargento|Yes, sergeant.|Sí, sargento.
+pants|sust|pantalón|Black pants.|Pantalón negro.
+upon|prep|sobre / en|Once upon a time.|Había una vez.
+double|adj|doble|A double coffee.|Un café doble.
+hero|sust|héroe|You're my hero.|Eres mi héroe.
+twice|adv|dos veces|Twice a week.|Dos veces por semana.
+whose|pron|de quién|Whose phone is this?|¿De quién es este teléfono?
+plenty|pron|de sobra / bastante|Plenty of time.|Tiempo de sobra.
+guilty|adj|culpable|I feel guilty.|Me siento culpable.
+code|sust|código|What's the code?|¿Cuál es el código?
+base|sust|base|Back to base.|De vuelta a la base.
+level|sust|nivel|My English level.|Mi nivel de inglés.
+copy|sust|copia · copiar|Make a copy.|Saca una copia.
+remain|verbo|quedarse / permanecer|Please remain seated.|Por favor, permanezcan sentados.
+bathroom|sust|baño|Where is the bathroom?|¿Dónde está el baño?
+tooth|sust|diente (teeth = dientes)|Brush your teeth.|Lávate los dientes.
+sheriff|sust|sheriff / alguacil|The sheriff is here.|El sheriff está aquí.
+river|sust|río|A long river.|Un río largo.
+price|sust|precio|What's the price?|¿Cuál es el precio?
+beach|sust|playa|Let's go to the beach.|Vamos a la playa.
+glass|sust|vaso · vidrio|A glass of water.|Un vaso de agua.
+pretend|verbo|fingir|Don't pretend.|No finjas.
+west|sust|oeste|Go west.|Ve al oeste.
+obviously|adv|obviamente|Obviously!|¡Obvio!
+wine|sust|vino|A glass of wine.|Una copa de vino.
+difficult|adj|difícil|It's not difficult.|No es difícil.
+wound|sust|herida|A small wound.|Una herida pequeña.
+travel|verbo|viajar|I love to travel.|Me encanta viajar.
+rid|verbo|deshacerse (get rid of)|Get rid of it.|Deshazte de eso.
+account|sust|cuenta|My bank account.|Mi cuenta de banco.
+risk|sust|riesgo|No risk.|Sin riesgo.
+chase|verbo|perseguir|The dog chases the cat.|El perro persigue al gato.
+neck|sust|cuello|My neck hurts.|Me duele el cuello.
+complete|adj|completo · completar|Complete the form.|Llena el formulario.
+extra|adj|extra / adicional|Extra cheese, please.|Queso extra, por favor.
+within|prep|dentro de|Within an hour.|Dentro de una hora.
+low|adj|bajo|Low price.|Precio bajo.
+impossible|adj|imposible|Nothing is impossible.|Nada es imposible.
+chair|sust|silla|Take a chair.|Toma una silla.
+gay|adj|gay|My cousin is gay.|Mi primo es gay.
+angry|adj|enojado / bravo|Don't be angry.|No te enojes.
+bunch|sust|montón / racimo|A bunch of bananas.|Un racimo de guineos.
+form|sust|formulario · forma|Fill out the form.|Llena el formulario.
+duty|sust|deber / turno|On duty.|De turno.
+band|sust|banda / grupo musical|My favorite band.|Mi banda favorita.
+clock|sust|reloj (de pared)|Look at the clock.|Mira el reloj.
+tea|sust|té|A cup of tea.|Una taza de té.
+bless|verbo|bendecir|Bless you!|¡Salud! (al estornudar)
+disappear|verbo|desaparecer|My keys disappeared.|Mis llaves desaparecieron.
+issue|sust|problema / tema|No issue.|No hay problema.
+kitchen|sust|cocina|I'm in the kitchen.|Estoy en la cocina.
+cup|sust|taza|A cup of coffee.|Una taza de café.
+corner|sust|esquina|At the corner.|En la esquina.
+hill|sust|colina / loma|Up the hill.|Loma arriba.
+feeling|sust|sentimiento / sensación|I have a good feeling.|Tengo un buen presentimiento.
+camp|sust|campamento · acampar|Summer camp.|Campamento de verano.
+often|adv|a menudo / seguido|I often walk.|Camino seguido.

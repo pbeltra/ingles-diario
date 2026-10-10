@@ -1,0 +1,100 @@
+over|prep|sobre / encima / terminado|The game is over.|El partido terminó.
+love|verbo|amar / encantar|I love you.|Te quiero.
+more|adv|más|More coffee, please.|Más café, por favor.
+find|verbo|encontrar|I can't find my keys.|No encuentro mis llaves.
+work|verbo|trabajar|I work today.|Hoy trabajo.
+very|adv|muy|Very good!|¡Muy bien!
+off|adv|apagado / fuera|Turn off the light.|Apaga la luz.
+mr|sust|señor (Sr.)|Good morning, Mr. Smith.|Buenos días, señor Smith.
+sorry|adj|perdón / lo siento|I'm sorry.|Lo siento.
+please|interj|por favor|Water, please.|Agua, por favor.
+try|verbo|intentar / probar|Try this.|Prueba esto.
+thank|verbo|agradecer|Thank you!|¡Gracias!
+day|sust|día|Have a good day!|¡Que tengas un buen día!
+people|sust|gente / personas|Many people work here.|Mucha gente trabaja aquí.
+sure|adj|seguro / claro|Sure, no problem.|Claro, no hay problema.
+any|det|algún / nada de / cualquier|Do you have any money?|¿Tienes algo de dinero?
+only|adv|solo / único|Only one, please.|Solo uno, por favor.
+wait|verbo|esperar|Wait for me.|Espérame.
+because|conj|porque|I'm tired because I work a lot.|Estoy cansado porque trabajo mucho.
+two|num|dos|Two coffees, please.|Dos cafés, por favor.
+should|verbo|debería|You should rest.|Deberías descansar.
+help|verbo|ayudar|Can you help me?|¿Me puedes ayudar?
+hear|verbo|oír / escuchar|I can't hear you.|No te oigo.
+even|adv|incluso / aun|Even on Sunday.|Incluso el domingo.
+feel|verbo|sentir / sentirse|I feel good.|Me siento bien.
+much|adv|mucho|Thank you very much.|Muchas gracias.
+happen|verbo|pasar / ocurrir|What happened?|¿Qué pasó?
+sir|sust|señor|Yes, sir.|Sí, señor.
+maybe|adv|tal vez / quizás|Maybe tomorrow.|Tal vez mañana.
+god|sust|Dios|Thank God!|¡Gracias a Dios!
+put|verbo|poner|Put it here.|Ponlo aquí.
+anything|pron|algo / nada / cualquier cosa|Do you need anything?|¿Necesitas algo?
+these|pron|estos / estas|These are my kids.|Estos son mis hijos.
+night|sust|noche|Good night!|¡Buenas noches!
+keep|verbo|guardar / mantener / seguir|Keep the change.|Quédate con el cambio.
+great|adj|genial / grande|That's great!|¡Qué bien!
+nothing|pron|nada|Nothing, thanks.|Nada, gracias.
+year|sust|año|Happy New Year!|¡Feliz año nuevo!
+into|prep|dentro de / hacia|Get into the car.|Súbete al carro.
+ask|verbo|preguntar / pedir|Ask me.|Pregúntame.
+first|adj|primero|First, coffee.|Primero, café.
+kill|verbo|matar|The heat is killing me.|El calor me está matando.
+other|adj|otro / otra|The other day.|El otro día.
+stop|verbo|parar / dejar de|Stop here, please.|Pare aquí, por favor.
+life|sust|vida|Life is good.|La vida es buena.
+before|prep|antes (de)|Wash your hands before eating.|Lávate las manos antes de comer.
+better|adj|mejor|I feel better.|Me siento mejor.
+again|adv|otra vez / de nuevo|Say it again, please.|Dilo otra vez, por favor.
+still|adv|todavía / aún|I'm still at work.|Todavía estoy en el trabajo.
+home|sust|casa / hogar|I'm home!|¡Ya llegué a casa!
+big|adj|grande|A big house.|Una casa grande.
+long|adj|largo / mucho tiempo|It's a long day.|Es un día largo.
+kid|sust|niño / hijo|My kids are at school.|Mis hijos están en la escuela.
+use|verbo|usar|I use my phone.|Uso mi teléfono.
+name|sust|nombre|My name is Pablo.|Me llamo Pablo.
+girl|sust|chica / niña|She's a smart girl.|Es una chica inteligente.
+boy|sust|chico / niño|He's a good boy.|Es un buen chico.
+those|pron|esos / esas / aquellos|Those shoes are nice.|Esos zapatos son bonitos.
+leave|verbo|salir / irse / dejar|I leave at seven.|Salgo a las siete.
+than|conj|que (comparar)|Better than yesterday.|Mejor que ayer.
+around|prep|alrededor / por ahí|See you around.|Nos vemos por ahí.
+last|adj|último / pasado|Last night.|Anoche.
+away|adv|lejos / fuera|Go away!|¡Vete!
+friend|sust|amigo / amiga|He's my friend.|Es mi amigo.
+new|adj|nuevo|I have a new phone.|Tengo un teléfono nuevo.
+ever|adv|alguna vez / nunca|Have you ever been to Quito?|¿Alguna vez has estado en Quito?
+live|verbo|vivir|I live in Ecuador.|Vivo en Ecuador.
+must|verbo|deber / tener que|I must go.|Tengo que irme.
+dad|sust|papá|My dad is at home.|Mi papá está en casa.
+believe|verbo|creer|I believe you.|Te creo.
+meet|verbo|conocer / reunirse|Nice to meet you.|Mucho gusto.
+after|prep|después (de)|After work, I rest.|Después del trabajo, descanso.
+place|sust|lugar|Nice place!|¡Qué lindo lugar!
+always|adv|siempre|I always drink coffee.|Siempre tomo café.
+their|det|su / sus (de ellos)|This is their house.|Esta es la casa de ellos.
+everything|pron|todo|Everything is fine.|Todo está bien.
+miss|verbo|extrañar / perder (bus)|I miss you.|Te extraño.
+old|adj|viejo / antiguo|How old are you?|¿Cuántos años tienes?
+minute|sust|minuto|Wait a minute.|Espera un minuto.
+nice|adj|lindo / amable / agradable|Nice to meet you.|Mucho gusto.
+start|verbo|empezar|Let's start.|Empecemos.
+money|sust|dinero / plata|I need money.|Necesito plata.
+move|verbo|mover / mudarse|Don't move.|No te muevas.
+woman|sust|mujer|She is a strong woman.|Es una mujer fuerte.
+lot|sust|mucho / montón|Thanks a lot.|Muchas gracias.
+listen|verbo|escuchar|Listen to me.|Escúchame.
+stay|verbo|quedarse|Stay here.|Quédate aquí.
+run|verbo|correr|I run in the morning.|Corro en la mañana.
+thanks|interj|gracias|Thanks for everything.|Gracias por todo.
+show|verbo|mostrar / enseñar|Show me.|Muéstrame.
+kind|sust|tipo / clase · amable|What kind of music?|¿Qué tipo de música?
+mom|sust|mamá|I call my mom every day.|Llamo a mi mamá todos los días.
+fine|adj|bien / bueno|I'm fine, thanks.|Estoy bien, gracias.
+play|verbo|jugar / tocar|I play tennis.|Juego tenis.
+hello|interj|hola|Hello, how are you?|Hola, ¿cómo estás?
+bring|verbo|traer|Bring me the bill, please.|Tráigame la cuenta, por favor.
+remember|verbo|recordar / acordarse|I remember you.|Me acuerdo de ti.
+father|sust|padre|My father is a teacher.|Mi padre es profesor.
+hold|verbo|sostener / esperar|Hold on, please.|Espere un momento, por favor.
+hi|interj|hola|Hi, Pablo!|¡Hola, Pablo!

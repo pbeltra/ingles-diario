@@ -1,0 +1,100 @@
+office|sust|oficina|I'm at the office.|Estoy en la oficina.
+become|verbo|llegar a ser / volverse|He became a doctor.|Llegó a ser médico.
+follow|verbo|seguir|Follow me.|Sígueme.
+different|adj|diferente / distinto|It's different.|Es diferente.
+moment|sust|momento|One moment, please.|Un momento, por favor.
+captain|sust|capitán|He's the team captain.|Es el capitán del equipo.
+sister|sust|hermana|My sister is a nurse.|Mi hermana es enfermera.
+least|adv|lo menos · al menos|At least you tried.|Al menos lo intentaste.
+important|adj|importante|It's important.|Es importante.
+dinner|sust|cena|Dinner is ready.|La cena está lista.
+picture|sust|foto / imagen|Take a picture.|Toma una foto.
+also|adv|también|I also work on Saturday.|También trabajo el sábado.
+drop|verbo|dejar caer / dejar (a alguien)|I drop my son at school.|Dejo a mi hijo en la escuela.
+yours|pron|tuyo / tuya|Is this yours?|¿Esto es tuyo?
+date|sust|fecha · cita|What's the date today?|¿Qué fecha es hoy?
+quite|adv|bastante|Quite good.|Bastante bueno.
+husband|sust|esposo|Her husband is nice.|Su esposo es amable.
+clear|adj|claro|Is that clear?|¿Está claro?
+against|prep|contra|Ecuador against Brazil.|Ecuador contra Brasil.
+touch|verbo|tocar|Don't touch it.|No lo toques.
+sign|verbo|firmar · señal|Sign here, please.|Firme aquí, por favor.
+wonder|verbo|preguntarse|I wonder why.|Me pregunto por qué.
+trust|verbo|confiar|Trust me.|Confía en mí.
+fact|sust|hecho / dato|In fact, I'm tired.|De hecho, estoy cansado.
+six|num|seis|At six o'clock.|A las seis.
+half|sust|mitad / medio|Half an hour.|Media hora.
+ahead|adv|adelante|Go ahead.|Adelante.
+pass|verbo|pasar / aprobar|Pass me the salt.|Pásame la sal.
+learn|verbo|aprender|I learn English every day.|Aprendo inglés todos los días.
+gentleman|sust|caballero|Ladies and gentlemen.|Damas y caballeros.
+cool|adj|genial / fresco|That's cool!|¡Qué chévere!
+bed|sust|cama|I go to bed at ten.|Me acuesto a las diez.
+high|adj|alto|The price is high.|El precio es alto.
+spend|verbo|gastar / pasar (tiempo)|I spend time with my family.|Paso tiempo con mi familia.
+almost|adv|casi|Almost ready.|Casi listo.
+truth|sust|verdad|Tell me the truth.|Dime la verdad.
+stick|verbo|pegar / quedarse · palo|Stick with me.|Quédate conmigo.
+bet|verbo|apostar|I bet you're tired.|Apuesto a que estás cansado.
+finish|verbo|terminar|I finish work at five.|Termino el trabajo a las cinco.
+hot|adj|caliente / caluroso|The coffee is hot.|El café está caliente.
+sell|verbo|vender|They sell fruit here.|Aquí venden fruta.
+build|verbo|construir|They build houses.|Construyen casas.
+anymore|adv|ya no|I don't smoke anymore.|Ya no fumo.
+behind|prep|detrás de|Behind the door.|Detrás de la puerta.
+blood|sust|sangre|Blood test.|Examen de sangre.
+foot|sust|pie|My foot hurts.|Me duele el pie.
+shall|verbo|¿…? (sugerir)|Shall we go?|¿Nos vamos?
+ride|verbo|montar / ir en|I ride my bike.|Ando en bici.
+power|sust|poder · energía (luz)|The power is out.|Se fue la luz.
+act|verbo|actuar|Act normal.|Actúa normal.
+stupid|adj|tonto / estúpido|Don't be stupid.|No seas tonto.
+war|sust|guerra|No more war.|No más guerra.
+scare|verbo|asustar|You scared me!|¡Me asustaste!
+along|prep|a lo largo de / junto|Come along.|Ven con nosotros.
+either|adv|tampoco · cualquiera|Me either.|Yo tampoco.
+though|adv|aunque / sin embargo|Thanks, though.|Gracias, de todos modos.
+front|sust|frente / delante|In front of the house.|Frente a la casa.
+beat|verbo|ganar a / vencer · golpear|We beat them!|¡Les ganamos!
+daughter|sust|hija|My daughter is six.|Mi hija tiene seis años.
+fast|adj|rápido|You walk fast.|Caminas rápido.
+kiss|verbo|besar · beso|Give me a kiss.|Dame un beso.
+bye|interj|chao / adiós|Bye, see you!|¡Chao, nos vemos!
+street|sust|calle|Cross the street.|Cruza la calle.
+begin|verbo|empezar|Let's begin.|Empecemos.
+welcome|interj|bienvenido|Welcome home!|¡Bienvenido a casa!
+sometimes|adv|a veces|Sometimes I walk.|A veces camino.
+blow|verbo|soplar|Blow out the candles.|Sopla las velas.
+expect|verbo|esperar (algo)|I expect a call.|Espero una llamada.
+city|sust|ciudad|Quito is a big city.|Quito es una ciudad grande.
+free|adj|libre · gratis|Are you free today?|¿Estás libre hoy?
+win|verbo|ganar|We win!|¡Ganamos!
+white|adj|blanco|White rice.|Arroz blanco.
+between|prep|entre|Between you and me.|Entre tú y yo.
+hurry|verbo|apurarse|Hurry up!|¡Apúrate!
+country|sust|país · campo|My country is Ecuador.|Mi país es Ecuador.
+its|det|su (de una cosa)|The dog wants its food.|El perro quiere su comida.
+glad|adj|contento|I'm glad you're here.|Me alegra que estés aquí.
+cop|sust|policía (informal)|The cop stopped me.|El policía me paró.
+murder|sust|asesinato|A murder movie.|Una película de asesinato.
+outside|adv|afuera|Let's eat outside.|Comamos afuera.
+steal|verbo|robar|They stole my phone.|Me robaron el celular.
+fly|verbo|volar|I fly to Miami.|Vuelo a Miami.
+movie|sust|película|Let's watch a movie.|Veamos una película.
+black|adj|negro|Black coffee.|Café negro.
+full|adj|lleno|I'm full.|Estoy lleno.
+till|prep|hasta|Till tomorrow.|Hasta mañana.
+sick|adj|enfermo|I'm sick today.|Hoy estoy enfermo.
+news|sust|noticias|Good news!|¡Buenas noticias!
+wonderful|adj|maravilloso|A wonderful day.|Un día maravilloso.
+step|sust|paso|Step by step.|Paso a paso.
+team|sust|equipo|My team won.|Mi equipo ganó.
+bear|sust|oso · soportar|I can't bear it.|No lo soporto.
+state|sust|estado|The United States.|Los Estados Unidos.
+clean|verbo|limpiar · limpio|I clean the kitchen.|Limpio la cocina.
+report|sust|informe / reporte|I write a report.|Escribo un informe.
+wow|interj|guau / ¡qué bien!|Wow, nice car!|¡Guau, qué lindo carro!
+able|adj|capaz / poder|I'm able to help.|Puedo ayudar.
+surprise|sust|sorpresa|What a surprise!|¡Qué sorpresa!
+dress|sust|vestido · vestirse|I get dressed.|Me visto.
+piece|sust|pedazo / pieza|A piece of cake.|Un pedazo de pastel.

@@ -1,0 +1,100 @@
+through|prep|a través de / por|Walk through the park.|Camina por el parque.
+every|det|cada / todos los|I run every day.|Corro todos los días.
+understand|verbo|entender|I don't understand.|No entiendo.
+care|verbo|importar / cuidar|Take care!|¡Cuídate!
+bad|adj|malo|Not bad.|Nada mal.
+baby|sust|bebé|The baby is sleeping.|El bebé está durmiendo.
+three|num|tres|Three days.|Tres días.
+house|sust|casa|My house is small.|Mi casa es pequeña.
+hand|sust|mano|Wash your hands.|Lávate las manos.
+car|sust|carro / auto|My car is red.|Mi carro es rojo.
+wrong|adj|equivocado / mal|Something is wrong.|Algo anda mal.
+might|verbo|podría (quizás)|It might rain.|Puede que llueva.
+may|verbo|poder (permiso / quizás)|May I come in?|¿Puedo pasar?
+die|verbo|morir|My plant died.|Mi planta se murió.
+another|det|otro / otra|Another coffee, please.|Otro café, por favor.
+mind|sust|mente · importar|Do you mind?|¿Te molesta?
+turn|verbo|girar / voltear / turno|Turn left.|Gira a la izquierda.
+enough|adj|suficiente / bastante|That's enough.|Es suficiente.
+lose|verbo|perder|I always lose my keys.|Siempre pierdo mis llaves.
+mother|sust|madre|My mother cooks well.|Mi madre cocina bien.
+own|adj|propio|My own house.|Mi propia casa.
+course|sust|curso · claro|Of course!|¡Por supuesto!
+left|adj|izquierda · se fue|Turn left.|Gira a la izquierda.
+head|sust|cabeza|My head hurts.|Me duele la cabeza.
+which|pron|cuál / que|Which one?|¿Cuál?
+guess|verbo|adivinar / suponer|Guess what!|¡Adivina qué!
+room|sust|cuarto / habitación|My room is clean.|Mi cuarto está limpio.
+watch|verbo|mirar / ver · reloj|I watch TV at night.|Veo televisión en la noche.
+world|sust|mundo|The world is big.|El mundo es grande.
+break|verbo|romper · descanso|Let's take a break.|Tomemos un descanso.
+shoot|verbo|disparar / filmar|Shoot the ball!|¡Patea al arco!
+next|adj|siguiente / próximo|See you next week.|Nos vemos la próxima semana.
+else|adv|más / otro|Anything else?|¿Algo más?
+dead|adj|muerto|My phone is dead.|Mi teléfono no tiene batería.
+someone|pron|alguien|Someone is at the door.|Alguien está en la puerta.
+sit|verbo|sentarse|Sit here.|Siéntate aquí.
+real|adj|real / verdadero|Is it real?|¿Es real?
+job|sust|trabajo / empleo|I like my job.|Me gusta mi trabajo.
+morning|sust|mañana|Good morning!|¡Buenos días!
+yourself|pron|tú mismo / te|Take care of yourself.|Cuídate.
+today|adv|hoy|Today is a good day.|Hoy es un buen día.
+son|sust|hijo|My son is ten.|Mi hijo tiene diez años.
+drink|verbo|beber / tomar|I drink water.|Tomo agua.
+forget|verbo|olvidar|Don't forget your keys.|No olvides tus llaves.
+same|adj|mismo|Same as always.|Lo mismo de siempre.
+tonight|adv|esta noche|See you tonight.|Nos vemos esta noche.
+open|verbo|abrir · abierto|Open the window.|Abre la ventana.
+worry|verbo|preocuparse|Don't worry.|No te preocupes.
+problem|sust|problema|No problem.|No hay problema.
+best|adj|mejor (el mejor)|You're the best!|¡Eres el mejor!
+matter|verbo|importar · asunto|It doesn't matter.|No importa.
+hope|verbo|esperar (desear)|I hope so.|Eso espero.
+idea|sust|idea|Good idea!|¡Buena idea!
+pay|verbo|pagar|I'll pay.|Yo pago.
+change|verbo|cambiar · cambio|Keep the change.|Quédate con el cambio.
+pretty|adj|bonito / bastante|Pretty good.|Bastante bien.
+ready|adj|listo|I'm ready.|Estoy listo.
+whole|adj|entero / todo|The whole day.|Todo el día.
+together|adv|juntos|Let's eat together.|Comamos juntos.
+excuse|verbo|disculpar|Excuse me.|Disculpe.
+suppose|verbo|suponer|I suppose so.|Supongo que sí.
+eat|verbo|comer|Let's eat.|Vamos a comer.
+hour|sust|hora|One hour.|Una hora.
+family|sust|familia|My family is big.|Mi familia es grande.
+check|verbo|revisar · cuenta|Check, please.|La cuenta, por favor.
+week|sust|semana|See you next week.|Nos vemos la próxima semana.
+wife|sust|esposa|My wife is at home.|Mi esposa está en casa.
+send|verbo|enviar / mandar|Send me a message.|Mándame un mensaje.
+walk|verbo|caminar|I walk to work.|Camino al trabajo.
+seem|verbo|parecer|You seem tired.|Pareces cansado.
+many|adj|muchos|Many thanks.|Muchas gracias.
+marry|verbo|casarse (con)|Will you marry me?|¿Te casarías conmigo?
+word|sust|palabra|One more word.|Una palabra más.
+lady|sust|señora / dama|Thank you, lady.|Gracias, señora.
+second|adj|segundo|Wait a second.|Espera un segundo.
+without|prep|sin|Coffee without sugar.|Café sin azúcar.
+close|verbo|cerrar · cerca|Close the door.|Cierra la puerta.
+stand|verbo|estar de pie / soportar|Stand up, please.|Póngase de pie, por favor.
+most|adj|la mayoría / lo más|Most days I walk.|La mayoría de los días camino.
+while|conj|mientras · rato|Wait a while.|Espera un rato.
+school|sust|escuela / colegio|My son goes to school.|Mi hijo va a la escuela.
+once|adv|una vez|Once a week.|Una vez por semana.
+somebody|pron|alguien|Somebody help me!|¡Que alguien me ayude!
+everybody|pron|todos / todo el mundo|Hello, everybody!|¡Hola a todos!
+myself|pron|yo mismo / me|I made it myself.|Lo hice yo mismo.
+end|sust|fin / final|The end of the day.|El final del día.
+yet|adv|todavía / aún|Not yet.|Todavía no.
+speak|verbo|hablar|Do you speak English?|¿Hablas inglés?
+tomorrow|adv|mañana (día)|See you tomorrow.|Nos vemos mañana.
+eye|sust|ojo|Close your eyes.|Cierra los ojos.
+happy|adj|feliz|I'm happy today.|Hoy estoy feliz.
+face|sust|cara|Wash your face.|Lávate la cara.
+child|sust|niño / hijo|She has one child.|Ella tiene un hijo.
+question|sust|pregunta|Can I ask a question?|¿Puedo hacer una pregunta?
+brother|sust|hermano|My brother lives in Quito.|Mi hermano vive en Quito.
+sleep|verbo|dormir|I sleep eight hours.|Duermo ocho horas.
+door|sust|puerta|Open the door.|Abre la puerta.
+actually|adv|en realidad|Actually, I'm fine.|En realidad, estoy bien.
+business|sust|negocio|My own business.|Mi propio negocio.
+already|adv|ya|I already ate.|Ya comí.

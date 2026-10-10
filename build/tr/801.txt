@@ -1,0 +1,100 @@
+relationship|sust|relación|A good relationship.|Una buena relación.
+board|sust|tablero / pizarra · subir (a bordo)|Write it on the board.|Escríbelo en la pizarra.
+fat|adj|gordo · grasa|Low fat milk.|Leche baja en grasa.
+all right|adv|bien / está bien|Are you all right?|¿Estás bien?
+instead|adv|en vez de / en cambio|Tea instead of coffee.|Té en vez de café.
+gold|sust|oro|A gold ring.|Un anillo de oro.
+upset|adj|molesto / triste|Don't be upset.|No te molestes.
+summer|sust|verano|Summer vacation.|Vacaciones de verano.
+prepare|verbo|preparar|I prepare breakfast.|Preparo el desayuno.
+favor|sust|favor|Can you do me a favor?|¿Me haces un favor?
+idiot|sust|idiota|I'm such an idiot!|¡Qué tonto soy!
+bus|sust|bus|I take the bus.|Tomo el bus.
+round|adj|redondo · ronda|A round table.|Una mesa redonda.
+boyfriend|sust|novio|Her boyfriend is nice.|Su novio es amable.
+invite|verbo|invitar|I invite you to dinner.|Te invito a cenar.
+radio|sust|radio|I listen to the radio.|Escucho la radio.
+hungry|adj|con hambre|I'm hungry.|Tengo hambre.
+marriage|sust|matrimonio|A happy marriage.|Un matrimonio feliz.
+witness|sust|testigo|He's a witness.|Él es testigo.
+deep|adj|profundo|Take a deep breath.|Respira profundo.
+breathe|verbo|respirar|Breathe slowly.|Respira despacio.
+sake|sust|bien / por (el bien de)|For God's sake!|¡Por Dios!
+folks|sust|gente · papás|Hi, folks!|¡Hola, gente!
+slow|adj|lento|Slow down, please.|Más despacio, por favor.
+fit|verbo|quedar (bien) · en forma|It fits well.|Me queda bien.
+private|adj|privado|A private room.|Un cuarto privado.
+during|prep|durante|During the day.|Durante el día.
+strike|sust|huelga · golpear|A bus strike.|Un paro de buses.
+serve|verbo|servir|Dinner is served.|La cena está servida.
+definitely|adv|definitivamente / sin duda|Definitely yes.|Definitivamente sí.
+bomb|sust|bomba|A bomb movie.|Una película de bombas.
+camera|sust|cámara|Smile for the camera!|¡Sonríe para la cámara!
+tear|sust|lágrima · romper|Don't tear the paper.|No rompas el papel.
+dangerous|adj|peligroso|It's dangerous.|Es peligroso.
+third|adj|tercero|The third floor.|El tercer piso.
+nose|sust|nariz|My nose is cold.|Tengo la nariz fría.
+client|sust|cliente|I meet a client today.|Hoy me reúno con un cliente.
+killer|sust|asesino|A killer in the movie.|Un asesino en la película.
+english|sust|inglés|I speak a little English.|Hablo un poco de inglés.
+hat|sust|sombrero / gorra|Nice hat!|¡Lindo sombrero!
+arrive|verbo|llegar|I arrive at eight.|Llego a las ocho.
+student|sust|estudiante|I'm a student.|Soy estudiante.
+hole|sust|hueco / agujero|A hole in the road.|Un hueco en la calle.
+beg|verbo|rogar / suplicar|I beg you.|Te lo ruego.
+action|sust|acción|Action movie.|Película de acción.
+evil|adj|malvado / malo|An evil man.|Un hombre malvado.
+warn|verbo|advertir / avisar|I warned you.|Te lo advertí.
+search|verbo|buscar · búsqueda|Search on Google.|Busca en Google.
+accept|verbo|aceptar|Do you accept cards?|¿Aceptan tarjetas?
+green|adj|verde|Green tea.|Té verde.
+cash|sust|efectivo|Cash or card?|¿Efectivo o tarjeta?
+forward|adv|adelante|Move forward.|Sigue adelante.
+honest|adj|honesto / sincero|To be honest…|Para ser sincero…
+fella|sust|tipo / amigo|Nice fella.|Buen tipo.
+single|adj|soltero · solo|I'm single.|Soy soltero.
+chicken|sust|pollo|Rice with chicken.|Arroz con pollo.
+fellow|sust|compañero / tipo|My fellow workers.|Mis compañeros de trabajo.
+press|verbo|presionar · la prensa|Press the button.|Presiona el botón.
+blame|verbo|culpar|Don't blame me.|No me culpes.
+bird|sust|pájaro|I hear the birds.|Oigo los pájaros.
+trick|sust|truco|A magic trick.|Un truco de magia.
+victim|sust|víctima|The victim is okay.|La víctima está bien.
+public|adj|público|Public transport.|Transporte público.
+congratulations|interj|felicitaciones|Congratulations!|¡Felicitaciones!
+match|sust|partido · fósforo|A tennis match.|Un partido de tenis.
+memory|sust|memoria · recuerdo|Good memories.|Buenos recuerdos.
+upstairs|adv|arriba (piso)|My room is upstairs.|Mi cuarto está arriba.
+cost|verbo|costar · costo|How much does it cost?|¿Cuánto cuesta?
+jail|sust|cárcel|He's in jail.|Está en la cárcel.
+normal|adj|normal|A normal day.|Un día normal.
+decision|sust|decisión|Good decision.|Buena decisión.
+flower|sust|flor|Flowers for my mom.|Flores para mi mamá.
+type|sust|tipo · escribir (teclado)|Type your name.|Escribe tu nombre.
+feed|verbo|dar de comer|I feed my dog.|Le doy de comer a mi perro.
+finger|sust|dedo|My finger hurts.|Me duele el dedo.
+heaven|sust|cielo (paraíso)|Thank heaven!|¡Gracias al cielo!
+computer|sust|computadora|I work on my computer.|Trabajo en mi computadora.
+sun|sust|sol|The sun is hot.|El sol está fuerte.
+church|sust|iglesia|We go to church on Sunday.|Vamos a la iglesia el domingo.
+deserve|verbo|merecer|You deserve it.|Te lo mereces.
+peace|sust|paz|Peace and quiet.|Paz y tranquilidad.
+professor|sust|profesor (universidad)|My professor is nice.|Mi profesor es buena gente.
+french|sust|francés|French fries.|Papas fritas.
+doubt|sust|duda · dudar|No doubt.|Sin duda.
+nut|sust|nuez / fruto seco|I eat nuts.|Como nueces.
+taste|verbo|saber (sabor) · probar|It tastes good.|Sabe rico.
+weekend|sust|fin de semana|Have a nice weekend!|¡Buen fin de semana!
+dig|verbo|cavar|Dig a hole.|Cava un hueco.
+admit|verbo|admitir|I admit it.|Lo admito.
+holy|adj|santo / sagrado|Holy Week.|Semana Santa.
+block|sust|cuadra · bloque|Two blocks from here.|A dos cuadras de aquí.
+enemy|sust|enemigo|No enemies.|Sin enemigos.
+detective|sust|detective|A detective movie.|Una película de detectives.
+gas|sust|gasolina · gas|I need gas.|Necesito gasolina.
+neither|adv|tampoco / ninguno|Me neither.|Yo tampoco.
+nine|num|nueve|At nine o'clock.|A las nueve.
+especially|adv|especialmente|Especially on Monday.|Especialmente el lunes.
+nervous|adj|nervioso|I'm nervous.|Estoy nervioso.
+whether|conj|si (o no)|I don't know whether to go.|No sé si ir.
+teacher|sust|profesor / maestro|My English teacher.|Mi profesor de inglés.

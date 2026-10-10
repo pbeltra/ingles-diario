@@ -1,0 +1,100 @@
+you|pron|tú / usted|I see you.|Te veo.
+I|pron|yo|I want coffee.|Yo quiero café.
+be|verbo|ser / estar|I am tired.|Estoy cansado.
+the|art|el / la / los / las|Open the door.|Abre la puerta.
+to|prep|a / hacia / para|I go to work.|Voy al trabajo.
+a|art|un / una|I have a car.|Tengo un carro.
+it|pron|eso / lo / la|I like it.|Me gusta.
+that|pron|eso / ese / que|That is my car.|Ese es mi carro.
+and|conj|y|Coffee and bread.|Café y pan.
+of|prep|de|A cup of coffee.|Una taza de café.
+do|verbo|hacer|What do you do?|¿A qué te dedicas?
+what|pron|qué / lo que|What is your name?|¿Cómo te llamas?
+in|prep|en / dentro de|I am in the car.|Estoy en el carro.
+have|verbo|tener|I have a car.|Tengo un carro.
+me|pron|me / mí|Call me.|Llámame.
+we|pron|nosotros|We eat at home.|Comemos en casa.
+get|verbo|conseguir / obtener|I get a coffee.|Consigo un café.
+this|pron|esto / este / esta|This is my house.|Esta es mi casa.
+he|pron|él|He is my brother.|Él es mi hermano.
+on|prep|en / sobre / encendido|The phone is on the table.|El teléfono está en la mesa.
+for|prep|para / por|This is for you.|Esto es para ti.
+go|verbo|ir|I go to work.|Voy al trabajo.
+my|det|mi / mis|This is my phone.|Este es mi teléfono.
+know|verbo|saber / conocer|I don't know.|No sé.
+your|det|tu / tus / su|Is this your bag?|¿Es tu bolso?
+no|interj|no / ningún|No, thank you.|No, gracias.
+not|adv|no|I am not hungry.|No tengo hambre.
+can|verbo|poder|I can help.|Puedo ayudar.
+all|det|todo / todos|All my friends are here.|Todos mis amigos están aquí.
+with|prep|con|Coffee with milk.|Café con leche.
+just|adv|solo / justo / recién|Just a little.|Solo un poco.
+here|adv|aquí / acá|Come here!|¡Ven aquí!
+but|conj|pero|I'm tired, but happy.|Estoy cansado, pero feliz.
+come|verbo|venir|Come here!|¡Ven aquí!
+there|adv|allí / allá / hay|There is a problem.|Hay un problema.
+so|adv|tan / entonces / así que|I'm so tired.|Estoy tan cansado.
+like|verbo|gustar / como|I like coffee.|Me gusta el café.
+they|pron|ellos / ellas|They are my friends.|Ellos son mis amigos.
+right|adj|correcto / derecho / ahora mismo|You are right.|Tienes razón.
+think|verbo|pensar / creer|I think so.|Creo que sí.
+out|adv|fuera / afuera|Get out!|¡Sal de aquí!
+she|pron|ella|She is my wife.|Ella es mi esposa.
+up|adv|arriba|I get up early.|Me levanto temprano.
+about|prep|sobre / acerca de|Tell me about your day.|Cuéntame de tu día.
+want|verbo|querer|I want water.|Quiero agua.
+if|conj|si|If you want, we can go.|Si quieres, podemos ir.
+see|verbo|ver|See you!|¡Nos vemos!
+him|pron|lo / le / él|I know him.|Lo conozco.
+say|verbo|decir|Say hello.|Di hola.
+oh|interj|oh / ah|Oh, I see.|Ah, ya veo.
+at|prep|en / a (hora, lugar)|I wake up at six.|Me despierto a las seis.
+now|adv|ahora|I'm busy now.|Ahora estoy ocupado.
+one|num|uno / una|One coffee, please.|Un café, por favor.
+how|adv|cómo|How are you?|¿Cómo estás?
+well|adv|bien / bueno…|I feel well.|Me siento bien.
+yeah|interj|sí (informal)|Yeah, sure.|Sí, claro.
+her|pron|la / le / su (de ella)|I call her every day.|La llamo todos los días.
+look|verbo|mirar|Look at me.|Mírame.
+take|verbo|tomar / llevar|I take the bus.|Tomo el bus.
+tell|verbo|contar / decir|Tell me.|Dime. / Cuéntame.
+good|adj|bueno|Good morning!|¡Buenos días!
+let|verbo|dejar / permitir|Let me help you.|Déjame ayudarte.
+make|verbo|hacer|I make coffee.|Hago café.
+why|adv|por qué|Why are you sad?|¿Por qué estás triste?
+who|pron|quién|Who is she?|¿Quién es ella?
+man|sust|hombre|He is a good man.|Es un buen hombre.
+as|conj|como / mientras|As you like.|Como quieras.
+time|sust|tiempo / vez / hora|What time is it?|¿Qué hora es?
+will|verbo|(futuro) -ré / -rás|I will call you.|Te llamaré.
+his|det|su (de él)|This is his car.|Este es su carro.
+from|prep|de / desde|I'm from Ecuador.|Soy de Ecuador.
+when|adv|cuándo / cuando|When do you work?|¿Cuándo trabajas?
+back|adv|atrás / de vuelta|I'll be back soon.|Vuelvo pronto.
+okay|interj|está bien / vale|Okay, let's go.|Está bien, vamos.
+yes|interj|sí|Yes, please.|Sí, por favor.
+where|adv|dónde|Where are you?|¿Dónde estás?
+thing|sust|cosa|One more thing.|Una cosa más.
+them|pron|los / las / ellos|I love them.|Los quiero.
+would|verbo|(condicional) -ría|I would like a coffee.|Me gustaría un café.
+some|det|algo de / unos|I want some water.|Quiero un poco de agua.
+hey|interj|oye / hola|Hey, how are you?|Oye, ¿cómo estás?
+or|conj|o|Coffee or tea?|¿Café o té?
+us|pron|nos / nosotros|Come with us.|Ven con nosotros.
+give|verbo|dar|Give me water, please.|Dame agua, por favor.
+could|verbo|podría / pude|Could you help me?|¿Podrías ayudarme?
+mean|verbo|significar / querer decir|What do you mean?|¿Qué quieres decir?
+need|verbo|necesitar|I need coffee.|Necesito café.
+something|pron|algo|I need something to eat.|Necesito algo de comer.
+really|adv|de verdad / realmente|Really?|¿En serio?
+down|adv|abajo|Sit down, please.|Siéntate, por favor.
+then|adv|entonces / luego|First coffee, then work.|Primero café, luego trabajo.
+talk|verbo|hablar / conversar|Can we talk?|¿Podemos hablar?
+way|sust|camino / manera|This way, please.|Por aquí, por favor.
+little|adj|pequeño / poco|A little sugar.|Un poco de azúcar.
+call|verbo|llamar|I'll call you later.|Te llamo más tarde.
+our|det|nuestro / nuestra|This is our house.|Esta es nuestra casa.
+guy|sust|tipo / chico / pana|He's a nice guy.|Es buena gente.
+too|adv|también / demasiado|Me too.|Yo también.
+never|adv|nunca|I never smoke.|Nunca fumo.
+by|prep|por / junto a / para (fecha)|I go by bus.|Voy en bus.

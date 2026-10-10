@@ -1,0 +1,11792 @@
+[
+{
+"rank": 1,
+"en": "you",
+"freq": 2134713,
+"forms": [
+"you"
+]
+},
+{
+"rank": 2,
+"en": "I",
+"freq": 2038529,
+"forms": [
+"i"
+]
+},
+{
+"rank": 3,
+"en": "be",
+"freq": 1561407,
+"forms": [
+"is",
+"be",
+"are",
+"was",
+"been",
+"were"
+]
+},
+{
+"rank": 4,
+"en": "the",
+"freq": 1501908,
+"forms": [
+"the"
+]
+},
+{
+"rank": 5,
+"en": "to",
+"freq": 1156570,
+"forms": [
+"to"
+]
+},
+{
+"rank": 6,
+"en": "a",
+"freq": 1136250,
+"forms": [
+"a",
+"an"
+]
+},
+{
+"rank": 7,
+"en": "it",
+"freq": 963712,
+"forms": [
+"it"
+]
+},
+{
+"rank": 8,
+"en": "that",
+"freq": 719677,
+"forms": [
+"that"
+]
+},
+{
+"rank": 9,
+"en": "and",
+"freq": 682780,
+"forms": [
+"and"
+]
+},
+{
+"rank": 10,
+"en": "of",
+"freq": 590439,
+"forms": [
+"of"
+]
+},
+{
+"rank": 11,
+"en": "do",
+"freq": 543556,
+"forms": [
+"do",
+"did",
+"doing",
+"does",
+"done"
+]
+},
+{
+"rank": 12,
+"en": "what",
+"freq": 501965,
+"forms": [
+"what"
+]
+},
+{
+"rank": 13,
+"en": "in",
+"freq": 498444,
+"forms": [
+"in"
+]
+},
+{
+"rank": 14,
+"en": "have",
+"freq": 472286,
+"forms": [
+"have",
+"had",
+"has",
+"having"
+]
+},
+{
+"rank": 15,
+"en": "me",
+"freq": 471339,
+"forms": [
+"me"
+]
+},
+{
+"rank": 16,
+"en": "we",
+"freq": 459607,
+"forms": [
+"we"
+]
+},
+{
+"rank": 17,
+"en": "get",
+"freq": 441254,
+"forms": [
+"get",
+"got",
+"getting",
+"gets",
+"gotten"
+]
+},
+{
+"rank": 18,
+"en": "this",
+"freq": 406915,
+"forms": [
+"this"
+]
+},
+{
+"rank": 19,
+"en": "he",
+"freq": 389497,
+"forms": [
+"he"
+]
+},
+{
+"rank": 20,
+"en": "on",
+"freq": 354742,
+"forms": [
+"on"
+]
+},
+{
+"rank": 21,
+"en": "for",
+"freq": 351650,
+"forms": [
+"for"
+]
+},
+{
+"rank": 22,
+"en": "go",
+"freq": 348936,
+"forms": [
+"go",
+"going",
+"went",
+"gone",
+"goes"
+]
+},
+{
+"rank": 23,
+"en": "my",
+"freq": 344899,
+"forms": [
+"my"
+]
+},
+{
+"rank": 24,
+"en": "know",
+"freq": 331696,
+"forms": [
+"know",
+"knew",
+"knows",
+"known",
+"knowing"
+]
+},
+{
+"rank": 25,
+"en": "your",
+"freq": 328715,
+"forms": [
+"your"
+]
+},
+{
+"rank": 26,
+"en": "no",
+"freq": 304549,
+"forms": [
+"no"
+]
+},
+{
+"rank": 27,
+"en": "not",
+"freq": 276673,
+"forms": [
+"not"
+]
+},
+{
+"rank": 28,
+"en": "can",
+"freq": 274690,
+"forms": [
+"can",
+"cannot",
+"cans",
+"canned"
+]
+},
+{
+"rank": 29,
+"en": "all",
+"freq": 263255,
+"forms": [
+"all"
+]
+},
+{
+"rank": 30,
+"en": "with",
+"freq": 257465,
+"forms": [
+"with"
+]
+},
+{
+"rank": 31,
+"en": "just",
+"freq": 242206,
+"forms": [
+"just"
+]
+},
+{
+"rank": 32,
+"en": "here",
+"freq": 230788,
+"forms": [
+"here"
+]
+},
+{
+"rank": 33,
+"en": "but",
+"freq": 225291,
+"forms": [
+"but"
+]
+},
+{
+"rank": 34,
+"en": "come",
+"freq": 222374,
+"forms": [
+"come",
+"coming",
+"came",
+"comes"
+]
+},
+{
+"rank": 35,
+"en": "there",
+"freq": 221754,
+"forms": [
+"there"
+]
+},
+{
+"rank": 36,
+"en": "so",
+"freq": 216452,
+"forms": [
+"so"
+]
+},
+{
+"rank": 37,
+"en": "like",
+"freq": 212173,
+"forms": [
+"like",
+"likes",
+"liked",
+"liking"
+]
+},
+{
+"rank": 38,
+"en": "they",
+"freq": 209250,
+"forms": [
+"they"
+]
+},
+{
+"rank": 39,
+"en": "right",
+"freq": 205938,
+"forms": [
+"right",
+"rights"
+]
+},
+{
+"rank": 40,
+"en": "think",
+"freq": 198081,
+"forms": [
+"think",
+"thought",
+"thinking",
+"thinks"
+]
+},
+{
+"rank": 41,
+"en": "out",
+"freq": 197131,
+"forms": [
+"out"
+]
+},
+{
+"rank": 42,
+"en": "she",
+"freq": 190377,
+"forms": [
+"she"
+]
+},
+{
+"rank": 43,
+"en": "up",
+"freq": 187170,
+"forms": [
+"up"
+]
+},
+{
+"rank": 44,
+"en": "about",
+"freq": 185206,
+"forms": [
+"about"
+]
+},
+{
+"rank": 45,
+"en": "want",
+"freq": 183240,
+"forms": [
+"want",
+"wanted",
+"wants",
+"wanting"
+]
+},
+{
+"rank": 46,
+"en": "if",
+"freq": 180610,
+"forms": [
+"if"
+]
+},
+{
+"rank": 47,
+"en": "see",
+"freq": 178043,
+"forms": [
+"see",
+"seen",
+"saw",
+"seeing",
+"sees"
+]
+},
+{
+"rank": 48,
+"en": "him",
+"freq": 177710,
+"forms": [
+"him"
+]
+},
+{
+"rank": 49,
+"en": "say",
+"freq": 171390,
+"forms": [
+"say",
+"said",
+"says",
+"saying"
+]
+},
+{
+"rank": 50,
+"en": "oh",
+"freq": 167781,
+"forms": [
+"oh"
+]
+},
+{
+"rank": 51,
+"en": "at",
+"freq": 164072,
+"forms": [
+"at"
+]
+},
+{
+"rank": 52,
+"en": "now",
+"freq": 163333,
+"forms": [
+"now"
+]
+},
+{
+"rank": 53,
+"en": "one",
+"freq": 161861,
+"forms": [
+"one",
+"ones"
+]
+},
+{
+"rank": 54,
+"en": "how",
+"freq": 155867,
+"forms": [
+"how"
+]
+},
+{
+"rank": 55,
+"en": "well",
+"freq": 153003,
+"forms": [
+"well",
+"wells"
+]
+},
+{
+"rank": 56,
+"en": "yeah",
+"freq": 152262,
+"forms": [
+"yeah"
+]
+},
+{
+"rank": 57,
+"en": "her",
+"freq": 144627,
+"forms": [
+"her"
+]
+},
+{
+"rank": 58,
+"en": "look",
+"freq": 143429,
+"forms": [
+"look",
+"looking",
+"looks",
+"looked"
+]
+},
+{
+"rank": 59,
+"en": "take",
+"freq": 139217,
+"forms": [
+"take",
+"took",
+"taking",
+"taken",
+"takes"
+]
+},
+{
+"rank": 60,
+"en": "tell",
+"freq": 136023,
+"forms": [
+"tell",
+"told",
+"telling",
+"tells"
+]
+},
+{
+"rank": 61,
+"en": "good",
+"freq": 133117,
+"forms": [
+"good"
+]
+},
+{
+"rank": 62,
+"en": "let",
+"freq": 126294,
+"forms": [
+"let",
+"letting",
+"lets"
+]
+},
+{
+"rank": 63,
+"en": "make",
+"freq": 123046,
+"forms": [
+"make",
+"made",
+"makes",
+"making"
+]
+},
+{
+"rank": 64,
+"en": "why",
+"freq": 114687,
+"forms": [
+"why"
+]
+},
+{
+"rank": 65,
+"en": "who",
+"freq": 113370,
+"forms": [
+"who"
+]
+},
+{
+"rank": 66,
+"en": "man",
+"freq": 113144,
+"forms": [
+"man",
+"men"
+]
+},
+{
+"rank": 67,
+"en": "as",
+"freq": 113068,
+"forms": [
+"as"
+]
+},
+{
+"rank": 68,
+"en": "time",
+"freq": 111875,
+"forms": [
+"time",
+"times",
+"timing"
+]
+},
+{
+"rank": 69,
+"en": "will",
+"freq": 110818,
+"forms": [
+"will",
+"willing"
+]
+},
+{
+"rank": 70,
+"en": "his",
+"freq": 108364,
+"forms": [
+"his"
+]
+},
+{
+"rank": 71,
+"en": "from",
+"freq": 103992,
+"forms": [
+"from"
+]
+},
+{
+"rank": 72,
+"en": "when",
+"freq": 103739,
+"forms": [
+"when"
+]
+},
+{
+"rank": 73,
+"en": "back",
+"freq": 103573,
+"forms": [
+"back",
+"backs",
+"backed",
+"backing"
+]
+},
+{
+"rank": 74,
+"en": "okay",
+"freq": 102320,
+"forms": [
+"okay"
+]
+},
+{
+"rank": 75,
+"en": "yes",
+"freq": 101835,
+"forms": [
+"yes"
+]
+},
+{
+"rank": 76,
+"en": "where",
+"freq": 93341,
+"forms": [
+"where"
+]
+},
+{
+"rank": 77,
+"en": "thing",
+"freq": 90859,
+"forms": [
+"thing",
+"things"
+]
+},
+{
+"rank": 78,
+"en": "them",
+"freq": 90720,
+"forms": [
+"them"
+]
+},
+{
+"rank": 79,
+"en": "would",
+"freq": 90162,
+"forms": [
+"would"
+]
+},
+{
+"rank": 80,
+"en": "some",
+"freq": 88089,
+"forms": [
+"some"
+]
+},
+{
+"rank": 81,
+"en": "hey",
+"freq": 88079,
+"forms": [
+"hey"
+]
+},
+{
+"rank": 82,
+"en": "or",
+"freq": 86970,
+"forms": [
+"or"
+]
+},
+{
+"rank": 83,
+"en": "us",
+"freq": 86478,
+"forms": [
+"us"
+]
+},
+{
+"rank": 84,
+"en": "give",
+"freq": 85741,
+"forms": [
+"give",
+"gave",
+"giving",
+"given",
+"gives"
+]
+},
+{
+"rank": 85,
+"en": "could",
+"freq": 83109,
+"forms": [
+"could"
+]
+},
+{
+"rank": 86,
+"en": "mean",
+"freq": 81799,
+"forms": [
+"mean",
+"means",
+"meant",
+"meaning"
+]
+},
+{
+"rank": 87,
+"en": "need",
+"freq": 79468,
+"forms": [
+"need",
+"needs",
+"needed",
+"needing"
+]
+},
+{
+"rank": 88,
+"en": "something",
+"freq": 76508,
+"forms": [
+"something"
+]
+},
+{
+"rank": 89,
+"en": "really",
+"freq": 76508,
+"forms": [
+"really"
+]
+},
+{
+"rank": 90,
+"en": "down",
+"freq": 76004,
+"forms": [
+"down"
+]
+},
+{
+"rank": 91,
+"en": "then",
+"freq": 75966,
+"forms": [
+"then"
+]
+},
+{
+"rank": 92,
+"en": "talk",
+"freq": 75432,
+"forms": [
+"talk",
+"talking",
+"talked",
+"talks"
+]
+},
+{
+"rank": 93,
+"en": "way",
+"freq": 75294,
+"forms": [
+"way",
+"ways"
+]
+},
+{
+"rank": 94,
+"en": "little",
+"freq": 73766,
+"forms": [
+"little"
+]
+},
+{
+"rank": 95,
+"en": "call",
+"freq": 71680,
+"forms": [
+"call",
+"called",
+"calling",
+"calls"
+]
+},
+{
+"rank": 96,
+"en": "our",
+"freq": 71425,
+"forms": [
+"our"
+]
+},
+{
+"rank": 97,
+"en": "guy",
+"freq": 71091,
+"forms": [
+"guy",
+"guys"
+]
+},
+{
+"rank": 98,
+"en": "too",
+"freq": 69950,
+"forms": [
+"too"
+]
+},
+{
+"rank": 99,
+"en": "never",
+"freq": 69490,
+"forms": [
+"never"
+]
+},
+{
+"rank": 100,
+"en": "by",
+"freq": 68364,
+"forms": [
+"by"
+]
+},
+{
+"rank": 101,
+"en": "over",
+"freq": 67488,
+"forms": [
+"over"
+]
+},
+{
+"rank": 102,
+"en": "love",
+"freq": 67461,
+"forms": [
+"love",
+"loved",
+"loves",
+"loving"
+]
+},
+{
+"rank": 103,
+"en": "more",
+"freq": 66228,
+"forms": [
+"more"
+]
+},
+{
+"rank": 104,
+"en": "find",
+"freq": 66002,
+"forms": [
+"find",
+"found",
+"finding",
+"finds"
+]
+},
+{
+"rank": 105,
+"en": "work",
+"freq": 64708,
+"forms": [
+"work",
+"working",
+"worked",
+"works"
+]
+},
+{
+"rank": 106,
+"en": "very",
+"freq": 63304,
+"forms": [
+"very"
+]
+},
+{
+"rank": 107,
+"en": "off",
+"freq": 60155,
+"forms": [
+"off"
+]
+},
+{
+"rank": 108,
+"en": "mr",
+"freq": 60098,
+"forms": [
+"mr"
+]
+},
+{
+"rank": 109,
+"en": "sorry",
+"freq": 59566,
+"forms": [
+"sorry"
+]
+},
+{
+"rank": 110,
+"en": "please",
+"freq": 57604,
+"forms": [
+"please",
+"pleased"
+]
+},
+{
+"rank": 111,
+"en": "try",
+"freq": 57499,
+"forms": [
+"try",
+"trying",
+"tried",
+"tries"
+]
+},
+{
+"rank": 112,
+"en": "thank",
+"freq": 56877,
+"forms": [
+"thank"
+]
+},
+{
+"rank": 113,
+"en": "day",
+"freq": 56485,
+"forms": [
+"day",
+"days"
+]
+},
+{
+"rank": 114,
+"en": "people",
+"freq": 56252,
+"forms": [
+"people"
+]
+},
+{
+"rank": 115,
+"en": "sure",
+"freq": 56091,
+"forms": [
+"sure"
+]
+},
+{
+"rank": 116,
+"en": "any",
+"freq": 56068,
+"forms": [
+"any"
+]
+},
+{
+"rank": 117,
+"en": "only",
+"freq": 55269,
+"forms": [
+"only"
+]
+},
+{
+"rank": 118,
+"en": "wait",
+"freq": 54902,
+"forms": [
+"wait",
+"waiting",
+"waited",
+"waits"
+]
+},
+{
+"rank": 119,
+"en": "because",
+"freq": 54622,
+"forms": [
+"because"
+]
+},
+{
+"rank": 120,
+"en": "two",
+"freq": 54384,
+"forms": [
+"two"
+]
+},
+{
+"rank": 121,
+"en": "should",
+"freq": 54159,
+"forms": [
+"should"
+]
+},
+{
+"rank": 122,
+"en": "help",
+"freq": 53037,
+"forms": [
+"help",
+"helping",
+"helped",
+"helps"
+]
+},
+{
+"rank": 123,
+"en": "hear",
+"freq": 50849,
+"forms": [
+"hear",
+"heard",
+"hearing",
+"hears"
+]
+},
+{
+"rank": 124,
+"en": "even",
+"freq": 50827,
+"forms": [
+"even",
+"evening"
+]
+},
+{
+"rank": 125,
+"en": "feel",
+"freq": 50246,
+"forms": [
+"feel",
+"feeling",
+"felt",
+"feels"
+]
+},
+{
+"rank": 126,
+"en": "much",
+"freq": 49636,
+"forms": [
+"much"
+]
+},
+{
+"rank": 127,
+"en": "happen",
+"freq": 49576,
+"forms": [
+"happened",
+"happen",
+"happens",
+"happening"
+]
+},
+{
+"rank": 128,
+"en": "sir",
+"freq": 49188,
+"forms": [
+"sir"
+]
+},
+{
+"rank": 129,
+"en": "maybe",
+"freq": 47249,
+"forms": [
+"maybe"
+]
+},
+{
+"rank": 130,
+"en": "god",
+"freq": 47144,
+"forms": [
+"god",
+"gods"
+]
+},
+{
+"rank": 131,
+"en": "put",
+"freq": 46942,
+"forms": [
+"put",
+"putting",
+"puts"
+]
+},
+{
+"rank": 132,
+"en": "anything",
+"freq": 46270,
+"forms": [
+"anything"
+]
+},
+{
+"rank": 133,
+"en": "these",
+"freq": 46104,
+"forms": [
+"these"
+]
+},
+{
+"rank": 134,
+"en": "night",
+"freq": 45895,
+"forms": [
+"night",
+"nights"
+]
+},
+{
+"rank": 135,
+"en": "keep",
+"freq": 45694,
+"forms": [
+"keep",
+"kept",
+"keeps",
+"keeping"
+]
+},
+{
+"rank": 136,
+"en": "great",
+"freq": 44328,
+"forms": [
+"great",
+"greatest"
+]
+},
+{
+"rank": 137,
+"en": "nothing",
+"freq": 43534,
+"forms": [
+"nothing"
+]
+},
+{
+"rank": 138,
+"en": "year",
+"freq": 43177,
+"forms": [
+"years",
+"year"
+]
+},
+{
+"rank": 139,
+"en": "into",
+"freq": 43074,
+"forms": [
+"into"
+]
+},
+{
+"rank": 140,
+"en": "ask",
+"freq": 43067,
+"forms": [
+"ask",
+"asked",
+"asking",
+"asks"
+]
+},
+{
+"rank": 141,
+"en": "first",
+"freq": 42869,
+"forms": [
+"first"
+]
+},
+{
+"rank": 142,
+"en": "kill",
+"freq": 42853,
+"forms": [
+"kill",
+"killed",
+"killing",
+"kills"
+]
+},
+{
+"rank": 143,
+"en": "other",
+"freq": 42566,
+"forms": [
+"other",
+"others"
+]
+},
+{
+"rank": 144,
+"en": "stop",
+"freq": 42093,
+"forms": [
+"stop",
+"stopped",
+"stopping",
+"stops"
+]
+},
+{
+"rank": 145,
+"en": "life",
+"freq": 40629,
+"forms": [
+"life"
+]
+},
+{
+"rank": 146,
+"en": "before",
+"freq": 40501,
+"forms": [
+"before"
+]
+},
+{
+"rank": 147,
+"en": "better",
+"freq": 40494,
+"forms": [
+"better"
+]
+},
+{
+"rank": 148,
+"en": "again",
+"freq": 40428,
+"forms": [
+"again"
+]
+},
+{
+"rank": 149,
+"en": "still",
+"freq": 40225,
+"forms": [
+"still"
+]
+},
+{
+"rank": 150,
+"en": "home",
+"freq": 40213,
+"forms": [
+"home",
+"homes"
+]
+},
+{
+"rank": 151,
+"en": "big",
+"freq": 39674,
+"forms": [
+"big",
+"bigger",
+"biggest"
+]
+},
+{
+"rank": 152,
+"en": "long",
+"freq": 39479,
+"forms": [
+"long",
+"longer"
+]
+},
+{
+"rank": 153,
+"en": "kid",
+"freq": 39477,
+"forms": [
+"kid",
+"kids",
+"kidding"
+]
+},
+{
+"rank": 154,
+"en": "use",
+"freq": 39385,
+"forms": [
+"use",
+"used",
+"using",
+"uses"
+]
+},
+{
+"rank": 155,
+"en": "name",
+"freq": 39045,
+"forms": [
+"name",
+"named",
+"names"
+]
+},
+{
+"rank": 156,
+"en": "girl",
+"freq": 39039,
+"forms": [
+"girl",
+"girls"
+]
+},
+{
+"rank": 157,
+"en": "boy",
+"freq": 38453,
+"forms": [
+"boy",
+"boys"
+]
+},
+{
+"rank": 158,
+"en": "those",
+"freq": 38404,
+"forms": [
+"those"
+]
+},
+{
+"rank": 159,
+"en": "leave",
+"freq": 38123,
+"forms": [
+"leave",
+"leaving",
+"leaves"
+]
+},
+{
+"rank": 160,
+"en": "than",
+"freq": 37679,
+"forms": [
+"than"
+]
+},
+{
+"rank": 161,
+"en": "around",
+"freq": 37573,
+"forms": [
+"around"
+]
+},
+{
+"rank": 162,
+"en": "last",
+"freq": 37445,
+"forms": [
+"last",
+"lasted",
+"lasts"
+]
+},
+{
+"rank": 163,
+"en": "away",
+"freq": 37276,
+"forms": [
+"away"
+]
+},
+{
+"rank": 164,
+"en": "friend",
+"freq": 36962,
+"forms": [
+"friend",
+"friends"
+]
+},
+{
+"rank": 165,
+"en": "new",
+"freq": 36913,
+"forms": [
+"new"
+]
+},
+{
+"rank": 166,
+"en": "ever",
+"freq": 36170,
+"forms": [
+"ever"
+]
+},
+{
+"rank": 167,
+"en": "live",
+"freq": 36049,
+"forms": [
+"live",
+"living",
+"lives",
+"lived"
+]
+},
+{
+"rank": 168,
+"en": "must",
+"freq": 35661,
+"forms": [
+"must"
+]
+},
+{
+"rank": 169,
+"en": "dad",
+"freq": 35309,
+"forms": [
+"dad",
+"daddy"
+]
+},
+{
+"rank": 170,
+"en": "believe",
+"freq": 35087,
+"forms": [
+"believe",
+"believed",
+"believes",
+"believing"
+]
+},
+{
+"rank": 171,
+"en": "meet",
+"freq": 34951,
+"forms": [
+"meet",
+"met",
+"meeting",
+"meets"
+]
+},
+{
+"rank": 172,
+"en": "after",
+"freq": 34812,
+"forms": [
+"after"
+]
+},
+{
+"rank": 173,
+"en": "place",
+"freq": 34065,
+"forms": [
+"place",
+"places",
+"placed"
+]
+},
+{
+"rank": 174,
+"en": "always",
+"freq": 33418,
+"forms": [
+"always"
+]
+},
+{
+"rank": 175,
+"en": "their",
+"freq": 33413,
+"forms": [
+"their"
+]
+},
+{
+"rank": 176,
+"en": "everything",
+"freq": 33399,
+"forms": [
+"everything"
+]
+},
+{
+"rank": 177,
+"en": "miss",
+"freq": 33275,
+"forms": [
+"miss",
+"missed",
+"missing",
+"misses"
+]
+},
+{
+"rank": 178,
+"en": "old",
+"freq": 33191,
+"forms": [
+"old",
+"older"
+]
+},
+{
+"rank": 179,
+"en": "minute",
+"freq": 33176,
+"forms": [
+"minute",
+"minutes"
+]
+},
+{
+"rank": 180,
+"en": "nice",
+"freq": 33125,
+"forms": [
+"nice"
+]
+},
+{
+"rank": 181,
+"en": "start",
+"freq": 32804,
+"forms": [
+"start",
+"started",
+"starting",
+"starts"
+]
+},
+{
+"rank": 182,
+"en": "money",
+"freq": 32679,
+"forms": [
+"money"
+]
+},
+{
+"rank": 183,
+"en": "move",
+"freq": 32385,
+"forms": [
+"move",
+"moving",
+"moved",
+"moves"
+]
+},
+{
+"rank": 184,
+"en": "woman",
+"freq": 32144,
+"forms": [
+"woman",
+"women"
+]
+},
+{
+"rank": 185,
+"en": "lot",
+"freq": 32134,
+"forms": [
+"lot",
+"lots"
+]
+},
+{
+"rank": 186,
+"en": "listen",
+"freq": 32015,
+"forms": [
+"listen",
+"listening",
+"listened",
+"listens"
+]
+},
+{
+"rank": 187,
+"en": "stay",
+"freq": 31983,
+"forms": [
+"stay",
+"staying",
+"stayed",
+"stays"
+]
+},
+{
+"rank": 188,
+"en": "run",
+"freq": 31865,
+"forms": [
+"run",
+"running",
+"ran",
+"runs"
+]
+},
+{
+"rank": 189,
+"en": "thanks",
+"freq": 31789,
+"forms": [
+"thanks"
+]
+},
+{
+"rank": 190,
+"en": "show",
+"freq": 31758,
+"forms": [
+"show",
+"showed",
+"shows",
+"showing",
+"shown"
+]
+},
+{
+"rank": 191,
+"en": "kind",
+"freq": 31246,
+"forms": [
+"kind",
+"kinds"
+]
+},
+{
+"rank": 192,
+"en": "mom",
+"freq": 31098,
+"forms": [
+"mom",
+"mama",
+"mommy",
+"moms"
+]
+},
+{
+"rank": 193,
+"en": "fine",
+"freq": 30502,
+"forms": [
+"fine"
+]
+},
+{
+"rank": 194,
+"en": "play",
+"freq": 29987,
+"forms": [
+"play",
+"playing",
+"played",
+"plays"
+]
+},
+{
+"rank": 195,
+"en": "hello",
+"freq": 29857,
+"forms": [
+"hello"
+]
+},
+{
+"rank": 196,
+"en": "bring",
+"freq": 29544,
+"forms": [
+"bring",
+"brought",
+"bringing",
+"brings"
+]
+},
+{
+"rank": 197,
+"en": "remember",
+"freq": 29500,
+"forms": [
+"remember",
+"remembered",
+"remembers",
+"remembering"
+]
+},
+{
+"rank": 198,
+"en": "father",
+"freq": 28761,
+"forms": [
+"father",
+"fathers"
+]
+},
+{
+"rank": 199,
+"en": "hold",
+"freq": 28696,
+"forms": [
+"hold",
+"holding",
+"held",
+"holds"
+]
+},
+{
+"rank": 200,
+"en": "hi",
+"freq": 28464,
+"forms": [
+"hi"
+]
+},
+{
+"rank": 201,
+"en": "through",
+"freq": 28026,
+"forms": [
+"through"
+]
+},
+{
+"rank": 202,
+"en": "every",
+"freq": 28007,
+"forms": [
+"every"
+]
+},
+{
+"rank": 203,
+"en": "understand",
+"freq": 27910,
+"forms": [
+"understand",
+"understood",
+"understanding",
+"understands"
+]
+},
+{
+"rank": 204,
+"en": "care",
+"freq": 27853,
+"forms": [
+"care",
+"cares",
+"cared",
+"caring"
+]
+},
+{
+"rank": 205,
+"en": "bad",
+"freq": 27804,
+"forms": [
+"bad"
+]
+},
+{
+"rank": 206,
+"en": "baby",
+"freq": 27682,
+"forms": [
+"baby",
+"babies"
+]
+},
+{
+"rank": 207,
+"en": "three",
+"freq": 27654,
+"forms": [
+"three"
+]
+},
+{
+"rank": 208,
+"en": "house",
+"freq": 27396,
+"forms": [
+"house",
+"houses",
+"housing"
+]
+},
+{
+"rank": 209,
+"en": "hand",
+"freq": 27036,
+"forms": [
+"hand",
+"hands",
+"handed",
+"handing"
+]
+},
+{
+"rank": 210,
+"en": "car",
+"freq": 26963,
+"forms": [
+"car",
+"cars"
+]
+},
+{
+"rank": 211,
+"en": "wrong",
+"freq": 26678,
+"forms": [
+"wrong"
+]
+},
+{
+"rank": 212,
+"en": "might",
+"freq": 26334,
+"forms": [
+"might"
+]
+},
+{
+"rank": 213,
+"en": "may",
+"freq": 26080,
+"forms": [
+"may"
+]
+},
+{
+"rank": 214,
+"en": "die",
+"freq": 26022,
+"forms": [
+"die",
+"died",
+"dying",
+"dies"
+]
+},
+{
+"rank": 215,
+"en": "another",
+"freq": 25970,
+"forms": [
+"another"
+]
+},
+{
+"rank": 216,
+"en": "mind",
+"freq": 25787,
+"forms": [
+"mind",
+"minds"
+]
+},
+{
+"rank": 217,
+"en": "turn",
+"freq": 25631,
+"forms": [
+"turn",
+"turned",
+"turns",
+"turning"
+]
+},
+{
+"rank": 218,
+"en": "enough",
+"freq": 25568,
+"forms": [
+"enough"
+]
+},
+{
+"rank": 219,
+"en": "lose",
+"freq": 25563,
+"forms": [
+"lost",
+"lose",
+"losing",
+"loses"
+]
+},
+{
+"rank": 220,
+"en": "mother",
+"freq": 25098,
+"forms": [
+"mother",
+"mothers"
+]
+},
+{
+"rank": 221,
+"en": "own",
+"freq": 24994,
+"forms": [
+"own",
+"owns",
+"owned"
+]
+},
+{
+"rank": 222,
+"en": "course",
+"freq": 24848,
+"forms": [
+"course"
+]
+},
+{
+"rank": 223,
+"en": "left",
+"freq": 24707,
+"forms": [
+"left"
+]
+},
+{
+"rank": 224,
+"en": "head",
+"freq": 24401,
+"forms": [
+"head",
+"heads",
+"heading",
+"headed"
+]
+},
+{
+"rank": 225,
+"en": "which",
+"freq": 24339,
+"forms": [
+"which"
+]
+},
+{
+"rank": 226,
+"en": "guess",
+"freq": 24078,
+"forms": [
+"guess",
+"guessing",
+"guessed"
+]
+},
+{
+"rank": 227,
+"en": "room",
+"freq": 23741,
+"forms": [
+"room",
+"rooms"
+]
+},
+{
+"rank": 228,
+"en": "watch",
+"freq": 23671,
+"forms": [
+"watch",
+"watching",
+"watched",
+"watches"
+]
+},
+{
+"rank": 229,
+"en": "world",
+"freq": 23669,
+"forms": [
+"world",
+"worlds"
+]
+},
+{
+"rank": 230,
+"en": "break",
+"freq": 23379,
+"forms": [
+"break",
+"broke",
+"broken",
+"breaking",
+"breaks"
+]
+},
+{
+"rank": 231,
+"en": "shoot",
+"freq": 23238,
+"forms": [
+"shot",
+"shoot",
+"shooting",
+"shoots"
+]
+},
+{
+"rank": 232,
+"en": "next",
+"freq": 23090,
+"forms": [
+"next"
+]
+},
+{
+"rank": 233,
+"en": "else",
+"freq": 22907,
+"forms": [
+"else"
+]
+},
+{
+"rank": 234,
+"en": "dead",
+"freq": 22898,
+"forms": [
+"dead"
+]
+},
+{
+"rank": 235,
+"en": "someone",
+"freq": 22752,
+"forms": [
+"someone"
+]
+},
+{
+"rank": 236,
+"en": "sit",
+"freq": 22660,
+"forms": [
+"sit",
+"sitting",
+"sat",
+"sits"
+]
+},
+{
+"rank": 237,
+"en": "real",
+"freq": 22583,
+"forms": [
+"real"
+]
+},
+{
+"rank": 238,
+"en": "job",
+"freq": 22471,
+"forms": [
+"job",
+"jobs"
+]
+},
+{
+"rank": 239,
+"en": "morning",
+"freq": 22389,
+"forms": [
+"morning"
+]
+},
+{
+"rank": 240,
+"en": "yourself",
+"freq": 22151,
+"forms": [
+"yourself"
+]
+},
+{
+"rank": 241,
+"en": "today",
+"freq": 22124,
+"forms": [
+"today"
+]
+},
+{
+"rank": 242,
+"en": "son",
+"freq": 21870,
+"forms": [
+"son",
+"sons"
+]
+},
+{
+"rank": 243,
+"en": "drink",
+"freq": 21606,
+"forms": [
+"drink",
+"drunk",
+"drinking",
+"drinks",
+"drank"
+]
+},
+{
+"rank": 244,
+"en": "forget",
+"freq": 21573,
+"forms": [
+"forget",
+"forgot",
+"forgotten",
+"forgetting"
+]
+},
+{
+"rank": 245,
+"en": "same",
+"freq": 21276,
+"forms": [
+"same"
+]
+},
+{
+"rank": 246,
+"en": "tonight",
+"freq": 21047,
+"forms": [
+"tonight"
+]
+},
+{
+"rank": 247,
+"en": "open",
+"freq": 20875,
+"forms": [
+"open",
+"opening",
+"opened",
+"opens"
+]
+},
+{
+"rank": 248,
+"en": "worry",
+"freq": 20837,
+"forms": [
+"worry",
+"worried",
+"worrying",
+"worries"
+]
+},
+{
+"rank": 249,
+"en": "problem",
+"freq": 20764,
+"forms": [
+"problem",
+"problems"
+]
+},
+{
+"rank": 250,
+"en": "best",
+"freq": 20623,
+"forms": [
+"best"
+]
+},
+{
+"rank": 251,
+"en": "matter",
+"freq": 20610,
+"forms": [
+"matter",
+"matters"
+]
+},
+{
+"rank": 252,
+"en": "hope",
+"freq": 20496,
+"forms": [
+"hope",
+"hoping",
+"hoped",
+"hopes"
+]
+},
+{
+"rank": 253,
+"en": "idea",
+"freq": 20298,
+"forms": [
+"idea",
+"ideas"
+]
+},
+{
+"rank": 254,
+"en": "pay",
+"freq": 20276,
+"forms": [
+"pay",
+"paid",
+"paying",
+"pays"
+]
+},
+{
+"rank": 255,
+"en": "change",
+"freq": 20226,
+"forms": [
+"change",
+"changed",
+"changes",
+"changing"
+]
+},
+{
+"rank": 256,
+"en": "pretty",
+"freq": 20003,
+"forms": [
+"pretty"
+]
+},
+{
+"rank": 257,
+"en": "ready",
+"freq": 19778,
+"forms": [
+"ready"
+]
+},
+{
+"rank": 258,
+"en": "whole",
+"freq": 19660,
+"forms": [
+"whole"
+]
+},
+{
+"rank": 259,
+"en": "together",
+"freq": 19553,
+"forms": [
+"together"
+]
+},
+{
+"rank": 260,
+"en": "excuse",
+"freq": 19416,
+"forms": [
+"excuse",
+"excuses",
+"excused"
+]
+},
+{
+"rank": 261,
+"en": "suppose",
+"freq": 19281,
+"forms": [
+"supposed",
+"suppose"
+]
+},
+{
+"rank": 262,
+"en": "eat",
+"freq": 19242,
+"forms": [
+"eat",
+"eating",
+"ate",
+"eaten",
+"eats"
+]
+},
+{
+"rank": 263,
+"en": "hour",
+"freq": 19236,
+"forms": [
+"hours",
+"hour"
+]
+},
+{
+"rank": 264,
+"en": "family",
+"freq": 19206,
+"forms": [
+"family",
+"families"
+]
+},
+{
+"rank": 265,
+"en": "check",
+"freq": 19025,
+"forms": [
+"check",
+"checked",
+"checking",
+"checks"
+]
+},
+{
+"rank": 266,
+"en": "week",
+"freq": 18801,
+"forms": [
+"week",
+"weeks"
+]
+},
+{
+"rank": 267,
+"en": "wife",
+"freq": 18582,
+"forms": [
+"wife",
+"wives"
+]
+},
+{
+"rank": 268,
+"en": "send",
+"freq": 18582,
+"forms": [
+"send",
+"sent",
+"sending",
+"sends"
+]
+},
+{
+"rank": 269,
+"en": "walk",
+"freq": 18508,
+"forms": [
+"walk",
+"walking",
+"walked",
+"walks"
+]
+},
+{
+"rank": 270,
+"en": "seem",
+"freq": 18443,
+"forms": [
+"seems",
+"seem",
+"seemed"
+]
+},
+{
+"rank": 271,
+"en": "many",
+"freq": 18331,
+"forms": [
+"many"
+]
+},
+{
+"rank": 272,
+"en": "marry",
+"freq": 18297,
+"forms": [
+"married",
+"marry",
+"marrying"
+]
+},
+{
+"rank": 273,
+"en": "word",
+"freq": 18236,
+"forms": [
+"word",
+"words"
+]
+},
+{
+"rank": 274,
+"en": "lady",
+"freq": 18125,
+"forms": [
+"lady",
+"ladies"
+]
+},
+{
+"rank": 275,
+"en": "second",
+"freq": 18116,
+"forms": [
+"second",
+"seconds"
+]
+},
+{
+"rank": 276,
+"en": "without",
+"freq": 18087,
+"forms": [
+"without"
+]
+},
+{
+"rank": 277,
+"en": "close",
+"freq": 17968,
+"forms": [
+"close",
+"closed",
+"closer",
+"closing",
+"closes"
+]
+},
+{
+"rank": 278,
+"en": "stand",
+"freq": 17938,
+"forms": [
+"stand",
+"standing",
+"stood",
+"stands"
+]
+},
+{
+"rank": 279,
+"en": "most",
+"freq": 17889,
+"forms": [
+"most"
+]
+},
+{
+"rank": 280,
+"en": "while",
+"freq": 17821,
+"forms": [
+"while"
+]
+},
+{
+"rank": 281,
+"en": "school",
+"freq": 17703,
+"forms": [
+"school",
+"schools"
+]
+},
+{
+"rank": 282,
+"en": "once",
+"freq": 17589,
+"forms": [
+"once"
+]
+},
+{
+"rank": 283,
+"en": "somebody",
+"freq": 17571,
+"forms": [
+"somebody"
+]
+},
+{
+"rank": 284,
+"en": "everybody",
+"freq": 17555,
+"forms": [
+"everybody"
+]
+},
+{
+"rank": 285,
+"en": "myself",
+"freq": 17470,
+"forms": [
+"myself"
+]
+},
+{
+"rank": 286,
+"en": "end",
+"freq": 17445,
+"forms": [
+"end",
+"ends",
+"ended",
+"ending"
+]
+},
+{
+"rank": 287,
+"en": "yet",
+"freq": 17428,
+"forms": [
+"yet"
+]
+},
+{
+"rank": 288,
+"en": "speak",
+"freq": 17161,
+"forms": [
+"speak",
+"speaking",
+"spoke",
+"spoken",
+"speaks"
+]
+},
+{
+"rank": 289,
+"en": "tomorrow",
+"freq": 17134,
+"forms": [
+"tomorrow"
+]
+},
+{
+"rank": 290,
+"en": "eye",
+"freq": 17000,
+"forms": [
+"eyes",
+"eye"
+]
+},
+{
+"rank": 291,
+"en": "happy",
+"freq": 16993,
+"forms": [
+"happy"
+]
+},
+{
+"rank": 292,
+"en": "face",
+"freq": 16978,
+"forms": [
+"face",
+"faces",
+"facing",
+"faced"
+]
+},
+{
+"rank": 293,
+"en": "child",
+"freq": 16970,
+"forms": [
+"children",
+"child"
+]
+},
+{
+"rank": 294,
+"en": "question",
+"freq": 16944,
+"forms": [
+"question",
+"questions",
+"questioning",
+"questioned"
+]
+},
+{
+"rank": 295,
+"en": "brother",
+"freq": 16881,
+"forms": [
+"brother",
+"brothers"
+]
+},
+{
+"rank": 296,
+"en": "sleep",
+"freq": 16875,
+"forms": [
+"sleep",
+"sleeping",
+"slept",
+"sleeps"
+]
+},
+{
+"rank": 297,
+"en": "door",
+"freq": 16650,
+"forms": [
+"door",
+"doors"
+]
+},
+{
+"rank": 298,
+"en": "actually",
+"freq": 16439,
+"forms": [
+"actually"
+]
+},
+{
+"rank": 299,
+"en": "business",
+"freq": 16371,
+"forms": [
+"business"
+]
+},
+{
+"rank": 300,
+"en": "already",
+"freq": 16246,
+"forms": [
+"already"
+]
+},
+{
+"rank": 301,
+"en": "hit",
+"freq": 16245,
+"forms": [
+"hit",
+"hitting",
+"hits"
+]
+},
+{
+"rank": 302,
+"en": "sound",
+"freq": 16245,
+"forms": [
+"sounds",
+"sound",
+"sounded"
+]
+},
+{
+"rank": 303,
+"en": "buy",
+"freq": 16215,
+"forms": [
+"buy",
+"bought",
+"buying",
+"buys"
+]
+},
+{
+"rank": 304,
+"en": "stuff",
+"freq": 16094,
+"forms": [
+"stuff",
+"stuffed"
+]
+},
+{
+"rank": 305,
+"en": "since",
+"freq": 16064,
+"forms": [
+"since"
+]
+},
+{
+"rank": 306,
+"en": "read",
+"freq": 15880,
+"forms": [
+"read",
+"reading",
+"reads"
+]
+},
+{
+"rank": 307,
+"en": "mrs",
+"freq": 15858,
+"forms": [
+"mrs"
+]
+},
+{
+"rank": 308,
+"en": "fight",
+"freq": 15842,
+"forms": [
+"fight",
+"fighting",
+"fought",
+"fights"
+]
+},
+{
+"rank": 309,
+"en": "case",
+"freq": 15839,
+"forms": [
+"case",
+"cases"
+]
+},
+{
+"rank": 310,
+"en": "pick",
+"freq": 15778,
+"forms": [
+"pick",
+"picked",
+"picking",
+"picks"
+]
+},
+{
+"rank": 311,
+"en": "alone",
+"freq": 15735,
+"forms": [
+"alone"
+]
+},
+{
+"rank": 312,
+"en": "hard",
+"freq": 15700,
+"forms": [
+"hard"
+]
+},
+{
+"rank": 313,
+"en": "deal",
+"freq": 15648,
+"forms": [
+"deal",
+"dealing",
+"deals",
+"dealt"
+]
+},
+{
+"rank": 314,
+"en": "write",
+"freq": 15616,
+"forms": [
+"write",
+"wrote",
+"writing",
+"written",
+"writes"
+]
+},
+{
+"rank": 315,
+"en": "fire",
+"freq": 15584,
+"forms": [
+"fire",
+"fired",
+"firing",
+"fires"
+]
+},
+{
+"rank": 316,
+"en": "easy",
+"freq": 15563,
+"forms": [
+"easy",
+"easier"
+]
+},
+{
+"rank": 317,
+"en": "hurt",
+"freq": 15445,
+"forms": [
+"hurt",
+"hurts",
+"hurting"
+]
+},
+{
+"rank": 318,
+"en": "until",
+"freq": 15426,
+"forms": [
+"until"
+]
+},
+{
+"rank": 319,
+"en": "few",
+"freq": 15393,
+"forms": [
+"few"
+]
+},
+{
+"rank": 320,
+"en": "honey",
+"freq": 15325,
+"forms": [
+"honey"
+]
+},
+{
+"rank": 321,
+"en": "doctor",
+"freq": 15316,
+"forms": [
+"doctor",
+"doctors"
+]
+},
+{
+"rank": 322,
+"en": "dr",
+"freq": 15194,
+"forms": [
+"dr"
+]
+},
+{
+"rank": 323,
+"en": "both",
+"freq": 15062,
+"forms": [
+"both"
+]
+},
+{
+"rank": 324,
+"en": "soon",
+"freq": 15028,
+"forms": [
+"soon",
+"sooner"
+]
+},
+{
+"rank": 325,
+"en": "later",
+"freq": 14889,
+"forms": [
+"later"
+]
+},
+{
+"rank": 326,
+"en": "such",
+"freq": 14852,
+"forms": [
+"such"
+]
+},
+{
+"rank": 327,
+"en": "part",
+"freq": 14838,
+"forms": [
+"part",
+"parts"
+]
+},
+{
+"rank": 328,
+"en": "phone",
+"freq": 14749,
+"forms": [
+"phone",
+"phones",
+"phoned"
+]
+},
+{
+"rank": 329,
+"en": "lie",
+"freq": 14722,
+"forms": [
+"lie",
+"lying",
+"lied",
+"lies"
+]
+},
+{
+"rank": 330,
+"en": "ago",
+"freq": 14592,
+"forms": [
+"ago"
+]
+},
+{
+"rank": 331,
+"en": "five",
+"freq": 14558,
+"forms": [
+"five"
+]
+},
+{
+"rank": 332,
+"en": "point",
+"freq": 14517,
+"forms": [
+"point",
+"points",
+"pointing",
+"pointed"
+]
+},
+{
+"rank": 333,
+"en": "probably",
+"freq": 14323,
+"forms": [
+"probably"
+]
+},
+{
+"rank": 334,
+"en": "drive",
+"freq": 14314,
+"forms": [
+"drive",
+"driving",
+"drove",
+"drives",
+"driven"
+]
+},
+{
+"rank": 335,
+"en": "number",
+"freq": 14308,
+"forms": [
+"number",
+"numbers"
+]
+},
+{
+"rank": 336,
+"en": "beautiful",
+"freq": 14266,
+"forms": [
+"beautiful"
+]
+},
+{
+"rank": 337,
+"en": "game",
+"freq": 14213,
+"forms": [
+"game",
+"games"
+]
+},
+{
+"rank": 338,
+"en": "gun",
+"freq": 13965,
+"forms": [
+"gun",
+"guns"
+]
+},
+{
+"rank": 339,
+"en": "hate",
+"freq": 13928,
+"forms": [
+"hate",
+"hated",
+"hates",
+"hating"
+]
+},
+{
+"rank": 340,
+"en": "crazy",
+"freq": 13886,
+"forms": [
+"crazy"
+]
+},
+{
+"rank": 341,
+"en": "plan",
+"freq": 13825,
+"forms": [
+"plan",
+"plans",
+"planning",
+"planned"
+]
+},
+{
+"rank": 342,
+"en": "chance",
+"freq": 13775,
+"forms": [
+"chance",
+"chances"
+]
+},
+{
+"rank": 343,
+"en": "fall",
+"freq": 13768,
+"forms": [
+"fall",
+"fell",
+"falling",
+"falls",
+"fallen"
+]
+},
+{
+"rank": 344,
+"en": "late",
+"freq": 13756,
+"forms": [
+"late"
+]
+},
+{
+"rank": 345,
+"en": "wish",
+"freq": 13690,
+"forms": [
+"wish",
+"wishes",
+"wished",
+"wishing"
+]
+},
+{
+"rank": 346,
+"en": "shut",
+"freq": 13675,
+"forms": [
+"shut",
+"shutting"
+]
+},
+{
+"rank": 347,
+"en": "set",
+"freq": 13665,
+"forms": [
+"set",
+"setting",
+"sets"
+]
+},
+{
+"rank": 348,
+"en": "save",
+"freq": 13635,
+"forms": [
+"save",
+"saved",
+"saving",
+"saves"
+]
+},
+{
+"rank": 349,
+"en": "heart",
+"freq": 13625,
+"forms": [
+"heart",
+"hearts"
+]
+},
+{
+"rank": 350,
+"en": "nobody",
+"freq": 13599,
+"forms": [
+"nobody"
+]
+},
+{
+"rank": 351,
+"en": "story",
+"freq": 13475,
+"forms": [
+"story",
+"stories"
+]
+},
+{
+"rank": 352,
+"en": "cut",
+"freq": 13427,
+"forms": [
+"cut",
+"cutting",
+"cuts"
+]
+},
+{
+"rank": 353,
+"en": "order",
+"freq": 13369,
+"forms": [
+"order",
+"orders",
+"ordered",
+"ordering"
+]
+},
+{
+"rank": 354,
+"en": "under",
+"freq": 13358,
+"forms": [
+"under"
+]
+},
+{
+"rank": 355,
+"en": "month",
+"freq": 13168,
+"forms": [
+"months",
+"month"
+]
+},
+{
+"rank": 356,
+"en": "mine",
+"freq": 13116,
+"forms": [
+"mine",
+"mines"
+]
+},
+{
+"rank": 357,
+"en": "party",
+"freq": 13072,
+"forms": [
+"party",
+"parties"
+]
+},
+{
+"rank": 358,
+"en": "four",
+"freq": 13045,
+"forms": [
+"four"
+]
+},
+{
+"rank": 359,
+"en": "line",
+"freq": 13036,
+"forms": [
+"line",
+"lines",
+"lined",
+"lining"
+]
+},
+{
+"rank": 360,
+"en": "anyone",
+"freq": 13018,
+"forms": [
+"anyone"
+]
+},
+{
+"rank": 361,
+"en": "book",
+"freq": 13013,
+"forms": [
+"book",
+"books",
+"booked"
+]
+},
+{
+"rank": 362,
+"en": "town",
+"freq": 12935,
+"forms": [
+"town",
+"towns"
+]
+},
+{
+"rank": 363,
+"en": "true",
+"freq": 12921,
+"forms": [
+"true"
+]
+},
+{
+"rank": 364,
+"en": "each",
+"freq": 12916,
+"forms": [
+"each"
+]
+},
+{
+"rank": 365,
+"en": "catch",
+"freq": 12686,
+"forms": [
+"catch",
+"caught",
+"catching",
+"catches"
+]
+},
+{
+"rank": 366,
+"en": "afraid",
+"freq": 12631,
+"forms": [
+"afraid"
+]
+},
+{
+"rank": 367,
+"en": "exactly",
+"freq": 12607,
+"forms": [
+"exactly"
+]
+},
+{
+"rank": 368,
+"en": "whatever",
+"freq": 12584,
+"forms": [
+"whatever"
+]
+},
+{
+"rank": 369,
+"en": "dog",
+"freq": 12539,
+"forms": [
+"dog",
+"dogs"
+]
+},
+{
+"rank": 370,
+"en": "bit",
+"freq": 12536,
+"forms": [
+"bit",
+"bits"
+]
+},
+{
+"rank": 371,
+"en": "young",
+"freq": 12402,
+"forms": [
+"young"
+]
+},
+{
+"rank": 372,
+"en": "trouble",
+"freq": 12340,
+"forms": [
+"trouble",
+"troubles",
+"troubled"
+]
+},
+{
+"rank": 373,
+"en": "everyone",
+"freq": 12324,
+"forms": [
+"everyone"
+]
+},
+{
+"rank": 374,
+"en": "hang",
+"freq": 12294,
+"forms": [
+"hang",
+"hanging",
+"hung",
+"hangs",
+"hanged"
+]
+},
+{
+"rank": 375,
+"en": "wear",
+"freq": 12232,
+"forms": [
+"wear",
+"wearing",
+"wore",
+"wears",
+"worn"
+]
+},
+{
+"rank": 376,
+"en": "anyway",
+"freq": 12164,
+"forms": [
+"anyway"
+]
+},
+{
+"rank": 377,
+"en": "dream",
+"freq": 12145,
+"forms": [
+"dream",
+"dreams",
+"dreaming",
+"dreamed",
+"dreamt"
+]
+},
+{
+"rank": 378,
+"en": "light",
+"freq": 12121,
+"forms": [
+"light",
+"lights",
+"lit",
+"lighting"
+]
+},
+{
+"rank": 379,
+"en": "interest",
+"freq": 12070,
+"forms": [
+"interesting",
+"interested",
+"interest",
+"interests"
+]
+},
+{
+"rank": 380,
+"en": "police",
+"freq": 12044,
+"forms": [
+"police"
+]
+},
+{
+"rank": 381,
+"en": "water",
+"freq": 12031,
+"forms": [
+"water",
+"waters"
+]
+},
+{
+"rank": 382,
+"en": "fun",
+"freq": 12010,
+"forms": [
+"fun"
+]
+},
+{
+"rank": 383,
+"en": "answer",
+"freq": 12003,
+"forms": [
+"answer",
+"answers",
+"answered",
+"answering"
+]
+},
+{
+"rank": 384,
+"en": "promise",
+"freq": 11894,
+"forms": [
+"promise",
+"promised",
+"promises",
+"promising"
+]
+},
+{
+"rank": 385,
+"en": "couple",
+"freq": 11803,
+"forms": [
+"couple",
+"couples"
+]
+},
+{
+"rank": 386,
+"en": "figure",
+"freq": 11758,
+"forms": [
+"figure",
+"figured",
+"figures",
+"figuring"
+]
+},
+{
+"rank": 387,
+"en": "pull",
+"freq": 11745,
+"forms": [
+"pull",
+"pulled",
+"pulling",
+"pulls"
+]
+},
+{
+"rank": 388,
+"en": "body",
+"freq": 11666,
+"forms": [
+"body",
+"bodies"
+]
+},
+{
+"rank": 389,
+"en": "anybody",
+"freq": 11573,
+"forms": [
+"anybody"
+]
+},
+{
+"rank": 390,
+"en": "throw",
+"freq": 11571,
+"forms": [
+"throw",
+"threw",
+"throwing",
+"thrown",
+"throws"
+]
+},
+{
+"rank": 391,
+"en": "reason",
+"freq": 11513,
+"forms": [
+"reason",
+"reasons"
+]
+},
+{
+"rank": 392,
+"en": "death",
+"freq": 11443,
+"forms": [
+"death",
+"deaths"
+]
+},
+{
+"rank": 393,
+"en": "dear",
+"freq": 11395,
+"forms": [
+"dear"
+]
+},
+{
+"rank": 394,
+"en": "far",
+"freq": 11259,
+"forms": [
+"far"
+]
+},
+{
+"rank": 395,
+"en": "person",
+"freq": 11251,
+"forms": [
+"person",
+"persons"
+]
+},
+{
+"rank": 396,
+"en": "rest",
+"freq": 11218,
+"forms": [
+"rest",
+"resting"
+]
+},
+{
+"rank": 397,
+"en": "funny",
+"freq": 11127,
+"forms": [
+"funny"
+]
+},
+{
+"rank": 398,
+"en": "dance",
+"freq": 11103,
+"forms": [
+"dance",
+"dancing",
+"danced",
+"dances"
+]
+},
+{
+"rank": 399,
+"en": "side",
+"freq": 11074,
+"forms": [
+"side",
+"sides"
+]
+},
+{
+"rank": 400,
+"en": "inside",
+"freq": 10775,
+"forms": [
+"inside"
+]
+},
+{
+"rank": 401,
+"en": "office",
+"freq": 10735,
+"forms": [
+"office",
+"offices"
+]
+},
+{
+"rank": 402,
+"en": "become",
+"freq": 10727,
+"forms": [
+"become",
+"became",
+"becomes",
+"becoming"
+]
+},
+{
+"rank": 403,
+"en": "follow",
+"freq": 10703,
+"forms": [
+"follow",
+"following",
+"followed",
+"follows"
+]
+},
+{
+"rank": 404,
+"en": "different",
+"freq": 10686,
+"forms": [
+"different"
+]
+},
+{
+"rank": 405,
+"en": "moment",
+"freq": 10640,
+"forms": [
+"moment",
+"moments"
+]
+},
+{
+"rank": 406,
+"en": "captain",
+"freq": 10622,
+"forms": [
+"captain"
+]
+},
+{
+"rank": 407,
+"en": "sister",
+"freq": 10602,
+"forms": [
+"sister",
+"sisters"
+]
+},
+{
+"rank": 408,
+"en": "least",
+"freq": 10596,
+"forms": [
+"least"
+]
+},
+{
+"rank": 409,
+"en": "important",
+"freq": 10587,
+"forms": [
+"important"
+]
+},
+{
+"rank": 410,
+"en": "dinner",
+"freq": 10574,
+"forms": [
+"dinner",
+"dinners"
+]
+},
+{
+"rank": 411,
+"en": "picture",
+"freq": 10538,
+"forms": [
+"picture",
+"pictures"
+]
+},
+{
+"rank": 412,
+"en": "also",
+"freq": 10528,
+"forms": [
+"also"
+]
+},
+{
+"rank": 413,
+"en": "drop",
+"freq": 10494,
+"forms": [
+"drop",
+"dropped",
+"dropping",
+"drops"
+]
+},
+{
+"rank": 414,
+"en": "yours",
+"freq": 10441,
+"forms": [
+"yours"
+]
+},
+{
+"rank": 415,
+"en": "date",
+"freq": 10436,
+"forms": [
+"date",
+"dating",
+"dates",
+"dated"
+]
+},
+{
+"rank": 416,
+"en": "quite",
+"freq": 10332,
+"forms": [
+"quite"
+]
+},
+{
+"rank": 417,
+"en": "husband",
+"freq": 10331,
+"forms": [
+"husband",
+"husbands"
+]
+},
+{
+"rank": 418,
+"en": "clear",
+"freq": 10308,
+"forms": [
+"clear",
+"cleared",
+"clearing",
+"clears"
+]
+},
+{
+"rank": 419,
+"en": "against",
+"freq": 10288,
+"forms": [
+"against"
+]
+},
+{
+"rank": 420,
+"en": "touch",
+"freq": 10273,
+"forms": [
+"touch",
+"touched",
+"touching",
+"touches"
+]
+},
+{
+"rank": 421,
+"en": "sign",
+"freq": 10266,
+"forms": [
+"sign",
+"signed",
+"signs",
+"signing"
+]
+},
+{
+"rank": 422,
+"en": "wonder",
+"freq": 10254,
+"forms": [
+"wonder",
+"wondering",
+"wondered",
+"wonders"
+]
+},
+{
+"rank": 423,
+"en": "trust",
+"freq": 10237,
+"forms": [
+"trust",
+"trusted",
+"trusting"
+]
+},
+{
+"rank": 424,
+"en": "fact",
+"freq": 10194,
+"forms": [
+"fact",
+"facts"
+]
+},
+{
+"rank": 425,
+"en": "six",
+"freq": 10176,
+"forms": [
+"six"
+]
+},
+{
+"rank": 426,
+"en": "half",
+"freq": 10156,
+"forms": [
+"half"
+]
+},
+{
+"rank": 427,
+"en": "ahead",
+"freq": 10115,
+"forms": [
+"ahead"
+]
+},
+{
+"rank": 428,
+"en": "pass",
+"freq": 10113,
+"forms": [
+"pass",
+"passed",
+"passing",
+"passes"
+]
+},
+{
+"rank": 429,
+"en": "learn",
+"freq": 10047,
+"forms": [
+"learn",
+"learned",
+"learning"
+]
+},
+{
+"rank": 430,
+"en": "gentleman",
+"freq": 10009,
+"forms": [
+"gentlemen",
+"gentleman"
+]
+},
+{
+"rank": 431,
+"en": "cool",
+"freq": 9990,
+"forms": [
+"cool"
+]
+},
+{
+"rank": 432,
+"en": "bed",
+"freq": 9980,
+"forms": [
+"bed",
+"beds"
+]
+},
+{
+"rank": 433,
+"en": "high",
+"freq": 9945,
+"forms": [
+"high"
+]
+},
+{
+"rank": 434,
+"en": "spend",
+"freq": 9893,
+"forms": [
+"spend",
+"spent",
+"spending",
+"spends"
+]
+},
+{
+"rank": 435,
+"en": "almost",
+"freq": 9857,
+"forms": [
+"almost"
+]
+},
+{
+"rank": 436,
+"en": "truth",
+"freq": 9801,
+"forms": [
+"truth"
+]
+},
+{
+"rank": 437,
+"en": "stick",
+"freq": 9787,
+"forms": [
+"stick",
+"stuck",
+"sticking",
+"sticks"
+]
+},
+{
+"rank": 438,
+"en": "bet",
+"freq": 9730,
+"forms": [
+"bet",
+"betting",
+"bets"
+]
+},
+{
+"rank": 439,
+"en": "finish",
+"freq": 9717,
+"forms": [
+"finish",
+"finished",
+"finishing"
+]
+},
+{
+"rank": 440,
+"en": "hot",
+"freq": 9682,
+"forms": [
+"hot"
+]
+},
+{
+"rank": 441,
+"en": "sell",
+"freq": 9642,
+"forms": [
+"sell",
+"sold",
+"selling",
+"sells"
+]
+},
+{
+"rank": 442,
+"en": "build",
+"freq": 9629,
+"forms": [
+"building",
+"build",
+"built"
+]
+},
+{
+"rank": 443,
+"en": "anymore",
+"freq": 9597,
+"forms": [
+"anymore"
+]
+},
+{
+"rank": 444,
+"en": "behind",
+"freq": 9581,
+"forms": [
+"behind"
+]
+},
+{
+"rank": 445,
+"en": "blood",
+"freq": 9492,
+"forms": [
+"blood"
+]
+},
+{
+"rank": 446,
+"en": "foot",
+"freq": 9468,
+"forms": [
+"feet",
+"foot"
+]
+},
+{
+"rank": 447,
+"en": "shall",
+"freq": 9441,
+"forms": [
+"shall"
+]
+},
+{
+"rank": 448,
+"en": "ride",
+"freq": 9432,
+"forms": [
+"ride",
+"riding",
+"rode",
+"rides"
+]
+},
+{
+"rank": 449,
+"en": "power",
+"freq": 9426,
+"forms": [
+"power",
+"powers"
+]
+},
+{
+"rank": 450,
+"en": "act",
+"freq": 9424,
+"forms": [
+"act",
+"acting",
+"acts",
+"acted"
+]
+},
+{
+"rank": 451,
+"en": "stupid",
+"freq": 9405,
+"forms": [
+"stupid"
+]
+},
+{
+"rank": 452,
+"en": "war",
+"freq": 9377,
+"forms": [
+"war",
+"wars"
+]
+},
+{
+"rank": 453,
+"en": "scare",
+"freq": 9356,
+"forms": [
+"scared",
+"scare",
+"scares",
+"scaring"
+]
+},
+{
+"rank": 454,
+"en": "along",
+"freq": 9330,
+"forms": [
+"along"
+]
+},
+{
+"rank": 455,
+"en": "either",
+"freq": 9308,
+"forms": [
+"either"
+]
+},
+{
+"rank": 456,
+"en": "though",
+"freq": 9279,
+"forms": [
+"though"
+]
+},
+{
+"rank": 457,
+"en": "front",
+"freq": 9259,
+"forms": [
+"front"
+]
+},
+{
+"rank": 458,
+"en": "beat",
+"freq": 9254,
+"forms": [
+"beat",
+"beating",
+"beats",
+"beaten"
+]
+},
+{
+"rank": 459,
+"en": "daughter",
+"freq": 9248,
+"forms": [
+"daughter",
+"daughters"
+]
+},
+{
+"rank": 460,
+"en": "fast",
+"freq": 9243,
+"forms": [
+"fast",
+"faster"
+]
+},
+{
+"rank": 461,
+"en": "kiss",
+"freq": 9220,
+"forms": [
+"kiss",
+"kissed",
+"kissing",
+"kisses"
+]
+},
+{
+"rank": 462,
+"en": "bye",
+"freq": 9184,
+"forms": [
+"bye"
+]
+},
+{
+"rank": 463,
+"en": "street",
+"freq": 9168,
+"forms": [
+"street",
+"streets"
+]
+},
+{
+"rank": 464,
+"en": "begin",
+"freq": 9165,
+"forms": [
+"beginning",
+"begin",
+"began",
+"begins",
+"begun"
+]
+},
+{
+"rank": 465,
+"en": "welcome",
+"freq": 9140,
+"forms": [
+"welcome"
+]
+},
+{
+"rank": 466,
+"en": "sometimes",
+"freq": 9129,
+"forms": [
+"sometimes"
+]
+},
+{
+"rank": 467,
+"en": "blow",
+"freq": 9111,
+"forms": [
+"blow",
+"blew",
+"blowing",
+"blown",
+"blows"
+]
+},
+{
+"rank": 468,
+"en": "expect",
+"freq": 9081,
+"forms": [
+"expect",
+"expecting",
+"expected",
+"expects"
+]
+},
+{
+"rank": 469,
+"en": "city",
+"freq": 9072,
+"forms": [
+"city",
+"cities"
+]
+},
+{
+"rank": 470,
+"en": "free",
+"freq": 9054,
+"forms": [
+"free"
+]
+},
+{
+"rank": 471,
+"en": "win",
+"freq": 9047,
+"forms": [
+"win",
+"winning",
+"wins"
+]
+},
+{
+"rank": 472,
+"en": "white",
+"freq": 8976,
+"forms": [
+"white",
+"whites"
+]
+},
+{
+"rank": 473,
+"en": "between",
+"freq": 8932,
+"forms": [
+"between"
+]
+},
+{
+"rank": 474,
+"en": "hurry",
+"freq": 8856,
+"forms": [
+"hurry"
+]
+},
+{
+"rank": 475,
+"en": "country",
+"freq": 8791,
+"forms": [
+"country",
+"countries"
+]
+},
+{
+"rank": 476,
+"en": "its",
+"freq": 8757,
+"forms": [
+"its"
+]
+},
+{
+"rank": 477,
+"en": "glad",
+"freq": 8740,
+"forms": [
+"glad"
+]
+},
+{
+"rank": 478,
+"en": "cop",
+"freq": 8683,
+"forms": [
+"cops",
+"cop"
+]
+},
+{
+"rank": 479,
+"en": "murder",
+"freq": 8672,
+"forms": [
+"murder",
+"murdered",
+"murders",
+"murdering"
+]
+},
+{
+"rank": 480,
+"en": "outside",
+"freq": 8671,
+"forms": [
+"outside"
+]
+},
+{
+"rank": 481,
+"en": "steal",
+"freq": 8669,
+"forms": [
+"steal",
+"stole",
+"stolen",
+"stealing",
+"steals"
+]
+},
+{
+"rank": 482,
+"en": "fly",
+"freq": 8648,
+"forms": [
+"fly",
+"flying",
+"flew",
+"flies",
+"flown"
+]
+},
+{
+"rank": 483,
+"en": "movie",
+"freq": 8617,
+"forms": [
+"movie",
+"movies"
+]
+},
+{
+"rank": 484,
+"en": "black",
+"freq": 8565,
+"forms": [
+"black"
+]
+},
+{
+"rank": 485,
+"en": "full",
+"freq": 8512,
+"forms": [
+"full"
+]
+},
+{
+"rank": 486,
+"en": "till",
+"freq": 8503,
+"forms": [
+"till"
+]
+},
+{
+"rank": 487,
+"en": "sick",
+"freq": 8437,
+"forms": [
+"sick"
+]
+},
+{
+"rank": 488,
+"en": "news",
+"freq": 8399,
+"forms": [
+"news"
+]
+},
+{
+"rank": 489,
+"en": "wonderful",
+"freq": 8364,
+"forms": [
+"wonderful"
+]
+},
+{
+"rank": 490,
+"en": "step",
+"freq": 8322,
+"forms": [
+"step",
+"steps",
+"stepped",
+"stepping"
+]
+},
+{
+"rank": 491,
+"en": "team",
+"freq": 8318,
+"forms": [
+"team",
+"teams"
+]
+},
+{
+"rank": 492,
+"en": "bear",
+"freq": 8263,
+"forms": [
+"born",
+"bear",
+"bears",
+"bearing"
+]
+},
+{
+"rank": 493,
+"en": "state",
+"freq": 8259,
+"forms": [
+"state",
+"states"
+]
+},
+{
+"rank": 494,
+"en": "clean",
+"freq": 8247,
+"forms": [
+"clean",
+"cleaning",
+"cleaned"
+]
+},
+{
+"rank": 495,
+"en": "report",
+"freq": 8164,
+"forms": [
+"report",
+"reports",
+"reported",
+"reporting"
+]
+},
+{
+"rank": 496,
+"en": "wow",
+"freq": 8160,
+"forms": [
+"wow"
+]
+},
+{
+"rank": 497,
+"en": "able",
+"freq": 8155,
+"forms": [
+"able"
+]
+},
+{
+"rank": 498,
+"en": "surprise",
+"freq": 8146,
+"forms": [
+"surprise",
+"surprised",
+"surprises",
+"surprising"
+]
+},
+{
+"rank": 499,
+"en": "dress",
+"freq": 8142,
+"forms": [
+"dress",
+"dressed",
+"dressing",
+"dresses"
+]
+},
+{
+"rank": 500,
+"en": "piece",
+"freq": 8132,
+"forms": [
+"piece",
+"pieces"
+]
+},
+{
+"rank": 501,
+"en": "hair",
+"freq": 8096,
+"forms": [
+"hair",
+"hairs"
+]
+},
+{
+"rank": 502,
+"en": "perfect",
+"freq": 8091,
+"forms": [
+"perfect"
+]
+},
+{
+"rank": 503,
+"en": "company",
+"freq": 8088,
+"forms": [
+"company",
+"companies"
+]
+},
+{
+"rank": 504,
+"en": "sort",
+"freq": 8072,
+"forms": [
+"sort",
+"sorts"
+]
+},
+{
+"rank": 505,
+"en": "sing",
+"freq": 8058,
+"forms": [
+"sing",
+"singing",
+"sang",
+"sings"
+]
+},
+{
+"rank": 506,
+"en": "train",
+"freq": 8018,
+"forms": [
+"train",
+"training",
+"trained",
+"trains"
+]
+},
+{
+"rank": 507,
+"en": "paper",
+"freq": 7909,
+"forms": [
+"paper",
+"papers"
+]
+},
+{
+"rank": 508,
+"en": "alive",
+"freq": 7878,
+"forms": [
+"alive"
+]
+},
+{
+"rank": 509,
+"en": "food",
+"freq": 7876,
+"forms": [
+"food"
+]
+},
+{
+"rank": 510,
+"en": "parent",
+"freq": 7847,
+"forms": [
+"parents",
+"parent"
+]
+},
+{
+"rank": 511,
+"en": "luck",
+"freq": 7840,
+"forms": [
+"luck"
+]
+},
+{
+"rank": 512,
+"en": "grow",
+"freq": 7813,
+"forms": [
+"grow",
+"growing",
+"grew",
+"grown",
+"grows"
+]
+},
+{
+"rank": 513,
+"en": "sex",
+"freq": 7761,
+"forms": [
+"sex"
+]
+},
+{
+"rank": 514,
+"en": "music",
+"freq": 7734,
+"forms": [
+"music"
+]
+},
+{
+"rank": 515,
+"en": "laugh",
+"freq": 7656,
+"forms": [
+"laugh",
+"laughing",
+"laughs",
+"laughed"
+]
+},
+{
+"rank": 516,
+"en": "control",
+"freq": 7642,
+"forms": [
+"control",
+"controls",
+"controlled",
+"controlling"
+]
+},
+{
+"rank": 517,
+"en": "record",
+"freq": 7608,
+"forms": [
+"record",
+"records",
+"recording",
+"recorded"
+]
+},
+{
+"rank": 518,
+"en": "special",
+"freq": 7577,
+"forms": [
+"special"
+]
+},
+{
+"rank": 519,
+"en": "serious",
+"freq": 7566,
+"forms": [
+"serious"
+]
+},
+{
+"rank": 520,
+"en": "red",
+"freq": 7551,
+"forms": [
+"red"
+]
+},
+{
+"rank": 521,
+"en": "arm",
+"freq": 7550,
+"forms": [
+"arm",
+"arms",
+"armed"
+]
+},
+{
+"rank": 522,
+"en": "lead",
+"freq": 7544,
+"forms": [
+"lead",
+"led",
+"leading",
+"leads"
+]
+},
+{
+"rank": 523,
+"en": "cover",
+"freq": 7532,
+"forms": [
+"cover",
+"covered",
+"covering",
+"covers"
+]
+},
+{
+"rank": 524,
+"en": "early",
+"freq": 7520,
+"forms": [
+"early",
+"earlier"
+]
+},
+{
+"rank": 525,
+"en": "wake",
+"freq": 7502,
+"forms": [
+"wake",
+"woke",
+"waking",
+"wakes"
+]
+},
+{
+"rank": 526,
+"en": "decide",
+"freq": 7496,
+"forms": [
+"decided",
+"decide",
+"decides"
+]
+},
+{
+"rank": 527,
+"en": "burn",
+"freq": 7493,
+"forms": [
+"burn",
+"burning",
+"burned",
+"burns",
+"burnt"
+]
+},
+{
+"rank": 528,
+"en": "hide",
+"freq": 7442,
+"forms": [
+"hide",
+"hiding",
+"hidden",
+"hid"
+]
+},
+{
+"rank": 529,
+"en": "ring",
+"freq": 7430,
+"forms": [
+"ring",
+"rings",
+"ringing",
+"rang"
+]
+},
+{
+"rank": 530,
+"en": "sweet",
+"freq": 7405,
+"forms": [
+"sweet"
+]
+},
+{
+"rank": 531,
+"en": "ball",
+"freq": 7401,
+"forms": [
+"ball",
+"balls"
+]
+},
+{
+"rank": 532,
+"en": "ten",
+"freq": 7395,
+"forms": [
+"ten"
+]
+},
+{
+"rank": 533,
+"en": "coffee",
+"freq": 7371,
+"forms": [
+"coffee"
+]
+},
+{
+"rank": 534,
+"en": "lucky",
+"freq": 7316,
+"forms": [
+"lucky"
+]
+},
+{
+"rank": 535,
+"en": "safe",
+"freq": 7303,
+"forms": [
+"safe"
+]
+},
+{
+"rank": 536,
+"en": "teach",
+"freq": 7226,
+"forms": [
+"teach",
+"taught",
+"teaching",
+"teaches"
+]
+},
+{
+"rank": 537,
+"en": "human",
+"freq": 7194,
+"forms": [
+"human",
+"humans"
+]
+},
+{
+"rank": 538,
+"en": "top",
+"freq": 7180,
+"forms": [
+"top",
+"tops"
+]
+},
+{
+"rank": 539,
+"en": "president",
+"freq": 7174,
+"forms": [
+"president"
+]
+},
+{
+"rank": 540,
+"en": "himself",
+"freq": 7168,
+"forms": [
+"himself"
+]
+},
+{
+"rank": 541,
+"en": "sense",
+"freq": 7154,
+"forms": [
+"sense",
+"senses"
+]
+},
+{
+"rank": 542,
+"en": "charge",
+"freq": 7122,
+"forms": [
+"charge",
+"charges",
+"charged",
+"charging"
+]
+},
+{
+"rank": 543,
+"en": "air",
+"freq": 7090,
+"forms": [
+"air"
+]
+},
+{
+"rank": 544,
+"en": "explain",
+"freq": 7081,
+"forms": [
+"explain",
+"explained",
+"explains",
+"explaining"
+]
+},
+{
+"rank": 545,
+"en": "cry",
+"freq": 7075,
+"forms": [
+"cry",
+"crying",
+"cried",
+"cries"
+]
+},
+{
+"rank": 546,
+"en": "king",
+"freq": 7049,
+"forms": [
+"king",
+"kings"
+]
+},
+{
+"rank": 547,
+"en": "lord",
+"freq": 7046,
+"forms": [
+"lord"
+]
+},
+{
+"rank": 548,
+"en": "key",
+"freq": 7031,
+"forms": [
+"key",
+"keys"
+]
+},
+{
+"rank": 549,
+"en": "handle",
+"freq": 6984,
+"forms": [
+"handle",
+"handled",
+"handling",
+"handles"
+]
+},
+{
+"rank": 550,
+"en": "return",
+"freq": 6976,
+"forms": [
+"return",
+"returned",
+"returning",
+"returns"
+]
+},
+{
+"rank": 551,
+"en": "mistake",
+"freq": 6970,
+"forms": [
+"mistake",
+"mistakes",
+"mistaken"
+]
+},
+{
+"rank": 552,
+"en": "perhaps",
+"freq": 6939,
+"forms": [
+"perhaps"
+]
+},
+{
+"rank": 553,
+"en": "tired",
+"freq": 6867,
+"forms": [
+"tired",
+"tire",
+"tires"
+]
+},
+{
+"rank": 554,
+"en": "horse",
+"freq": 6824,
+"forms": [
+"horse",
+"horses"
+]
+},
+{
+"rank": 555,
+"en": "card",
+"freq": 6806,
+"forms": [
+"card",
+"cards"
+]
+},
+{
+"rank": 556,
+"en": "secret",
+"freq": 6802,
+"forms": [
+"secret",
+"secrets"
+]
+},
+{
+"rank": 557,
+"en": "law",
+"freq": 6800,
+"forms": [
+"law",
+"laws"
+]
+},
+{
+"rank": 558,
+"en": "class",
+"freq": 6797,
+"forms": [
+"class",
+"classes"
+]
+},
+{
+"rank": 559,
+"en": "test",
+"freq": 6793,
+"forms": [
+"test",
+"tests",
+"testing",
+"tested"
+]
+},
+{
+"rank": 560,
+"en": "officer",
+"freq": 6707,
+"forms": [
+"officer",
+"officers"
+]
+},
+{
+"rank": 561,
+"en": "count",
+"freq": 6697,
+"forms": [
+"count",
+"counting",
+"counts",
+"counted"
+]
+},
+{
+"rank": 562,
+"en": "hospital",
+"freq": 6649,
+"forms": [
+"hospital",
+"hospitals"
+]
+},
+{
+"rank": 563,
+"en": "cold",
+"freq": 6638,
+"forms": [
+"cold"
+]
+},
+{
+"rank": 564,
+"en": "darling",
+"freq": 6613,
+"forms": [
+"darling"
+]
+},
+{
+"rank": 565,
+"en": "fix",
+"freq": 6606,
+"forms": [
+"fix",
+"fixed",
+"fixing"
+]
+},
+{
+"rank": 566,
+"en": "poor",
+"freq": 6583,
+"forms": [
+"poor"
+]
+},
+{
+"rank": 567,
+"en": "ship",
+"freq": 6581,
+"forms": [
+"ship",
+"ships",
+"shipping",
+"shipped"
+]
+},
+{
+"rank": 568,
+"en": "boss",
+"freq": 6562,
+"forms": [
+"boss",
+"bosses"
+]
+},
+{
+"rank": 569,
+"en": "kick",
+"freq": 6512,
+"forms": [
+"kick",
+"kicked",
+"kicking",
+"kicks"
+]
+},
+{
+"rank": 570,
+"en": "star",
+"freq": 6502,
+"forms": [
+"star",
+"stars"
+]
+},
+{
+"rank": 571,
+"en": "fool",
+"freq": 6387,
+"forms": [
+"fool",
+"fools",
+"fooling",
+"fooled"
+]
+},
+{
+"rank": 572,
+"en": "rule",
+"freq": 6383,
+"forms": [
+"rules",
+"rule",
+"ruled",
+"ruling"
+]
+},
+{
+"rank": 573,
+"en": "small",
+"freq": 6373,
+"forms": [
+"small"
+]
+},
+{
+"rank": 574,
+"en": "uncle",
+"freq": 6327,
+"forms": [
+"uncle"
+]
+},
+{
+"rank": 575,
+"en": "land",
+"freq": 6321,
+"forms": [
+"land",
+"landed",
+"landing",
+"lands"
+]
+},
+{
+"rank": 576,
+"en": "past",
+"freq": 6312,
+"forms": [
+"past"
+]
+},
+{
+"rank": 577,
+"en": "agent",
+"freq": 6309,
+"forms": [
+"agent",
+"agents"
+]
+},
+{
+"rank": 578,
+"en": "offer",
+"freq": 6303,
+"forms": [
+"offer",
+"offered",
+"offering",
+"offers"
+]
+},
+{
+"rank": 579,
+"en": "force",
+"freq": 6293,
+"forms": [
+"force",
+"forced",
+"forces",
+"forcing"
+]
+},
+{
+"rank": 580,
+"en": "smell",
+"freq": 6288,
+"forms": [
+"smell",
+"smells",
+"smelled",
+"smelling"
+]
+},
+{
+"rank": 581,
+"en": "bag",
+"freq": 6252,
+"forms": [
+"bag",
+"bags"
+]
+},
+{
+"rank": 582,
+"en": "straight",
+"freq": 6244,
+"forms": [
+"straight"
+]
+},
+{
+"rank": 583,
+"en": "christmas",
+"freq": 6244,
+"forms": [
+"christmas"
+]
+},
+{
+"rank": 584,
+"en": "road",
+"freq": 6171,
+"forms": [
+"road",
+"roads"
+]
+},
+{
+"rank": 585,
+"en": "carry",
+"freq": 6171,
+"forms": [
+"carry",
+"carrying",
+"carried",
+"carries"
+]
+},
+{
+"rank": 586,
+"en": "million",
+"freq": 6145,
+"forms": [
+"million"
+]
+},
+{
+"rank": 587,
+"en": "letter",
+"freq": 6123,
+"forms": [
+"letter",
+"letters"
+]
+},
+{
+"rank": 588,
+"en": "lock",
+"freq": 6108,
+"forms": [
+"lock",
+"locked",
+"locks",
+"locking"
+]
+},
+{
+"rank": 589,
+"en": "general",
+"freq": 6091,
+"forms": [
+"general",
+"generals"
+]
+},
+{
+"rank": 590,
+"en": "certainly",
+"freq": 6067,
+"forms": [
+"certainly"
+]
+},
+{
+"rank": 591,
+"en": "attack",
+"freq": 6058,
+"forms": [
+"attack",
+"attacked",
+"attacks",
+"attacking"
+]
+},
+{
+"rank": 592,
+"en": "enjoy",
+"freq": 6016,
+"forms": [
+"enjoy",
+"enjoying",
+"enjoyed"
+]
+},
+{
+"rank": 593,
+"en": "finally",
+"freq": 5989,
+"forms": [
+"finally"
+]
+},
+{
+"rank": 594,
+"en": "table",
+"freq": 5986,
+"forms": [
+"table",
+"tables"
+]
+},
+{
+"rank": 595,
+"en": "quiet",
+"freq": 5978,
+"forms": [
+"quiet"
+]
+},
+{
+"rank": 596,
+"en": "goodbye",
+"freq": 5942,
+"forms": [
+"goodbye"
+]
+},
+{
+"rank": 597,
+"en": "song",
+"freq": 5910,
+"forms": [
+"song",
+"songs"
+]
+},
+{
+"rank": 598,
+"en": "realize",
+"freq": 5866,
+"forms": [
+"realize",
+"realized"
+]
+},
+{
+"rank": 599,
+"en": "buddy",
+"freq": 5866,
+"forms": [
+"buddy",
+"buddies"
+]
+},
+{
+"rank": 600,
+"en": "present",
+"freq": 5830,
+"forms": [
+"present",
+"presents",
+"presented"
+]
+},
+{
+"rank": 601,
+"en": "rather",
+"freq": 5825,
+"forms": [
+"rather"
+]
+},
+{
+"rank": 602,
+"en": "possible",
+"freq": 5816,
+"forms": [
+"possible"
+]
+},
+{
+"rank": 603,
+"en": "unless",
+"freq": 5798,
+"forms": [
+"unless"
+]
+},
+{
+"rank": 604,
+"en": "mad",
+"freq": 5784,
+"forms": [
+"mad"
+]
+},
+{
+"rank": 605,
+"en": "rock",
+"freq": 5784,
+"forms": [
+"rock",
+"rocks",
+"rocking"
+]
+},
+{
+"rank": 606,
+"en": "absolutely",
+"freq": 5769,
+"forms": [
+"absolutely"
+]
+},
+{
+"rank": 607,
+"en": "plane",
+"freq": 5766,
+"forms": [
+"plane",
+"planes"
+]
+},
+{
+"rank": 608,
+"en": "box",
+"freq": 5747,
+"forms": [
+"box",
+"boxes",
+"boxing"
+]
+},
+{
+"rank": 609,
+"en": "blue",
+"freq": 5745,
+"forms": [
+"blue",
+"blues"
+]
+},
+{
+"rank": 610,
+"en": "leg",
+"freq": 5717,
+"forms": [
+"legs",
+"leg"
+]
+},
+{
+"rank": 611,
+"en": "joke",
+"freq": 5713,
+"forms": [
+"joke",
+"joking",
+"jokes"
+]
+},
+{
+"rank": 612,
+"en": "join",
+"freq": 5710,
+"forms": [
+"join",
+"joined",
+"joining"
+]
+},
+{
+"rank": 613,
+"en": "except",
+"freq": 5696,
+"forms": [
+"except"
+]
+},
+{
+"rank": 614,
+"en": "somewhere",
+"freq": 5688,
+"forms": [
+"somewhere"
+]
+},
+{
+"rank": 615,
+"en": "honor",
+"freq": 5677,
+"forms": [
+"honor",
+"honored",
+"honors"
+]
+},
+{
+"rank": 616,
+"en": "less",
+"freq": 5666,
+"forms": [
+"less"
+]
+},
+{
+"rank": 617,
+"en": "none",
+"freq": 5641,
+"forms": [
+"none"
+]
+},
+{
+"rank": 618,
+"en": "push",
+"freq": 5621,
+"forms": [
+"push",
+"pushing",
+"pushed"
+]
+},
+{
+"rank": 619,
+"en": "jump",
+"freq": 5620,
+"forms": [
+"jump",
+"jumped",
+"jumping",
+"jumps"
+]
+},
+{
+"rank": 620,
+"en": "message",
+"freq": 5615,
+"forms": [
+"message",
+"messages"
+]
+},
+{
+"rank": 621,
+"en": "choice",
+"freq": 5611,
+"forms": [
+"choice",
+"choices"
+]
+},
+{
+"rank": 622,
+"en": "mouth",
+"freq": 5598,
+"forms": [
+"mouth",
+"mouths"
+]
+},
+{
+"rank": 623,
+"en": "park",
+"freq": 5590,
+"forms": [
+"park",
+"parking",
+"parked"
+]
+},
+{
+"rank": 624,
+"en": "window",
+"freq": 5576,
+"forms": [
+"window",
+"windows"
+]
+},
+{
+"rank": 625,
+"en": "mile",
+"freq": 5571,
+"forms": [
+"miles",
+"mile"
+]
+},
+{
+"rank": 626,
+"en": "worth",
+"freq": 5569,
+"forms": [
+"worth"
+]
+},
+{
+"rank": 627,
+"en": "club",
+"freq": 5569,
+"forms": [
+"club",
+"clubs"
+]
+},
+{
+"rank": 628,
+"en": "seat",
+"freq": 5564,
+"forms": [
+"seat",
+"seats",
+"seated"
+]
+},
+{
+"rank": 629,
+"en": "careful",
+"freq": 5550,
+"forms": [
+"careful"
+]
+},
+{
+"rank": 630,
+"en": "quick",
+"freq": 5542,
+"forms": [
+"quick"
+]
+},
+{
+"rank": 631,
+"en": "floor",
+"freq": 5539,
+"forms": [
+"floor",
+"floors"
+]
+},
+{
+"rank": 632,
+"en": "knock",
+"freq": 5524,
+"forms": [
+"knock",
+"knocked",
+"knocking",
+"knocks"
+]
+},
+{
+"rank": 633,
+"en": "hotel",
+"freq": 5521,
+"forms": [
+"hotel",
+"hotels"
+]
+},
+{
+"rank": 634,
+"en": "system",
+"freq": 5515,
+"forms": [
+"system",
+"systems"
+]
+},
+{
+"rank": 635,
+"en": "mess",
+"freq": 5503,
+"forms": [
+"mess",
+"messed",
+"messing"
+]
+},
+{
+"rank": 636,
+"en": "boat",
+"freq": 5484,
+"forms": [
+"boat",
+"boats"
+]
+},
+{
+"rank": 637,
+"en": "fish",
+"freq": 5462,
+"forms": [
+"fish",
+"fishing"
+]
+},
+{
+"rank": 638,
+"en": "court",
+"freq": 5437,
+"forms": [
+"court",
+"courts"
+]
+},
+{
+"rank": 639,
+"en": "swear",
+"freq": 5436,
+"forms": [
+"swear",
+"sworn",
+"swore"
+]
+},
+{
+"rank": 640,
+"en": "busy",
+"freq": 5433,
+"forms": [
+"busy"
+]
+},
+{
+"rank": 641,
+"en": "dude",
+"freq": 5416,
+"forms": [
+"dude",
+"dudes"
+]
+},
+{
+"rank": 642,
+"en": "dollar",
+"freq": 5408,
+"forms": [
+"dollars",
+"dollar"
+]
+},
+{
+"rank": 643,
+"en": "wedding",
+"freq": 5401,
+"forms": [
+"wedding",
+"weddings"
+]
+},
+{
+"rank": 644,
+"en": "agree",
+"freq": 5349,
+"forms": [
+"agree",
+"agreed",
+"agrees"
+]
+},
+{
+"rank": 645,
+"en": "major",
+"freq": 5343,
+"forms": [
+"major"
+]
+},
+{
+"rank": 646,
+"en": "shoe",
+"freq": 5332,
+"forms": [
+"shoes",
+"shoe"
+]
+},
+{
+"rank": 647,
+"en": "brain",
+"freq": 5329,
+"forms": [
+"brain",
+"brains"
+]
+},
+{
+"rank": 648,
+"en": "seven",
+"freq": 5327,
+"forms": [
+"seven"
+]
+},
+{
+"rank": 649,
+"en": "fault",
+"freq": 5310,
+"forms": [
+"fault"
+]
+},
+{
+"rank": 650,
+"en": "lunch",
+"freq": 5310,
+"forms": [
+"lunch"
+]
+},
+{
+"rank": 651,
+"en": "lieutenant",
+"freq": 5306,
+"forms": [
+"lieutenant"
+]
+},
+{
+"rank": 652,
+"en": "bar",
+"freq": 5301,
+"forms": [
+"bar",
+"bars"
+]
+},
+{
+"rank": 653,
+"en": "relax",
+"freq": 5292,
+"forms": [
+"relax",
+"relaxed"
+]
+},
+{
+"rank": 654,
+"en": "smoke",
+"freq": 5290,
+"forms": [
+"smoke",
+"smoking",
+"smoked",
+"smokes"
+]
+},
+{
+"rank": 655,
+"en": "future",
+"freq": 5278,
+"forms": [
+"future"
+]
+},
+{
+"rank": 656,
+"en": "pain",
+"freq": 5264,
+"forms": [
+"pain",
+"pains"
+]
+},
+{
+"rank": 657,
+"en": "bother",
+"freq": 5259,
+"forms": [
+"bother",
+"bothering",
+"bothered",
+"bothers"
+]
+},
+{
+"rank": 658,
+"en": "roll",
+"freq": 5206,
+"forms": [
+"roll",
+"rolling",
+"rolled",
+"rolls"
+]
+},
+{
+"rank": 659,
+"en": "tv",
+"freq": 5199,
+"forms": [
+"tv"
+]
+},
+{
+"rank": 660,
+"en": "voice",
+"freq": 5187,
+"forms": [
+"voice",
+"voices"
+]
+},
+{
+"rank": 661,
+"en": "clothes",
+"freq": 5158,
+"forms": [
+"clothes"
+]
+},
+{
+"rank": 662,
+"en": "weird",
+"freq": 5156,
+"forms": [
+"weird"
+]
+},
+{
+"rank": 663,
+"en": "notice",
+"freq": 5153,
+"forms": [
+"notice",
+"noticed"
+]
+},
+{
+"rank": 664,
+"en": "bank",
+"freq": 5145,
+"forms": [
+"bank",
+"banks"
+]
+},
+{
+"rank": 665,
+"en": "service",
+"freq": 5129,
+"forms": [
+"service",
+"services"
+]
+},
+{
+"rank": 666,
+"en": "hundred",
+"freq": 5123,
+"forms": [
+"hundred",
+"hundreds"
+]
+},
+{
+"rank": 667,
+"en": "prove",
+"freq": 5111,
+"forms": [
+"prove",
+"proved",
+"proves",
+"proven",
+"proving"
+]
+},
+{
+"rank": 668,
+"en": "judge",
+"freq": 5111,
+"forms": [
+"judge",
+"judging",
+"judges",
+"judged"
+]
+},
+{
+"rank": 669,
+"en": "allow",
+"freq": 5078,
+"forms": [
+"allowed",
+"allow",
+"allows",
+"allowing"
+]
+},
+{
+"rank": 670,
+"en": "earth",
+"freq": 5074,
+"forms": [
+"earth"
+]
+},
+{
+"rank": 671,
+"en": "partner",
+"freq": 5068,
+"forms": [
+"partner",
+"partners"
+]
+},
+{
+"rank": 672,
+"en": "lay",
+"freq": 5065,
+"forms": [
+"lay",
+"laid",
+"laying"
+]
+},
+{
+"rank": 673,
+"en": "quit",
+"freq": 5045,
+"forms": [
+"quit",
+"quitting"
+]
+},
+{
+"rank": 674,
+"en": "attention",
+"freq": 5032,
+"forms": [
+"attention"
+]
+},
+{
+"rank": 675,
+"en": "lawyer",
+"freq": 5030,
+"forms": [
+"lawyer",
+"lawyers"
+]
+},
+{
+"rank": 676,
+"en": "share",
+"freq": 5026,
+"forms": [
+"share",
+"sharing",
+"shared",
+"shares"
+]
+},
+{
+"rank": 677,
+"en": "eight",
+"freq": 5010,
+"forms": [
+"eight"
+]
+},
+{
+"rank": 678,
+"en": "worse",
+"freq": 5002,
+"forms": [
+"worse"
+]
+},
+{
+"rank": 679,
+"en": "birthday",
+"freq": 4958,
+"forms": [
+"birthday"
+]
+},
+{
+"rank": 680,
+"en": "protect",
+"freq": 4954,
+"forms": [
+"protect",
+"protecting",
+"protected"
+]
+},
+{
+"rank": 681,
+"en": "thousand",
+"freq": 4944,
+"forms": [
+"thousand",
+"thousands"
+]
+},
+{
+"rank": 682,
+"en": "yesterday",
+"freq": 4935,
+"forms": [
+"yesterday"
+]
+},
+{
+"rank": 683,
+"en": "smart",
+"freq": 4909,
+"forms": [
+"smart"
+]
+},
+{
+"rank": 684,
+"en": "colonel",
+"freq": 4909,
+"forms": [
+"colonel"
+]
+},
+{
+"rank": 685,
+"en": "imagine",
+"freq": 4885,
+"forms": [
+"imagine",
+"imagined",
+"imagining"
+]
+},
+{
+"rank": 686,
+"en": "tree",
+"freq": 4880,
+"forms": [
+"tree",
+"trees"
+]
+},
+{
+"rank": 687,
+"en": "wall",
+"freq": 4866,
+"forms": [
+"wall",
+"walls"
+]
+},
+{
+"rank": 688,
+"en": "lovely",
+"freq": 4853,
+"forms": [
+"lovely"
+]
+},
+{
+"rank": 689,
+"en": "short",
+"freq": 4847,
+"forms": [
+"short",
+"shorts"
+]
+},
+{
+"rank": 690,
+"en": "reach",
+"freq": 4843,
+"forms": [
+"reach",
+"reached",
+"reaching",
+"reaches"
+]
+},
+{
+"rank": 691,
+"en": "master",
+"freq": 4836,
+"forms": [
+"master",
+"masters"
+]
+},
+{
+"rank": 692,
+"en": "fair",
+"freq": 4832,
+"forms": [
+"fair"
+]
+},
+{
+"rank": 693,
+"en": "consider",
+"freq": 4831,
+"forms": [
+"consider",
+"considered",
+"considering"
+]
+},
+{
+"rank": 694,
+"en": "arrest",
+"freq": 4818,
+"forms": [
+"arrest",
+"arrested"
+]
+},
+{
+"rank": 695,
+"en": "security",
+"freq": 4810,
+"forms": [
+"security"
+]
+},
+{
+"rank": 696,
+"en": "across",
+"freq": 4801,
+"forms": [
+"across"
+]
+},
+{
+"rank": 697,
+"en": "terrible",
+"freq": 4795,
+"forms": [
+"terrible"
+]
+},
+{
+"rank": 698,
+"en": "trip",
+"freq": 4790,
+"forms": [
+"trip",
+"trips",
+"tripped"
+]
+},
+{
+"rank": 699,
+"en": "treat",
+"freq": 4787,
+"forms": [
+"treat",
+"treated",
+"treating",
+"treats"
+]
+},
+{
+"rank": 700,
+"en": "drug",
+"freq": 4770,
+"forms": [
+"drugs",
+"drug"
+]
+},
+{
+"rank": 701,
+"en": "patient",
+"freq": 4757,
+"forms": [
+"patient",
+"patients"
+]
+},
+{
+"rank": 702,
+"en": "rise",
+"freq": 4737,
+"forms": [
+"rise",
+"rose",
+"rising",
+"rises"
+]
+},
+{
+"rank": 703,
+"en": "angel",
+"freq": 4736,
+"forms": [
+"angel",
+"angels"
+]
+},
+{
+"rank": 704,
+"en": "waste",
+"freq": 4705,
+"forms": [
+"waste",
+"wasting",
+"wasted"
+]
+},
+{
+"rank": 705,
+"en": "raise",
+"freq": 4701,
+"forms": [
+"raise",
+"raised",
+"raising"
+]
+},
+{
+"rank": 706,
+"en": "draw",
+"freq": 4697,
+"forms": [
+"draw",
+"drew",
+"drawing",
+"drawn"
+]
+},
+{
+"rank": 707,
+"en": "soul",
+"freq": 4679,
+"forms": [
+"soul",
+"souls"
+]
+},
+{
+"rank": 708,
+"en": "station",
+"freq": 4678,
+"forms": [
+"station",
+"stations"
+]
+},
+{
+"rank": 709,
+"en": "personal",
+"freq": 4675,
+"forms": [
+"personal"
+]
+},
+{
+"rank": 710,
+"en": "afternoon",
+"freq": 4666,
+"forms": [
+"afternoon"
+]
+},
+{
+"rank": 711,
+"en": "appreciate",
+"freq": 4665,
+"forms": [
+"appreciate",
+"appreciated"
+]
+},
+{
+"rank": 712,
+"en": "store",
+"freq": 4663,
+"forms": [
+"store",
+"stores"
+]
+},
+{
+"rank": 713,
+"en": "owe",
+"freq": 4634,
+"forms": [
+"owe",
+"owes",
+"owed"
+]
+},
+{
+"rank": 714,
+"en": "ground",
+"freq": 4626,
+"forms": [
+"ground",
+"grounds",
+"grounded"
+]
+},
+{
+"rank": 715,
+"en": "track",
+"freq": 4619,
+"forms": [
+"track",
+"tracks",
+"tracking",
+"tracked"
+]
+},
+{
+"rank": 716,
+"en": "tough",
+"freq": 4616,
+"forms": [
+"tough"
+]
+},
+{
+"rank": 717,
+"en": "age",
+"freq": 4606,
+"forms": [
+"age",
+"ages"
+]
+},
+{
+"rank": 718,
+"en": "choose",
+"freq": 4606,
+"forms": [
+"choose",
+"chose",
+"chosen",
+"choosing"
+]
+},
+{
+"rank": 719,
+"en": "mention",
+"freq": 4589,
+"forms": [
+"mention",
+"mentioned"
+]
+},
+{
+"rank": 720,
+"en": "buck",
+"freq": 4587,
+"forms": [
+"bucks",
+"buck"
+]
+},
+{
+"rank": 721,
+"en": "situation",
+"freq": 4569,
+"forms": [
+"situation",
+"situations"
+]
+},
+{
+"rank": 722,
+"en": "information",
+"freq": 4557,
+"forms": [
+"information"
+]
+},
+{
+"rank": 723,
+"en": "simple",
+"freq": 4555,
+"forms": [
+"simple"
+]
+},
+{
+"rank": 724,
+"en": "middle",
+"freq": 4549,
+"forms": [
+"middle"
+]
+},
+{
+"rank": 725,
+"en": "study",
+"freq": 4542,
+"forms": [
+"study",
+"studying",
+"studied",
+"studies"
+]
+},
+{
+"rank": 726,
+"en": "calm",
+"freq": 4541,
+"forms": [
+"calm"
+]
+},
+{
+"rank": 727,
+"en": "ticket",
+"freq": 4535,
+"forms": [
+"ticket",
+"tickets"
+]
+},
+{
+"rank": 728,
+"en": "forever",
+"freq": 4529,
+"forms": [
+"forever"
+]
+},
+{
+"rank": 729,
+"en": "dark",
+"freq": 4519,
+"forms": [
+"dark"
+]
+},
+{
+"rank": 730,
+"en": "anywhere",
+"freq": 4501,
+"forms": [
+"anywhere"
+]
+},
+{
+"rank": 731,
+"en": "grab",
+"freq": 4496,
+"forms": [
+"grab",
+"grabbed",
+"grabbing"
+]
+},
+{
+"rank": 732,
+"en": "shop",
+"freq": 4490,
+"forms": [
+"shop",
+"shopping",
+"shops"
+]
+},
+{
+"rank": 733,
+"en": "accident",
+"freq": 4486,
+"forms": [
+"accident",
+"accidents"
+]
+},
+{
+"rank": 734,
+"en": "cute",
+"freq": 4475,
+"forms": [
+"cute"
+]
+},
+{
+"rank": 735,
+"en": "apartment",
+"freq": 4450,
+"forms": [
+"apartment",
+"apartments"
+]
+},
+{
+"rank": 736,
+"en": "weapon",
+"freq": 4444,
+"forms": [
+"weapon",
+"weapons"
+]
+},
+{
+"rank": 737,
+"en": "strong",
+"freq": 4430,
+"forms": [
+"strong"
+]
+},
+{
+"rank": 738,
+"en": "amazing",
+"freq": 4428,
+"forms": [
+"amazing",
+"amazed"
+]
+},
+{
+"rank": 739,
+"en": "strange",
+"freq": 4408,
+"forms": [
+"strange"
+]
+},
+{
+"rank": 740,
+"en": "smile",
+"freq": 4402,
+"forms": [
+"smile",
+"smiling",
+"smiles",
+"smiled"
+]
+},
+{
+"rank": 741,
+"en": "scream",
+"freq": 4401,
+"forms": [
+"screaming",
+"scream",
+"screams",
+"screamed"
+]
+},
+{
+"rank": 742,
+"en": "beer",
+"freq": 4398,
+"forms": [
+"beer",
+"beers"
+]
+},
+{
+"rank": 743,
+"en": "list",
+"freq": 4394,
+"forms": [
+"list",
+"listed"
+]
+},
+{
+"rank": 744,
+"en": "suit",
+"freq": 4394,
+"forms": [
+"suit",
+"suits"
+]
+},
+{
+"rank": 745,
+"en": "tape",
+"freq": 4393,
+"forms": [
+"tape",
+"tapes",
+"taped"
+]
+},
+{
+"rank": 746,
+"en": "cat",
+"freq": 4389,
+"forms": [
+"cat",
+"cats"
+]
+},
+{
+"rank": 747,
+"en": "totally",
+"freq": 4377,
+"forms": [
+"totally"
+]
+},
+{
+"rank": 748,
+"en": "destroy",
+"freq": 4377,
+"forms": [
+"destroy",
+"destroyed",
+"destroying"
+]
+},
+{
+"rank": 749,
+"en": "difference",
+"freq": 4371,
+"forms": [
+"difference",
+"differences"
+]
+},
+{
+"rank": 750,
+"en": "army",
+"freq": 4370,
+"forms": [
+"army"
+]
+},
+{
+"rank": 751,
+"en": "concern",
+"freq": 4364,
+"forms": [
+"concerned",
+"concern",
+"concerns",
+"concerning"
+]
+},
+{
+"rank": 752,
+"en": "visit",
+"freq": 4363,
+"forms": [
+"visit",
+"visiting",
+"visited",
+"visits"
+]
+},
+{
+"rank": 753,
+"en": "certain",
+"freq": 4354,
+"forms": [
+"certain"
+]
+},
+{
+"rank": 754,
+"en": "college",
+"freq": 4344,
+"forms": [
+"college"
+]
+},
+{
+"rank": 755,
+"en": "evidence",
+"freq": 4335,
+"forms": [
+"evidence"
+]
+},
+{
+"rank": 756,
+"en": "besides",
+"freq": 4328,
+"forms": [
+"besides"
+]
+},
+{
+"rank": 757,
+"en": "respect",
+"freq": 4320,
+"forms": [
+"respect",
+"respected",
+"respects"
+]
+},
+{
+"rank": 758,
+"en": "animal",
+"freq": 4313,
+"forms": [
+"animal",
+"animals"
+]
+},
+{
+"rank": 759,
+"en": "completely",
+"freq": 4303,
+"forms": [
+"completely"
+]
+},
+{
+"rank": 760,
+"en": "girlfriend",
+"freq": 4294,
+"forms": [
+"girlfriend",
+"girlfriends"
+]
+},
+{
+"rank": 761,
+"en": "machine",
+"freq": 4290,
+"forms": [
+"machine",
+"machines"
+]
+},
+{
+"rank": 762,
+"en": "file",
+"freq": 4285,
+"forms": [
+"file",
+"files",
+"filed",
+"filing"
+]
+},
+{
+"rank": 763,
+"en": "history",
+"freq": 4280,
+"forms": [
+"history"
+]
+},
+{
+"rank": 764,
+"en": "fear",
+"freq": 4279,
+"forms": [
+"fear",
+"fears",
+"feared"
+]
+},
+{
+"rank": 765,
+"en": "area",
+"freq": 4277,
+"forms": [
+"area",
+"areas"
+]
+},
+{
+"rank": 766,
+"en": "ice",
+"freq": 4275,
+"forms": [
+"ice",
+"iced"
+]
+},
+{
+"rank": 767,
+"en": "proud",
+"freq": 4265,
+"forms": [
+"proud"
+]
+},
+{
+"rank": 768,
+"en": "excited",
+"freq": 4255,
+"forms": [
+"excited",
+"exciting"
+]
+},
+{
+"rank": 769,
+"en": "involve",
+"freq": 4254,
+"forms": [
+"involved",
+"involve",
+"involves",
+"involving"
+]
+},
+{
+"rank": 770,
+"en": "gift",
+"freq": 4251,
+"forms": [
+"gift",
+"gifts",
+"gifted"
+]
+},
+{
+"rank": 771,
+"en": "forgive",
+"freq": 4248,
+"forms": [
+"forgive",
+"forgiven"
+]
+},
+{
+"rank": 772,
+"en": "near",
+"freq": 4238,
+"forms": [
+"near"
+]
+},
+{
+"rank": 773,
+"en": "scene",
+"freq": 4235,
+"forms": [
+"scene",
+"scenes"
+]
+},
+{
+"rank": 774,
+"en": "group",
+"freq": 4233,
+"forms": [
+"group",
+"groups"
+]
+},
+{
+"rank": 775,
+"en": "note",
+"freq": 4231,
+"forms": [
+"note",
+"notes",
+"noted"
+]
+},
+{
+"rank": 776,
+"en": "crime",
+"freq": 4223,
+"forms": [
+"crime",
+"crimes"
+]
+},
+{
+"rank": 777,
+"en": "truck",
+"freq": 4219,
+"forms": [
+"truck",
+"trucks"
+]
+},
+{
+"rank": 778,
+"en": "chief",
+"freq": 4215,
+"forms": [
+"chief",
+"chiefs"
+]
+},
+{
+"rank": 779,
+"en": "guard",
+"freq": 4205,
+"forms": [
+"guard",
+"guards"
+]
+},
+{
+"rank": 780,
+"en": "belong",
+"freq": 4196,
+"forms": [
+"belong",
+"belongs",
+"belonged"
+]
+},
+{
+"rank": 781,
+"en": "continue",
+"freq": 4190,
+"forms": [
+"continue",
+"continues",
+"continued",
+"continuing"
+]
+},
+{
+"rank": 782,
+"en": "spot",
+"freq": 4189,
+"forms": [
+"spot",
+"spotted",
+"spots"
+]
+},
+{
+"rank": 783,
+"en": "field",
+"freq": 4189,
+"forms": [
+"field",
+"fields"
+]
+},
+{
+"rank": 784,
+"en": "experience",
+"freq": 4177,
+"forms": [
+"experience",
+"experienced",
+"experiences",
+"experiencing"
+]
+},
+{
+"rank": 785,
+"en": "position",
+"freq": 4165,
+"forms": [
+"position",
+"positions"
+]
+},
+{
+"rank": 786,
+"en": "tie",
+"freq": 4132,
+"forms": [
+"tie",
+"tied",
+"ties"
+]
+},
+{
+"rank": 787,
+"en": "cross",
+"freq": 4125,
+"forms": [
+"cross",
+"crossed",
+"crossing"
+]
+},
+{
+"rank": 788,
+"en": "doc",
+"freq": 4122,
+"forms": [
+"doc"
+]
+},
+{
+"rank": 789,
+"en": "fill",
+"freq": 4121,
+"forms": [
+"fill",
+"filled",
+"filling"
+]
+},
+{
+"rank": 790,
+"en": "pleasure",
+"freq": 4118,
+"forms": [
+"pleasure"
+]
+},
+{
+"rank": 791,
+"en": "ought",
+"freq": 4118,
+"forms": [
+"ought"
+]
+},
+{
+"rank": 792,
+"en": "cook",
+"freq": 4116,
+"forms": [
+"cook",
+"cooking",
+"cooked"
+]
+},
+{
+"rank": 793,
+"en": "race",
+"freq": 4111,
+"forms": [
+"race",
+"racing",
+"races"
+]
+},
+{
+"rank": 794,
+"en": "rich",
+"freq": 4100,
+"forms": [
+"rich"
+]
+},
+{
+"rank": 795,
+"en": "contact",
+"freq": 4087,
+"forms": [
+"contact",
+"contacted",
+"contacts"
+]
+},
+{
+"rank": 796,
+"en": "art",
+"freq": 4081,
+"forms": [
+"art",
+"arts"
+]
+},
+{
+"rank": 797,
+"en": "film",
+"freq": 4078,
+"forms": [
+"film",
+"films"
+]
+},
+{
+"rank": 798,
+"en": "paint",
+"freq": 4076,
+"forms": [
+"paint",
+"painting",
+"painted"
+]
+},
+{
+"rank": 799,
+"en": "entire",
+"freq": 4070,
+"forms": [
+"entire"
+]
+},
+{
+"rank": 800,
+"en": "pack",
+"freq": 4068,
+"forms": [
+"pack",
+"packed",
+"packing",
+"packs"
+]
+},
+{
+"rank": 801,
+"en": "relationship",
+"freq": 4061,
+"forms": [
+"relationship",
+"relationships"
+]
+},
+{
+"rank": 802,
+"en": "board",
+"freq": 4058,
+"forms": [
+"board",
+"boarding",
+"boards"
+]
+},
+{
+"rank": 803,
+"en": "fat",
+"freq": 4051,
+"forms": [
+"fat"
+]
+},
+{
+"rank": 804,
+"en": "all right",
+"freq": 4044,
+"forms": [
+"alright"
+]
+},
+{
+"rank": 805,
+"en": "instead",
+"freq": 4043,
+"forms": [
+"instead"
+]
+},
+{
+"rank": 806,
+"en": "gold",
+"freq": 4026,
+"forms": [
+"gold"
+]
+},
+{
+"rank": 807,
+"en": "upset",
+"freq": 4018,
+"forms": [
+"upset",
+"upsetting"
+]
+},
+{
+"rank": 808,
+"en": "summer",
+"freq": 4012,
+"forms": [
+"summer"
+]
+},
+{
+"rank": 809,
+"en": "prepare",
+"freq": 3993,
+"forms": [
+"prepared",
+"prepare",
+"preparing"
+]
+},
+{
+"rank": 810,
+"en": "favor",
+"freq": 3989,
+"forms": [
+"favor",
+"favors"
+]
+},
+{
+"rank": 811,
+"en": "idiot",
+"freq": 3984,
+"forms": [
+"idiot",
+"idiots"
+]
+},
+{
+"rank": 812,
+"en": "bus",
+"freq": 3984,
+"forms": [
+"bus",
+"buses"
+]
+},
+{
+"rank": 813,
+"en": "round",
+"freq": 3948,
+"forms": [
+"round",
+"rounds"
+]
+},
+{
+"rank": 814,
+"en": "boyfriend",
+"freq": 3943,
+"forms": [
+"boyfriend",
+"boyfriends"
+]
+},
+{
+"rank": 815,
+"en": "invite",
+"freq": 3940,
+"forms": [
+"invited",
+"invite",
+"inviting"
+]
+},
+{
+"rank": 816,
+"en": "radio",
+"freq": 3936,
+"forms": [
+"radio"
+]
+},
+{
+"rank": 817,
+"en": "hungry",
+"freq": 3931,
+"forms": [
+"hungry"
+]
+},
+{
+"rank": 818,
+"en": "marriage",
+"freq": 3930,
+"forms": [
+"marriage"
+]
+},
+{
+"rank": 819,
+"en": "witness",
+"freq": 3917,
+"forms": [
+"witness",
+"witnesses",
+"witnessed"
+]
+},
+{
+"rank": 820,
+"en": "deep",
+"freq": 3896,
+"forms": [
+"deep"
+]
+},
+{
+"rank": 821,
+"en": "breathe",
+"freq": 3891,
+"forms": [
+"breathe",
+"breathing"
+]
+},
+{
+"rank": 822,
+"en": "sake",
+"freq": 3879,
+"forms": [
+"sake",
+"sakes"
+]
+},
+{
+"rank": 823,
+"en": "folks",
+"freq": 3878,
+"forms": [
+"folks"
+]
+},
+{
+"rank": 824,
+"en": "slow",
+"freq": 3877,
+"forms": [
+"slow"
+]
+},
+{
+"rank": 825,
+"en": "fit",
+"freq": 3876,
+"forms": [
+"fit",
+"fits",
+"fitting"
+]
+},
+{
+"rank": 826,
+"en": "private",
+"freq": 3874,
+"forms": [
+"private"
+]
+},
+{
+"rank": 827,
+"en": "during",
+"freq": 3872,
+"forms": [
+"during"
+]
+},
+{
+"rank": 828,
+"en": "strike",
+"freq": 3859,
+"forms": [
+"strike",
+"struck",
+"strikes",
+"striking"
+]
+},
+{
+"rank": 829,
+"en": "serve",
+"freq": 3857,
+"forms": [
+"serve",
+"served",
+"serving",
+"serves"
+]
+},
+{
+"rank": 830,
+"en": "definitely",
+"freq": 3848,
+"forms": [
+"definitely"
+]
+},
+{
+"rank": 831,
+"en": "bomb",
+"freq": 3846,
+"forms": [
+"bomb",
+"bombs",
+"bombing"
+]
+},
+{
+"rank": 832,
+"en": "camera",
+"freq": 3822,
+"forms": [
+"camera",
+"cameras"
+]
+},
+{
+"rank": 833,
+"en": "tear",
+"freq": 3820,
+"forms": [
+"tear",
+"tears",
+"torn",
+"tore",
+"tearing"
+]
+},
+{
+"rank": 834,
+"en": "dangerous",
+"freq": 3817,
+"forms": [
+"dangerous"
+]
+},
+{
+"rank": 835,
+"en": "third",
+"freq": 3801,
+"forms": [
+"third"
+]
+},
+{
+"rank": 836,
+"en": "nose",
+"freq": 3800,
+"forms": [
+"nose",
+"noses"
+]
+},
+{
+"rank": 837,
+"en": "client",
+"freq": 3786,
+"forms": [
+"client",
+"clients"
+]
+},
+{
+"rank": 838,
+"en": "killer",
+"freq": 3783,
+"forms": [
+"killer",
+"killers"
+]
+},
+{
+"rank": 839,
+"en": "english",
+"freq": 3777,
+"forms": [
+"english"
+]
+},
+{
+"rank": 840,
+"en": "hat",
+"freq": 3769,
+"forms": [
+"hat",
+"hats"
+]
+},
+{
+"rank": 841,
+"en": "arrive",
+"freq": 3765,
+"forms": [
+"arrived",
+"arrive",
+"arrives",
+"arriving"
+]
+},
+{
+"rank": 842,
+"en": "student",
+"freq": 3759,
+"forms": [
+"student",
+"students"
+]
+},
+{
+"rank": 843,
+"en": "hole",
+"freq": 3748,
+"forms": [
+"hole",
+"holes"
+]
+},
+{
+"rank": 844,
+"en": "beg",
+"freq": 3737,
+"forms": [
+"beg",
+"begging",
+"begged"
+]
+},
+{
+"rank": 845,
+"en": "action",
+"freq": 3735,
+"forms": [
+"action",
+"actions"
+]
+},
+{
+"rank": 846,
+"en": "evil",
+"freq": 3731,
+"forms": [
+"evil"
+]
+},
+{
+"rank": 847,
+"en": "warn",
+"freq": 3731,
+"forms": [
+"warning",
+"warn",
+"warned"
+]
+},
+{
+"rank": 848,
+"en": "search",
+"freq": 3729,
+"forms": [
+"search",
+"searching",
+"searched"
+]
+},
+{
+"rank": 849,
+"en": "accept",
+"freq": 3699,
+"forms": [
+"accept",
+"accepted",
+"accepting"
+]
+},
+{
+"rank": 850,
+"en": "green",
+"freq": 3696,
+"forms": [
+"green"
+]
+},
+{
+"rank": 851,
+"en": "cash",
+"freq": 3694,
+"forms": [
+"cash"
+]
+},
+{
+"rank": 852,
+"en": "forward",
+"freq": 3689,
+"forms": [
+"forward"
+]
+},
+{
+"rank": 853,
+"en": "honest",
+"freq": 3689,
+"forms": [
+"honest"
+]
+},
+{
+"rank": 854,
+"en": "fella",
+"freq": 3678,
+"forms": [
+"fellas",
+"fella"
+]
+},
+{
+"rank": 855,
+"en": "single",
+"freq": 3676,
+"forms": [
+"single"
+]
+},
+{
+"rank": 856,
+"en": "chicken",
+"freq": 3668,
+"forms": [
+"chicken",
+"chickens"
+]
+},
+{
+"rank": 857,
+"en": "fellow",
+"freq": 3663,
+"forms": [
+"fellow",
+"fellows"
+]
+},
+{
+"rank": 858,
+"en": "press",
+"freq": 3656,
+"forms": [
+"press",
+"pressed",
+"pressing"
+]
+},
+{
+"rank": 859,
+"en": "blame",
+"freq": 3639,
+"forms": [
+"blame",
+"blaming",
+"blamed"
+]
+},
+{
+"rank": 860,
+"en": "bird",
+"freq": 3638,
+"forms": [
+"bird",
+"birds"
+]
+},
+{
+"rank": 861,
+"en": "trick",
+"freq": 3631,
+"forms": [
+"trick",
+"tricks",
+"tricked"
+]
+},
+{
+"rank": 862,
+"en": "victim",
+"freq": 3630,
+"forms": [
+"victim",
+"victims"
+]
+},
+{
+"rank": 863,
+"en": "public",
+"freq": 3625,
+"forms": [
+"public"
+]
+},
+{
+"rank": 864,
+"en": "congratulations",
+"freq": 3616,
+"forms": [
+"congratulations"
+]
+},
+{
+"rank": 865,
+"en": "match",
+"freq": 3615,
+"forms": [
+"match",
+"matches",
+"matching",
+"matched"
+]
+},
+{
+"rank": 866,
+"en": "memory",
+"freq": 3609,
+"forms": [
+"memory",
+"memories"
+]
+},
+{
+"rank": 867,
+"en": "upstairs",
+"freq": 3607,
+"forms": [
+"upstairs"
+]
+},
+{
+"rank": 868,
+"en": "cost",
+"freq": 3606,
+"forms": [
+"cost",
+"costs"
+]
+},
+{
+"rank": 869,
+"en": "jail",
+"freq": 3602,
+"forms": [
+"jail"
+]
+},
+{
+"rank": 870,
+"en": "normal",
+"freq": 3589,
+"forms": [
+"normal"
+]
+},
+{
+"rank": 871,
+"en": "decision",
+"freq": 3589,
+"forms": [
+"decision",
+"decisions"
+]
+},
+{
+"rank": 872,
+"en": "flower",
+"freq": 3588,
+"forms": [
+"flowers",
+"flower"
+]
+},
+{
+"rank": 873,
+"en": "type",
+"freq": 3572,
+"forms": [
+"type",
+"types"
+]
+},
+{
+"rank": 874,
+"en": "feed",
+"freq": 3571,
+"forms": [
+"feed",
+"fed",
+"feeding"
+]
+},
+{
+"rank": 875,
+"en": "finger",
+"freq": 3566,
+"forms": [
+"finger",
+"fingers"
+]
+},
+{
+"rank": 876,
+"en": "heaven",
+"freq": 3564,
+"forms": [
+"heaven",
+"heavens"
+]
+},
+{
+"rank": 877,
+"en": "computer",
+"freq": 3562,
+"forms": [
+"computer",
+"computers"
+]
+},
+{
+"rank": 878,
+"en": "sun",
+"freq": 3553,
+"forms": [
+"sun"
+]
+},
+{
+"rank": 879,
+"en": "church",
+"freq": 3553,
+"forms": [
+"church"
+]
+},
+{
+"rank": 880,
+"en": "deserve",
+"freq": 3551,
+"forms": [
+"deserve",
+"deserves",
+"deserved"
+]
+},
+{
+"rank": 881,
+"en": "peace",
+"freq": 3550,
+"forms": [
+"peace"
+]
+},
+{
+"rank": 882,
+"en": "professor",
+"freq": 3548,
+"forms": [
+"professor"
+]
+},
+{
+"rank": 883,
+"en": "french",
+"freq": 3541,
+"forms": [
+"french"
+]
+},
+{
+"rank": 884,
+"en": "doubt",
+"freq": 3537,
+"forms": [
+"doubt",
+"doubts"
+]
+},
+{
+"rank": 885,
+"en": "nut",
+"freq": 3526,
+"forms": [
+"nuts",
+"nut"
+]
+},
+{
+"rank": 886,
+"en": "taste",
+"freq": 3521,
+"forms": [
+"taste",
+"tastes",
+"tasted"
+]
+},
+{
+"rank": 887,
+"en": "weekend",
+"freq": 3495,
+"forms": [
+"weekend",
+"weekends"
+]
+},
+{
+"rank": 888,
+"en": "dig",
+"freq": 3488,
+"forms": [
+"dig",
+"digging",
+"dug"
+]
+},
+{
+"rank": 889,
+"en": "admit",
+"freq": 3486,
+"forms": [
+"admit",
+"admitted"
+]
+},
+{
+"rank": 890,
+"en": "holy",
+"freq": 3475,
+"forms": [
+"holy"
+]
+},
+{
+"rank": 891,
+"en": "block",
+"freq": 3471,
+"forms": [
+"block",
+"blocks",
+"blocked",
+"blocking"
+]
+},
+{
+"rank": 892,
+"en": "enemy",
+"freq": 3459,
+"forms": [
+"enemy",
+"enemies"
+]
+},
+{
+"rank": 893,
+"en": "detective",
+"freq": 3458,
+"forms": [
+"detective",
+"detectives"
+]
+},
+{
+"rank": 894,
+"en": "gas",
+"freq": 3457,
+"forms": [
+"gas"
+]
+},
+{
+"rank": 895,
+"en": "neither",
+"freq": 3451,
+"forms": [
+"neither"
+]
+},
+{
+"rank": 896,
+"en": "nine",
+"freq": 3441,
+"forms": [
+"nine"
+]
+},
+{
+"rank": 897,
+"en": "especially",
+"freq": 3428,
+"forms": [
+"especially"
+]
+},
+{
+"rank": 898,
+"en": "nervous",
+"freq": 3425,
+"forms": [
+"nervous"
+]
+},
+{
+"rank": 899,
+"en": "whether",
+"freq": 3424,
+"forms": [
+"whether"
+]
+},
+{
+"rank": 900,
+"en": "teacher",
+"freq": 3423,
+"forms": [
+"teacher",
+"teachers"
+]
+},
+{
+"rank": 901,
+"en": "wind",
+"freq": 3412,
+"forms": [
+"wind",
+"winds"
+]
+},
+{
+"rank": 902,
+"en": "soldier",
+"freq": 3394,
+"forms": [
+"soldier",
+"soldiers"
+]
+},
+{
+"rank": 903,
+"en": "dirty",
+"freq": 3389,
+"forms": [
+"dirty"
+]
+},
+{
+"rank": 904,
+"en": "suspect",
+"freq": 3386,
+"forms": [
+"suspect",
+"suspects",
+"suspected"
+]
+},
+{
+"rank": 905,
+"en": "cell",
+"freq": 3382,
+"forms": [
+"cell",
+"cells"
+]
+},
+{
+"rank": 906,
+"en": "breakfast",
+"freq": 3381,
+"forms": [
+"breakfast"
+]
+},
+{
+"rank": 907,
+"en": "space",
+"freq": 3369,
+"forms": [
+"space"
+]
+},
+{
+"rank": 908,
+"en": "prison",
+"freq": 3368,
+"forms": [
+"prison"
+]
+},
+{
+"rank": 909,
+"en": "ruin",
+"freq": 3360,
+"forms": [
+"ruin",
+"ruined",
+"ruining",
+"ruins"
+]
+},
+{
+"rank": 910,
+"en": "discuss",
+"freq": 3348,
+"forms": [
+"discuss",
+"discussed",
+"discussing"
+]
+},
+{
+"rank": 911,
+"en": "guest",
+"freq": 3348,
+"forms": [
+"guest",
+"guests"
+]
+},
+{
+"rank": 912,
+"en": "settle",
+"freq": 3344,
+"forms": [
+"settle",
+"settled",
+"settling"
+]
+},
+{
+"rank": 913,
+"en": "spirit",
+"freq": 3340,
+"forms": [
+"spirit",
+"spirits"
+]
+},
+{
+"rank": 914,
+"en": "ear",
+"freq": 3337,
+"forms": [
+"ears",
+"ear"
+]
+},
+{
+"rank": 915,
+"en": "suggest",
+"freq": 3333,
+"forms": [
+"suggest",
+"suggesting",
+"suggested",
+"suggests"
+]
+},
+{
+"rank": 916,
+"en": "government",
+"freq": 3327,
+"forms": [
+"government"
+]
+},
+{
+"rank": 917,
+"en": "freeze",
+"freq": 3318,
+"forms": [
+"freeze",
+"frozen",
+"freezing",
+"froze"
+]
+},
+{
+"rank": 918,
+"en": "egg",
+"freq": 3299,
+"forms": [
+"eggs",
+"egg"
+]
+},
+{
+"rank": 919,
+"en": "pardon",
+"freq": 3297,
+"forms": [
+"pardon"
+]
+},
+{
+"rank": 920,
+"en": "nurse",
+"freq": 3289,
+"forms": [
+"nurse",
+"nurses",
+"nursing"
+]
+},
+{
+"rank": 921,
+"en": "south",
+"freq": 3288,
+"forms": [
+"south"
+]
+},
+{
+"rank": 922,
+"en": "queen",
+"freq": 3285,
+"forms": [
+"queen",
+"queens"
+]
+},
+{
+"rank": 923,
+"en": "flight",
+"freq": 3278,
+"forms": [
+"flight",
+"flights"
+]
+},
+{
+"rank": 924,
+"en": "sea",
+"freq": 3275,
+"forms": [
+"sea",
+"seas"
+]
+},
+{
+"rank": 925,
+"en": "sweetheart",
+"freq": 3272,
+"forms": [
+"sweetheart"
+]
+},
+{
+"rank": 926,
+"en": "seriously",
+"freq": 3270,
+"forms": [
+"seriously"
+]
+},
+{
+"rank": 927,
+"en": "bottle",
+"freq": 3270,
+"forms": [
+"bottle",
+"bottles"
+]
+},
+{
+"rank": 928,
+"en": "dare",
+"freq": 3268,
+"forms": [
+"dare",
+"dared",
+"daring"
+]
+},
+{
+"rank": 929,
+"en": "hire",
+"freq": 3264,
+"forms": [
+"hired",
+"hire",
+"hiring"
+]
+},
+{
+"rank": 930,
+"en": "rain",
+"freq": 3259,
+"forms": [
+"rain",
+"raining",
+"rains"
+]
+},
+{
+"rank": 931,
+"en": "north",
+"freq": 3258,
+"forms": [
+"north"
+]
+},
+{
+"rank": 932,
+"en": "wash",
+"freq": 3257,
+"forms": [
+"wash",
+"washed",
+"washing"
+]
+},
+{
+"rank": 933,
+"en": "fail",
+"freq": 3257,
+"forms": [
+"failed",
+"fail",
+"failing",
+"fails"
+]
+},
+{
+"rank": 934,
+"en": "department",
+"freq": 3256,
+"forms": [
+"department"
+]
+},
+{
+"rank": 935,
+"en": "escape",
+"freq": 3249,
+"forms": [
+"escape",
+"escaped"
+]
+},
+{
+"rank": 936,
+"en": "remind",
+"freq": 3243,
+"forms": [
+"remind",
+"reminds",
+"reminded"
+]
+},
+{
+"rank": 937,
+"en": "pal",
+"freq": 3237,
+"forms": [
+"pal",
+"pals"
+]
+},
+{
+"rank": 938,
+"en": "awful",
+"freq": 3234,
+"forms": [
+"awful"
+]
+},
+{
+"rank": 939,
+"en": "shake",
+"freq": 3233,
+"forms": [
+"shake",
+"shaking",
+"shook",
+"shakes"
+]
+},
+{
+"rank": 940,
+"en": "sad",
+"freq": 3232,
+"forms": [
+"sad"
+]
+},
+{
+"rank": 941,
+"en": "favorite",
+"freq": 3232,
+"forms": [
+"favorite",
+"favorites"
+]
+},
+{
+"rank": 942,
+"en": "usually",
+"freq": 3214,
+"forms": [
+"usually"
+]
+},
+{
+"rank": 943,
+"en": "grand",
+"freq": 3214,
+"forms": [
+"grand"
+]
+},
+{
+"rank": 944,
+"en": "sergeant",
+"freq": 3210,
+"forms": [
+"sergeant"
+]
+},
+{
+"rank": 945,
+"en": "pants",
+"freq": 3203,
+"forms": [
+"pants",
+"panting"
+]
+},
+{
+"rank": 946,
+"en": "upon",
+"freq": 3199,
+"forms": [
+"upon"
+]
+},
+{
+"rank": 947,
+"en": "double",
+"freq": 3198,
+"forms": [
+"double"
+]
+},
+{
+"rank": 948,
+"en": "hero",
+"freq": 3197,
+"forms": [
+"hero",
+"heroes"
+]
+},
+{
+"rank": 949,
+"en": "twice",
+"freq": 3191,
+"forms": [
+"twice"
+]
+},
+{
+"rank": 950,
+"en": "whose",
+"freq": 3187,
+"forms": [
+"whose"
+]
+},
+{
+"rank": 951,
+"en": "plenty",
+"freq": 3178,
+"forms": [
+"plenty"
+]
+},
+{
+"rank": 952,
+"en": "guilty",
+"freq": 3177,
+"forms": [
+"guilty"
+]
+},
+{
+"rank": 953,
+"en": "code",
+"freq": 3176,
+"forms": [
+"code",
+"codes"
+]
+},
+{
+"rank": 954,
+"en": "base",
+"freq": 3161,
+"forms": [
+"based",
+"base"
+]
+},
+{
+"rank": 955,
+"en": "level",
+"freq": 3160,
+"forms": [
+"level",
+"levels"
+]
+},
+{
+"rank": 956,
+"en": "copy",
+"freq": 3160,
+"forms": [
+"copy",
+"copies"
+]
+},
+{
+"rank": 957,
+"en": "remain",
+"freq": 3151,
+"forms": [
+"remain",
+"remains",
+"remaining",
+"remained"
+]
+},
+{
+"rank": 958,
+"en": "bathroom",
+"freq": 3145,
+"forms": [
+"bathroom"
+]
+},
+{
+"rank": 959,
+"en": "tooth",
+"freq": 3132,
+"forms": [
+"teeth",
+"tooth"
+]
+},
+{
+"rank": 960,
+"en": "sheriff",
+"freq": 3115,
+"forms": [
+"sheriff"
+]
+},
+{
+"rank": 961,
+"en": "river",
+"freq": 3100,
+"forms": [
+"river",
+"rivers"
+]
+},
+{
+"rank": 962,
+"en": "price",
+"freq": 3098,
+"forms": [
+"price",
+"prices"
+]
+},
+{
+"rank": 963,
+"en": "beach",
+"freq": 3097,
+"forms": [
+"beach",
+"beaches"
+]
+},
+{
+"rank": 964,
+"en": "glass",
+"freq": 3096,
+"forms": [
+"glass"
+]
+},
+{
+"rank": 965,
+"en": "pretend",
+"freq": 3094,
+"forms": [
+"pretend",
+"pretending",
+"pretended"
+]
+},
+{
+"rank": 966,
+"en": "west",
+"freq": 3088,
+"forms": [
+"west"
+]
+},
+{
+"rank": 967,
+"en": "obviously",
+"freq": 3082,
+"forms": [
+"obviously"
+]
+},
+{
+"rank": 968,
+"en": "wine",
+"freq": 3078,
+"forms": [
+"wine"
+]
+},
+{
+"rank": 969,
+"en": "difficult",
+"freq": 3068,
+"forms": [
+"difficult"
+]
+},
+{
+"rank": 970,
+"en": "wound",
+"freq": 3062,
+"forms": [
+"wound",
+"wounded",
+"wounds"
+]
+},
+{
+"rank": 971,
+"en": "travel",
+"freq": 3057,
+"forms": [
+"travel",
+"traveling",
+"traveled",
+"travels"
+]
+},
+{
+"rank": 972,
+"en": "rid",
+"freq": 3052,
+"forms": [
+"rid"
+]
+},
+{
+"rank": 973,
+"en": "account",
+"freq": 3044,
+"forms": [
+"account",
+"accounts",
+"accounting"
+]
+},
+{
+"rank": 974,
+"en": "risk",
+"freq": 3039,
+"forms": [
+"risk",
+"risks",
+"risking"
+]
+},
+{
+"rank": 975,
+"en": "chase",
+"freq": 3037,
+"forms": [
+"chase",
+"chasing",
+"chased"
+]
+},
+{
+"rank": 976,
+"en": "neck",
+"freq": 3035,
+"forms": [
+"neck"
+]
+},
+{
+"rank": 977,
+"en": "complete",
+"freq": 3027,
+"forms": [
+"complete",
+"completed"
+]
+},
+{
+"rank": 978,
+"en": "extra",
+"freq": 3017,
+"forms": [
+"extra"
+]
+},
+{
+"rank": 979,
+"en": "within",
+"freq": 3017,
+"forms": [
+"within"
+]
+},
+{
+"rank": 980,
+"en": "low",
+"freq": 3016,
+"forms": [
+"low"
+]
+},
+{
+"rank": 981,
+"en": "impossible",
+"freq": 3015,
+"forms": [
+"impossible"
+]
+},
+{
+"rank": 982,
+"en": "chair",
+"freq": 3015,
+"forms": [
+"chair",
+"chairs"
+]
+},
+{
+"rank": 983,
+"en": "gay",
+"freq": 3013,
+"forms": [
+"gay"
+]
+},
+{
+"rank": 984,
+"en": "angry",
+"freq": 3008,
+"forms": [
+"angry"
+]
+},
+{
+"rank": 985,
+"en": "bunch",
+"freq": 3003,
+"forms": [
+"bunch"
+]
+},
+{
+"rank": 986,
+"en": "form",
+"freq": 3001,
+"forms": [
+"form",
+"forms",
+"formed"
+]
+},
+{
+"rank": 987,
+"en": "duty",
+"freq": 3001,
+"forms": [
+"duty",
+"duties"
+]
+},
+{
+"rank": 988,
+"en": "band",
+"freq": 2998,
+"forms": [
+"band",
+"bands"
+]
+},
+{
+"rank": 989,
+"en": "clock",
+"freq": 2990,
+"forms": [
+"clock"
+]
+},
+{
+"rank": 990,
+"en": "tea",
+"freq": 2990,
+"forms": [
+"tea"
+]
+},
+{
+"rank": 991,
+"en": "bless",
+"freq": 2987,
+"forms": [
+"bless",
+"blessed",
+"blessing"
+]
+},
+{
+"rank": 992,
+"en": "disappear",
+"freq": 2985,
+"forms": [
+"disappeared",
+"disappear",
+"disappears",
+"disappearing"
+]
+},
+{
+"rank": 993,
+"en": "issue",
+"freq": 2978,
+"forms": [
+"issue",
+"issues",
+"issued"
+]
+},
+{
+"rank": 994,
+"en": "kitchen",
+"freq": 2974,
+"forms": [
+"kitchen"
+]
+},
+{
+"rank": 995,
+"en": "cup",
+"freq": 2960,
+"forms": [
+"cup",
+"cups"
+]
+},
+{
+"rank": 996,
+"en": "corner",
+"freq": 2954,
+"forms": [
+"corner",
+"corners"
+]
+},
+{
+"rank": 997,
+"en": "hill",
+"freq": 2942,
+"forms": [
+"hill",
+"hills"
+]
+},
+{
+"rank": 998,
+"en": "feeling",
+"freq": 2938,
+"forms": [
+"feelings"
+]
+},
+{
+"rank": 999,
+"en": "camp",
+"freq": 2927,
+"forms": [
+"camp",
+"camping"
+]
+},
+{
+"rank": 1000,
+"en": "often",
+"freq": 2925,
+"forms": [
+"often"
+]
+},
+{
+"rank": 1001,
+"en": "wild",
+"freq": 2923,
+"forms": [
+"wild"
+]
+},
+{
+"rank": 1002,
+"en": "color",
+"freq": 2916,
+"forms": [
+"color",
+"colors",
+"colored"
+]
+},
+{
+"rank": 1003,
+"en": "silly",
+"freq": 2912,
+"forms": [
+"silly"
+]
+},
+{
+"rank": 1004,
+"en": "stone",
+"freq": 2907,
+"forms": [
+"stone",
+"stones",
+"stoned"
+]
+},
+{
+"rank": 1005,
+"en": "bone",
+"freq": 2890,
+"forms": [
+"bone",
+"bones"
+]
+},
+{
+"rank": 1006,
+"en": "quickly",
+"freq": 2881,
+"forms": [
+"quickly"
+]
+},
+{
+"rank": 1007,
+"en": "create",
+"freq": 2880,
+"forms": [
+"create",
+"created",
+"creating"
+]
+},
+{
+"rank": 1008,
+"en": "unit",
+"freq": 2877,
+"forms": [
+"unit",
+"units"
+]
+},
+{
+"rank": 1009,
+"en": "worst",
+"freq": 2874,
+"forms": [
+"worst"
+]
+},
+{
+"rank": 1010,
+"en": "final",
+"freq": 2873,
+"forms": [
+"final",
+"finals"
+]
+},
+{
+"rank": 1011,
+"en": "bust",
+"freq": 2869,
+"forms": [
+"bust",
+"busted",
+"busting"
+]
+},
+{
+"rank": 1012,
+"en": "cousin",
+"freq": 2868,
+"forms": [
+"cousin",
+"cousins"
+]
+},
+{
+"rank": 1013,
+"en": "warm",
+"freq": 2862,
+"forms": [
+"warm",
+"warming"
+]
+},
+{
+"rank": 1014,
+"en": "wood",
+"freq": 2859,
+"forms": [
+"wood",
+"woods"
+]
+},
+{
+"rank": 1015,
+"en": "suddenly",
+"freq": 2854,
+"forms": [
+"suddenly"
+]
+},
+{
+"rank": 1016,
+"en": "hall",
+"freq": 2853,
+"forms": [
+"hall",
+"halls"
+]
+},
+{
+"rank": 1017,
+"en": "assume",
+"freq": 2852,
+"forms": [
+"assume",
+"assumed",
+"assuming"
+]
+},
+{
+"rank": 1018,
+"en": "enter",
+"freq": 2851,
+"forms": [
+"enter",
+"entered",
+"entering"
+]
+},
+{
+"rank": 1019,
+"en": "bullet",
+"freq": 2851,
+"forms": [
+"bullet",
+"bullets"
+]
+},
+{
+"rank": 1020,
+"en": "operation",
+"freq": 2841,
+"forms": [
+"operation",
+"operations"
+]
+},
+{
+"rank": 1021,
+"en": "ridiculous",
+"freq": 2836,
+"forms": [
+"ridiculous"
+]
+},
+{
+"rank": 1022,
+"en": "practice",
+"freq": 2834,
+"forms": [
+"practice",
+"practicing"
+]
+},
+{
+"rank": 1023,
+"en": "conversation",
+"freq": 2828,
+"forms": [
+"conversation",
+"conversations"
+]
+},
+{
+"rank": 1024,
+"en": "freak",
+"freq": 2825,
+"forms": [
+"freak",
+"freaked",
+"freaks"
+]
+},
+{
+"rank": 1025,
+"en": "bored",
+"freq": 2822,
+"forms": [
+"boring",
+"bored",
+"bore"
+]
+},
+{
+"rank": 1026,
+"en": "support",
+"freq": 2821,
+"forms": [
+"support",
+"supporting"
+]
+},
+{
+"rank": 1027,
+"en": "receive",
+"freq": 2820,
+"forms": [
+"received",
+"receive",
+"receiving"
+]
+},
+{
+"rank": 1028,
+"en": "hook",
+"freq": 2819,
+"forms": [
+"hook",
+"hooked",
+"hooks"
+]
+},
+{
+"rank": 1029,
+"en": "aunt",
+"freq": 2815,
+"forms": [
+"aunt"
+]
+},
+{
+"rank": 1030,
+"en": "shirt",
+"freq": 2809,
+"forms": [
+"shirt",
+"shirts"
+]
+},
+{
+"rank": 1031,
+"en": "player",
+"freq": 2801,
+"forms": [
+"player",
+"players"
+]
+},
+{
+"rank": 1032,
+"en": "cheer",
+"freq": 2801,
+"forms": [
+"cheer",
+"cheers",
+"cheering"
+]
+},
+{
+"rank": 1033,
+"en": "suffer",
+"freq": 2795,
+"forms": [
+"suffer",
+"suffering",
+"suffered"
+]
+},
+{
+"rank": 1034,
+"en": "bury",
+"freq": 2792,
+"forms": [
+"buried",
+"bury"
+]
+},
+{
+"rank": 1035,
+"en": "fresh",
+"freq": 2780,
+"forms": [
+"fresh"
+]
+},
+{
+"rank": 1036,
+"en": "innocent",
+"freq": 2780,
+"forms": [
+"innocent"
+]
+},
+{
+"rank": 1037,
+"en": "emergency",
+"freq": 2776,
+"forms": [
+"emergency"
+]
+},
+{
+"rank": 1038,
+"en": "medical",
+"freq": 2774,
+"forms": [
+"medical"
+]
+},
+{
+"rank": 1039,
+"en": "appear",
+"freq": 2765,
+"forms": [
+"appear",
+"appears",
+"appeared"
+]
+},
+{
+"rank": 1040,
+"en": "driver",
+"freq": 2756,
+"forms": [
+"driver",
+"drivers"
+]
+},
+{
+"rank": 1041,
+"en": "mountain",
+"freq": 2756,
+"forms": [
+"mountain",
+"mountains"
+]
+},
+{
+"rank": 1042,
+"en": "vote",
+"freq": 2746,
+"forms": [
+"vote",
+"voted",
+"votes",
+"voting"
+]
+},
+{
+"rank": 1043,
+"en": "knife",
+"freq": 2740,
+"forms": [
+"knife",
+"knives"
+]
+},
+{
+"rank": 1044,
+"en": "release",
+"freq": 2733,
+"forms": [
+"release",
+"released"
+]
+},
+{
+"rank": 1045,
+"en": "sweetie",
+"freq": 2731,
+"forms": [
+"sweetie"
+]
+},
+{
+"rank": 1046,
+"en": "restaurant",
+"freq": 2722,
+"forms": [
+"restaurant",
+"restaurants"
+]
+},
+{
+"rank": 1047,
+"en": "crack",
+"freq": 2721,
+"forms": [
+"crack",
+"cracked",
+"cracking",
+"cracks"
+]
+},
+{
+"rank": 1048,
+"en": "pressure",
+"freq": 2709,
+"forms": [
+"pressure"
+]
+},
+{
+"rank": 1049,
+"en": "embarrass",
+"freq": 2708,
+"forms": [
+"embarrassing",
+"embarrassed",
+"embarrass"
+]
+},
+{
+"rank": 1050,
+"en": "member",
+"freq": 2692,
+"forms": [
+"member",
+"members"
+]
+},
+{
+"rank": 1051,
+"en": "further",
+"freq": 2690,
+"forms": [
+"further"
+]
+},
+{
+"rank": 1052,
+"en": "excellent",
+"freq": 2688,
+"forms": [
+"excellent"
+]
+},
+{
+"rank": 1053,
+"en": "magic",
+"freq": 2687,
+"forms": [
+"magic"
+]
+},
+{
+"rank": 1054,
+"en": "load",
+"freq": 2686,
+"forms": [
+"load",
+"loaded",
+"loading"
+]
+},
+{
+"rank": 1055,
+"en": "bell",
+"freq": 2677,
+"forms": [
+"bell",
+"bells"
+]
+},
+{
+"rank": 1056,
+"en": "ourselves",
+"freq": 2676,
+"forms": [
+"ourselves"
+]
+},
+{
+"rank": 1057,
+"en": "herself",
+"freq": 2675,
+"forms": [
+"herself"
+]
+},
+{
+"rank": 1058,
+"en": "pig",
+"freq": 2674,
+"forms": [
+"pig",
+"pigs"
+]
+},
+{
+"rank": 1059,
+"en": "detail",
+"freq": 2670,
+"forms": [
+"details",
+"detail",
+"detailed"
+]
+},
+{
+"rank": 1060,
+"en": "sky",
+"freq": 2667,
+"forms": [
+"sky",
+"skies"
+]
+},
+{
+"rank": 1061,
+"en": "address",
+"freq": 2666,
+"forms": [
+"address"
+]
+},
+{
+"rank": 1062,
+"en": "pregnant",
+"freq": 2653,
+"forms": [
+"pregnant"
+]
+},
+{
+"rank": 1063,
+"en": "everywhere",
+"freq": 2641,
+"forms": [
+"everywhere"
+]
+},
+{
+"rank": 1064,
+"en": "van",
+"freq": 2641,
+"forms": [
+"van"
+]
+},
+{
+"rank": 1065,
+"en": "swim",
+"freq": 2641,
+"forms": [
+"swim",
+"swimming"
+]
+},
+{
+"rank": 1066,
+"en": "include",
+"freq": 2624,
+"forms": [
+"including",
+"include",
+"included",
+"includes"
+]
+},
+{
+"rank": 1067,
+"en": "hardly",
+"freq": 2613,
+"forms": [
+"hardly"
+]
+},
+{
+"rank": 1068,
+"en": "pound",
+"freq": 2613,
+"forms": [
+"pounds",
+"pound",
+"pounding"
+]
+},
+{
+"rank": 1069,
+"en": "bite",
+"freq": 2610,
+"forms": [
+"bite",
+"bites",
+"biting"
+]
+},
+{
+"rank": 1070,
+"en": "page",
+"freq": 2607,
+"forms": [
+"page",
+"pages"
+]
+},
+{
+"rank": 1071,
+"en": "pray",
+"freq": 2605,
+"forms": [
+"pray",
+"praying",
+"prayed"
+]
+},
+{
+"rank": 1072,
+"en": "tight",
+"freq": 2597,
+"forms": [
+"tight"
+]
+},
+{
+"rank": 1073,
+"en": "cake",
+"freq": 2589,
+"forms": [
+"cake",
+"cakes"
+]
+},
+{
+"rank": 1074,
+"en": "claim",
+"freq": 2589,
+"forms": [
+"claim",
+"claims",
+"claimed",
+"claiming"
+]
+},
+{
+"rank": 1075,
+"en": "dump",
+"freq": 2588,
+"forms": [
+"dump",
+"dumped",
+"dumping"
+]
+},
+{
+"rank": 1076,
+"en": "add",
+"freq": 2584,
+"forms": [
+"add",
+"added",
+"adding",
+"adds"
+]
+},
+{
+"rank": 1077,
+"en": "ghost",
+"freq": 2584,
+"forms": [
+"ghost",
+"ghosts"
+]
+},
+{
+"rank": 1078,
+"en": "condition",
+"freq": 2583,
+"forms": [
+"condition",
+"conditions"
+]
+},
+{
+"rank": 1079,
+"en": "bridge",
+"freq": 2581,
+"forms": [
+"bridge",
+"bridges"
+]
+},
+{
+"rank": 1080,
+"en": "command",
+"freq": 2577,
+"forms": [
+"command",
+"commanding"
+]
+},
+{
+"rank": 1081,
+"en": "introduce",
+"freq": 2567,
+"forms": [
+"introduce",
+"introduced",
+"introducing"
+]
+},
+{
+"rank": 1082,
+"en": "yell",
+"freq": 2555,
+"forms": [
+"yelling",
+"yell",
+"yelled",
+"yells"
+]
+},
+{
+"rank": 1083,
+"en": "sight",
+"freq": 2549,
+"forms": [
+"sight",
+"sights"
+]
+},
+{
+"rank": 1084,
+"en": "moon",
+"freq": 2548,
+"forms": [
+"moon"
+]
+},
+{
+"rank": 1085,
+"en": "bottom",
+"freq": 2546,
+"forms": [
+"bottom"
+]
+},
+{
+"rank": 1086,
+"en": "asleep",
+"freq": 2541,
+"forms": [
+"asleep"
+]
+},
+{
+"rank": 1087,
+"en": "charm",
+"freq": 2539,
+"forms": [
+"charming",
+"charm",
+"charmed"
+]
+},
+{
+"rank": 1088,
+"en": "monster",
+"freq": 2532,
+"forms": [
+"monster",
+"monsters"
+]
+},
+{
+"rank": 1089,
+"en": "east",
+"freq": 2527,
+"forms": [
+"east"
+]
+},
+{
+"rank": 1090,
+"en": "apologize",
+"freq": 2518,
+"forms": [
+"apologize"
+]
+},
+{
+"rank": 1091,
+"en": "trial",
+"freq": 2518,
+"forms": [
+"trial"
+]
+},
+{
+"rank": 1092,
+"en": "deliver",
+"freq": 2512,
+"forms": [
+"deliver",
+"delivered",
+"delivering"
+]
+},
+{
+"rank": 1093,
+"en": "rat",
+"freq": 2511,
+"forms": [
+"rat",
+"rats"
+]
+},
+{
+"rank": 1094,
+"en": "fan",
+"freq": 2503,
+"forms": [
+"fan",
+"fans"
+]
+},
+{
+"rank": 1095,
+"en": "possibly",
+"freq": 2494,
+"forms": [
+"possibly"
+]
+},
+{
+"rank": 1096,
+"en": "above",
+"freq": 2493,
+"forms": [
+"above"
+]
+},
+{
+"rank": 1097,
+"en": "divorce",
+"freq": 2490,
+"forms": [
+"divorce",
+"divorced"
+]
+},
+{
+"rank": 1098,
+"en": "cream",
+"freq": 2484,
+"forms": [
+"cream"
+]
+},
+{
+"rank": 1099,
+"en": "trap",
+"freq": 2484,
+"forms": [
+"trap",
+"trapped",
+"traps"
+]
+},
+{
+"rank": 1100,
+"en": "cheat",
+"freq": 2476,
+"forms": [
+"cheat",
+"cheating",
+"cheated"
+]
+},
+{
+"rank": 1101,
+"en": "slip",
+"freq": 2471,
+"forms": [
+"slip",
+"slipped",
+"slipping"
+]
+},
+{
+"rank": 1102,
+"en": "huge",
+"freq": 2467,
+"forms": [
+"huge"
+]
+},
+{
+"rank": 1103,
+"en": "beauty",
+"freq": 2460,
+"forms": [
+"beauty"
+]
+},
+{
+"rank": 1104,
+"en": "lately",
+"freq": 2459,
+"forms": [
+"lately"
+]
+},
+{
+"rank": 1105,
+"en": "program",
+"freq": 2458,
+"forms": [
+"program",
+"programs"
+]
+},
+{
+"rank": 1106,
+"en": "exist",
+"freq": 2458,
+"forms": [
+"exist",
+"exists",
+"existed"
+]
+},
+{
+"rank": 1107,
+"en": "advice",
+"freq": 2447,
+"forms": [
+"advice"
+]
+},
+{
+"rank": 1108,
+"en": "pocket",
+"freq": 2447,
+"forms": [
+"pocket",
+"pockets"
+]
+},
+{
+"rank": 1109,
+"en": "immediately",
+"freq": 2446,
+"forms": [
+"immediately"
+]
+},
+{
+"rank": 1110,
+"en": "coat",
+"freq": 2446,
+"forms": [
+"coat",
+"coats"
+]
+},
+{
+"rank": 1111,
+"en": "dry",
+"freq": 2442,
+"forms": [
+"dry",
+"dried"
+]
+},
+{
+"rank": 1112,
+"en": "commit",
+"freq": 2440,
+"forms": [
+"committed",
+"commit",
+"committing"
+]
+},
+{
+"rank": 1113,
+"en": "character",
+"freq": 2432,
+"forms": [
+"character",
+"characters"
+]
+},
+{
+"rank": 1114,
+"en": "coach",
+"freq": 2429,
+"forms": [
+"coach"
+]
+},
+{
+"rank": 1115,
+"en": "crew",
+"freq": 2424,
+"forms": [
+"crew"
+]
+},
+{
+"rank": 1116,
+"en": "sport",
+"freq": 2422,
+"forms": [
+"sports",
+"sport"
+]
+},
+{
+"rank": 1117,
+"en": "spell",
+"freq": 2420,
+"forms": [
+"spell",
+"spells",
+"spelling"
+]
+},
+{
+"rank": 1118,
+"en": "lesson",
+"freq": 2416,
+"forms": [
+"lesson",
+"lessons"
+]
+},
+{
+"rank": 1119,
+"en": "apparently",
+"freq": 2415,
+"forms": [
+"apparently"
+]
+},
+{
+"rank": 1120,
+"en": "battle",
+"freq": 2415,
+"forms": [
+"battle",
+"battles"
+]
+},
+{
+"rank": 1121,
+"en": "heavy",
+"freq": 2412,
+"forms": [
+"heavy"
+]
+},
+{
+"rank": 1122,
+"en": "signal",
+"freq": 2412,
+"forms": [
+"signal",
+"signals"
+]
+},
+{
+"rank": 1123,
+"en": "empty",
+"freq": 2409,
+"forms": [
+"empty"
+]
+},
+{
+"rank": 1124,
+"en": "comfortable",
+"freq": 2408,
+"forms": [
+"comfortable"
+]
+},
+{
+"rank": 1125,
+"en": "mission",
+"freq": 2400,
+"forms": [
+"mission"
+]
+},
+{
+"rank": 1126,
+"en": "hunt",
+"freq": 2400,
+"forms": [
+"hunt",
+"hunting"
+]
+},
+{
+"rank": 1127,
+"en": "plus",
+"freq": 2399,
+"forms": [
+"plus"
+]
+},
+{
+"rank": 1128,
+"en": "apart",
+"freq": 2398,
+"forms": [
+"apart"
+]
+},
+{
+"rank": 1129,
+"en": "opinion",
+"freq": 2398,
+"forms": [
+"opinion",
+"opinions"
+]
+},
+{
+"rank": 1130,
+"en": "confuse",
+"freq": 2398,
+"forms": [
+"confused",
+"confusing",
+"confuse"
+]
+},
+{
+"rank": 1131,
+"en": "pool",
+"freq": 2396,
+"forms": [
+"pool"
+]
+},
+{
+"rank": 1132,
+"en": "dumb",
+"freq": 2395,
+"forms": [
+"dumb"
+]
+},
+{
+"rank": 1133,
+"en": "shock",
+"freq": 2381,
+"forms": [
+"shock",
+"shocked",
+"shocking"
+]
+},
+{
+"rank": 1134,
+"en": "devil",
+"freq": 2375,
+"forms": [
+"devil",
+"devils"
+]
+},
+{
+"rank": 1135,
+"en": "criminal",
+"freq": 2370,
+"forms": [
+"criminal",
+"criminals"
+]
+},
+{
+"rank": 1136,
+"en": "convince",
+"freq": 2369,
+"forms": [
+"convinced",
+"convince",
+"convincing"
+]
+},
+{
+"rank": 1137,
+"en": "faith",
+"freq": 2363,
+"forms": [
+"faith"
+]
+},
+{
+"rank": 1138,
+"en": "simply",
+"freq": 2362,
+"forms": [
+"simply"
+]
+},
+{
+"rank": 1139,
+"en": "gee",
+"freq": 2362,
+"forms": [
+"gee"
+]
+},
+{
+"rank": 1140,
+"en": "crowd",
+"freq": 2362,
+"forms": [
+"crowd",
+"crowded"
+]
+},
+{
+"rank": 1141,
+"en": "speed",
+"freq": 2358,
+"forms": [
+"speed",
+"speeding"
+]
+},
+{
+"rank": 1142,
+"en": "grant",
+"freq": 2357,
+"forms": [
+"grant",
+"granted"
+]
+},
+{
+"rank": 1143,
+"en": "size",
+"freq": 2353,
+"forms": [
+"size"
+]
+},
+{
+"rank": 1144,
+"en": "damage",
+"freq": 2352,
+"forms": [
+"damage",
+"damaged",
+"damages"
+]
+},
+{
+"rank": 1145,
+"en": "plant",
+"freq": 2352,
+"forms": [
+"plant",
+"planted",
+"plants"
+]
+},
+{
+"rank": 1146,
+"en": "necessary",
+"freq": 2345,
+"forms": [
+"necessary"
+]
+},
+{
+"rank": 1147,
+"en": "themselves",
+"freq": 2343,
+"forms": [
+"themselves"
+]
+},
+{
+"rank": 1148,
+"en": "shower",
+"freq": 2341,
+"forms": [
+"shower",
+"showers"
+]
+},
+{
+"rank": 1149,
+"en": "opportunity",
+"freq": 2340,
+"forms": [
+"opportunity",
+"opportunities"
+]
+},
+{
+"rank": 1150,
+"en": "credit",
+"freq": 2337,
+"forms": [
+"credit"
+]
+},
+{
+"rank": 1151,
+"en": "blind",
+"freq": 2337,
+"forms": [
+"blind"
+]
+},
+{
+"rank": 1152,
+"en": "center",
+"freq": 2335,
+"forms": [
+"center"
+]
+},
+{
+"rank": 1153,
+"en": "mister",
+"freq": 2326,
+"forms": [
+"mister"
+]
+},
+{
+"rank": 1154,
+"en": "cause",
+"freq": 2326,
+"forms": [
+"caused",
+"causing",
+"causes"
+]
+},
+{
+"rank": 1155,
+"en": "video",
+"freq": 2325,
+"forms": [
+"video",
+"videos"
+]
+},
+{
+"rank": 1156,
+"en": "grandma",
+"freq": 2325,
+"forms": [
+"grandma"
+]
+},
+{
+"rank": 1157,
+"en": "stage",
+"freq": 2324,
+"forms": [
+"stage"
+]
+},
+{
+"rank": 1158,
+"en": "lift",
+"freq": 2322,
+"forms": [
+"lift",
+"lifted",
+"lifting"
+]
+},
+{
+"rank": 1159,
+"en": "trade",
+"freq": 2322,
+"forms": [
+"trade",
+"trading",
+"traded"
+]
+},
+{
+"rank": 1160,
+"en": "gate",
+"freq": 2318,
+"forms": [
+"gate",
+"gates"
+]
+},
+{
+"rank": 1161,
+"en": "crash",
+"freq": 2313,
+"forms": [
+"crash",
+"crashed",
+"crashing"
+]
+},
+{
+"rank": 1162,
+"en": "somehow",
+"freq": 2310,
+"forms": [
+"somehow"
+]
+},
+{
+"rank": 1163,
+"en": "career",
+"freq": 2305,
+"forms": [
+"career"
+]
+},
+{
+"rank": 1164,
+"en": "nature",
+"freq": 2303,
+"forms": [
+"nature"
+]
+},
+{
+"rank": 1165,
+"en": "rob",
+"freq": 2301,
+"forms": [
+"rob",
+"robbed",
+"robbing"
+]
+},
+{
+"rank": 1166,
+"en": "however",
+"freq": 2299,
+"forms": [
+"however"
+]
+},
+{
+"rank": 1167,
+"en": "prince",
+"freq": 2299,
+"forms": [
+"prince"
+]
+},
+{
+"rank": 1168,
+"en": "responsible",
+"freq": 2298,
+"forms": [
+"responsible"
+]
+},
+{
+"rank": 1169,
+"en": "famous",
+"freq": 2296,
+"forms": [
+"famous"
+]
+},
+{
+"rank": 1170,
+"en": "correct",
+"freq": 2292,
+"forms": [
+"correct"
+]
+},
+{
+"rank": 1171,
+"en": "breath",
+"freq": 2291,
+"forms": [
+"breath"
+]
+},
+{
+"rank": 1172,
+"en": "attorney",
+"freq": 2279,
+"forms": [
+"attorney",
+"attorneys"
+]
+},
+{
+"rank": 1173,
+"en": "target",
+"freq": 2276,
+"forms": [
+"target",
+"targets"
+]
+},
+{
+"rank": 1174,
+"en": "demon",
+"freq": 2276,
+"forms": [
+"demon",
+"demons"
+]
+},
+{
+"rank": 1175,
+"en": "due",
+"freq": 2275,
+"forms": [
+"due"
+]
+},
+{
+"rank": 1176,
+"en": "common",
+"freq": 2275,
+"forms": [
+"common"
+]
+},
+{
+"rank": 1177,
+"en": "drag",
+"freq": 2273,
+"forms": [
+"drag",
+"dragged",
+"dragging"
+]
+},
+{
+"rank": 1178,
+"en": "depend",
+"freq": 2267,
+"forms": [
+"depends",
+"depend",
+"depending"
+]
+},
+{
+"rank": 1179,
+"en": "score",
+"freq": 2267,
+"forms": [
+"score",
+"scores",
+"scored"
+]
+},
+{
+"rank": 1180,
+"en": "afford",
+"freq": 2266,
+"forms": [
+"afford"
+]
+},
+{
+"rank": 1181,
+"en": "bright",
+"freq": 2265,
+"forms": [
+"bright"
+]
+},
+{
+"rank": 1182,
+"en": "cigarette",
+"freq": 2262,
+"forms": [
+"cigarette",
+"cigarettes"
+]
+},
+{
+"rank": 1183,
+"en": "butt",
+"freq": 2259,
+"forms": [
+"butt",
+"butts"
+]
+},
+{
+"rank": 1184,
+"en": "affair",
+"freq": 2249,
+"forms": [
+"affair",
+"affairs"
+]
+},
+{
+"rank": 1185,
+"en": "island",
+"freq": 2248,
+"forms": [
+"island",
+"islands"
+]
+},
+{
+"rank": 1186,
+"en": "skin",
+"freq": 2246,
+"forms": [
+"skin"
+]
+},
+{
+"rank": 1187,
+"en": "madam",
+"freq": 2244,
+"forms": [
+"madam"
+]
+},
+{
+"rank": 1188,
+"en": "subject",
+"freq": 2240,
+"forms": [
+"subject",
+"subjects"
+]
+},
+{
+"rank": 1189,
+"en": "desk",
+"freq": 2239,
+"forms": [
+"desk"
+]
+},
+{
+"rank": 1190,
+"en": "request",
+"freq": 2239,
+"forms": [
+"request",
+"requested",
+"requests",
+"requesting"
+]
+},
+{
+"rank": 1191,
+"en": "aye",
+"freq": 2236,
+"forms": [
+"aye"
+]
+},
+{
+"rank": 1192,
+"en": "bleed",
+"freq": 2232,
+"forms": [
+"bleeding",
+"bleed",
+"bled"
+]
+},
+{
+"rank": 1193,
+"en": "rent",
+"freq": 2228,
+"forms": [
+"rent",
+"rented"
+]
+},
+{
+"rank": 1194,
+"en": "danger",
+"freq": 2227,
+"forms": [
+"danger"
+]
+},
+{
+"rank": 1195,
+"en": "meat",
+"freq": 2226,
+"forms": [
+"meat"
+]
+},
+{
+"rank": 1196,
+"en": "speech",
+"freq": 2225,
+"forms": [
+"speech",
+"speeches"
+]
+},
+{
+"rank": 1197,
+"en": "magazine",
+"freq": 2216,
+"forms": [
+"magazine",
+"magazines"
+]
+},
+{
+"rank": 1198,
+"en": "recognize",
+"freq": 2208,
+"forms": [
+"recognize",
+"recognized"
+]
+},
+{
+"rank": 1199,
+"en": "perfectly",
+"freq": 2206,
+"forms": [
+"perfectly"
+]
+},
+{
+"rank": 1200,
+"en": "event",
+"freq": 2205,
+"forms": [
+"event",
+"events"
+]
+},
+{
+"rank": 1201,
+"en": "rip",
+"freq": 2204,
+"forms": [
+"rip",
+"ripped",
+"ripping"
+]
+},
+{
+"rank": 1202,
+"en": "whoever",
+"freq": 2203,
+"forms": [
+"whoever"
+]
+},
+{
+"rank": 1203,
+"en": "beyond",
+"freq": 2200,
+"forms": [
+"beyond"
+]
+},
+{
+"rank": 1204,
+"en": "survive",
+"freq": 2197,
+"forms": [
+"survive",
+"survived"
+]
+},
+{
+"rank": 1205,
+"en": "planet",
+"freq": 2194,
+"forms": [
+"planet",
+"planets"
+]
+},
+{
+"rank": 1206,
+"en": "project",
+"freq": 2192,
+"forms": [
+"project",
+"projects"
+]
+},
+{
+"rank": 1207,
+"en": "print",
+"freq": 2192,
+"forms": [
+"print",
+"prints",
+"printed"
+]
+},
+{
+"rank": 1208,
+"en": "photo",
+"freq": 2181,
+"forms": [
+"photo",
+"photos"
+]
+},
+{
+"rank": 1209,
+"en": "jury",
+"freq": 2181,
+"forms": [
+"jury"
+]
+},
+{
+"rank": 1210,
+"en": "main",
+"freq": 2179,
+"forms": [
+"main"
+]
+},
+{
+"rank": 1211,
+"en": "rush",
+"freq": 2177,
+"forms": [
+"rush",
+"rushing",
+"rushed"
+]
+},
+{
+"rank": 1212,
+"en": "papa",
+"freq": 2172,
+"forms": [
+"papa"
+]
+},
+{
+"rank": 1213,
+"en": "view",
+"freq": 2171,
+"forms": [
+"view",
+"views"
+]
+},
+{
+"rank": 1214,
+"en": "milk",
+"freq": 2169,
+"forms": [
+"milk"
+]
+},
+{
+"rank": 1215,
+"en": "engine",
+"freq": 2169,
+"forms": [
+"engine",
+"engines"
+]
+},
+{
+"rank": 1216,
+"en": "result",
+"freq": 2166,
+"forms": [
+"results",
+"result"
+]
+},
+{
+"rank": 1217,
+"en": "stranger",
+"freq": 2165,
+"forms": [
+"stranger",
+"strangers"
+]
+},
+{
+"rank": 1218,
+"en": "horrible",
+"freq": 2164,
+"forms": [
+"horrible"
+]
+},
+{
+"rank": 1219,
+"en": "natural",
+"freq": 2160,
+"forms": [
+"natural"
+]
+},
+{
+"rank": 1220,
+"en": "split",
+"freq": 2157,
+"forms": [
+"split",
+"splitting"
+]
+},
+{
+"rank": 1221,
+"en": "grace",
+"freq": 2157,
+"forms": [
+"grace"
+]
+},
+{
+"rank": 1222,
+"en": "quarter",
+"freq": 2151,
+"forms": [
+"quarter",
+"quarters"
+]
+},
+{
+"rank": 1223,
+"en": "ugly",
+"freq": 2150,
+"forms": [
+"ugly"
+]
+},
+{
+"rank": 1224,
+"en": "responsibility",
+"freq": 2144,
+"forms": [
+"responsibility",
+"responsibilities"
+]
+},
+{
+"rank": 1225,
+"en": "noise",
+"freq": 2144,
+"forms": [
+"noise",
+"noises"
+]
+},
+{
+"rank": 1226,
+"en": "wire",
+"freq": 2144,
+"forms": [
+"wire",
+"wired",
+"wires"
+]
+},
+{
+"rank": 1227,
+"en": "although",
+"freq": 2143,
+"forms": [
+"although"
+]
+},
+{
+"rank": 1228,
+"en": "terrific",
+"freq": 2138,
+"forms": [
+"terrific"
+]
+},
+{
+"rank": 1229,
+"en": "lip",
+"freq": 2138,
+"forms": [
+"lips",
+"lip"
+]
+},
+{
+"rank": 1230,
+"en": "accord",
+"freq": 2135,
+"forms": [
+"according"
+]
+},
+{
+"rank": 1231,
+"en": "loose",
+"freq": 2131,
+"forms": [
+"loose"
+]
+},
+{
+"rank": 1232,
+"en": "director",
+"freq": 2129,
+"forms": [
+"director",
+"directors"
+]
+},
+{
+"rank": 1233,
+"en": "local",
+"freq": 2128,
+"forms": [
+"local"
+]
+},
+{
+"rank": 1234,
+"en": "lonely",
+"freq": 2125,
+"forms": [
+"lonely"
+]
+},
+{
+"rank": 1235,
+"en": "shame",
+"freq": 2120,
+"forms": [
+"shame"
+]
+},
+{
+"rank": 1236,
+"en": "tip",
+"freq": 2120,
+"forms": [
+"tip",
+"tips",
+"tipped"
+]
+},
+{
+"rank": 1237,
+"en": "otherwise",
+"freq": 2119,
+"forms": [
+"otherwise"
+]
+},
+{
+"rank": 1238,
+"en": "large",
+"freq": 2114,
+"forms": [
+"large"
+]
+},
+{
+"rank": 1239,
+"en": "monkey",
+"freq": 2114,
+"forms": [
+"monkey",
+"monkeys"
+]
+},
+{
+"rank": 1240,
+"en": "pair",
+"freq": 2112,
+"forms": [
+"pair",
+"pairs"
+]
+},
+{
+"rank": 1241,
+"en": "military",
+"freq": 2103,
+"forms": [
+"military"
+]
+},
+{
+"rank": 1242,
+"en": "oil",
+"freq": 2095,
+"forms": [
+"oil"
+]
+},
+{
+"rank": 1243,
+"en": "market",
+"freq": 2091,
+"forms": [
+"market",
+"marketing"
+]
+},
+{
+"rank": 1244,
+"en": "chest",
+"freq": 2090,
+"forms": [
+"chest"
+]
+},
+{
+"rank": 1245,
+"en": "model",
+"freq": 2086,
+"forms": [
+"model",
+"models"
+]
+},
+{
+"rank": 1246,
+"en": "fake",
+"freq": 2083,
+"forms": [
+"fake",
+"faking"
+]
+},
+{
+"rank": 1247,
+"en": "discover",
+"freq": 2081,
+"forms": [
+"discovered",
+"discover"
+]
+},
+{
+"rank": 1248,
+"en": "chick",
+"freq": 2076,
+"forms": [
+"chick",
+"chicks"
+]
+},
+{
+"rank": 1249,
+"en": "knee",
+"freq": 2069,
+"forms": [
+"knees",
+"knee"
+]
+},
+{
+"rank": 1250,
+"en": "indeed",
+"freq": 2065,
+"forms": [
+"indeed"
+]
+},
+{
+"rank": 1251,
+"en": "wheel",
+"freq": 2058,
+"forms": [
+"wheel",
+"wheels"
+]
+},
+{
+"rank": 1252,
+"en": "health",
+"freq": 2054,
+"forms": [
+"health"
+]
+},
+{
+"rank": 1253,
+"en": "purpose",
+"freq": 2051,
+"forms": [
+"purpose",
+"purposes"
+]
+},
+{
+"rank": 1254,
+"en": "heat",
+"freq": 2044,
+"forms": [
+"heat"
+]
+},
+{
+"rank": 1255,
+"en": "leader",
+"freq": 2042,
+"forms": [
+"leader",
+"leaders"
+]
+},
+{
+"rank": 1256,
+"en": "sue",
+"freq": 2039,
+"forms": [
+"sue",
+"sued",
+"suing"
+]
+},
+{
+"rank": 1257,
+"en": "manager",
+"freq": 2038,
+"forms": [
+"manager"
+]
+},
+{
+"rank": 1258,
+"en": "yard",
+"freq": 2038,
+"forms": [
+"yard",
+"yards"
+]
+},
+{
+"rank": 1259,
+"en": "wing",
+"freq": 2035,
+"forms": [
+"wings",
+"wing"
+]
+},
+{
+"rank": 1260,
+"en": "loud",
+"freq": 2031,
+"forms": [
+"loud"
+]
+},
+{
+"rank": 1261,
+"en": "itself",
+"freq": 2029,
+"forms": [
+"itself"
+]
+},
+{
+"rank": 1262,
+"en": "fantastic",
+"freq": 2029,
+"forms": [
+"fantastic"
+]
+},
+{
+"rank": 1263,
+"en": "term",
+"freq": 2028,
+"forms": [
+"terms",
+"term"
+]
+},
+{
+"rank": 1264,
+"en": "wave",
+"freq": 2024,
+"forms": [
+"wave",
+"waves",
+"waving"
+]
+},
+{
+"rank": 1265,
+"en": "screw",
+"freq": 2023,
+"forms": [
+"screwed",
+"screwing"
+]
+},
+{
+"rank": 1266,
+"en": "post",
+"freq": 2021,
+"forms": [
+"post",
+"posted"
+]
+},
+{
+"rank": 1267,
+"en": "lab",
+"freq": 2020,
+"forms": [
+"lab"
+]
+},
+{
+"rank": 1268,
+"en": "princess",
+"freq": 2019,
+"forms": [
+"princess"
+]
+},
+{
+"rank": 1269,
+"en": "borrow",
+"freq": 2014,
+"forms": [
+"borrow",
+"borrowed"
+]
+},
+{
+"rank": 1270,
+"en": "punch",
+"freq": 2003,
+"forms": [
+"punch",
+"punched",
+"punching"
+]
+},
+{
+"rank": 1271,
+"en": "naked",
+"freq": 2002,
+"forms": [
+"naked"
+]
+},
+{
+"rank": 1272,
+"en": "schedule",
+"freq": 2001,
+"forms": [
+"schedule",
+"scheduled"
+]
+},
+{
+"rank": 1273,
+"en": "prisoner",
+"freq": 2001,
+"forms": [
+"prisoner",
+"prisoners"
+]
+},
+{
+"rank": 1274,
+"en": "wet",
+"freq": 2000,
+"forms": [
+"wet"
+]
+},
+{
+"rank": 1275,
+"en": "language",
+"freq": 1999,
+"forms": [
+"language",
+"languages"
+]
+},
+{
+"rank": 1276,
+"en": "bug",
+"freq": 1997,
+"forms": [
+"bug",
+"bugs",
+"bugging"
+]
+},
+{
+"rank": 1277,
+"en": "nowhere",
+"freq": 1995,
+"forms": [
+"nowhere"
+]
+},
+{
+"rank": 1278,
+"en": "merry",
+"freq": 1994,
+"forms": [
+"merry"
+]
+},
+{
+"rank": 1279,
+"en": "cheese",
+"freq": 1991,
+"forms": [
+"cheese"
+]
+},
+{
+"rank": 1280,
+"en": "actor",
+"freq": 1987,
+"forms": [
+"actor",
+"actors"
+]
+},
+{
+"rank": 1281,
+"en": "downstairs",
+"freq": 1985,
+"forms": [
+"downstairs"
+]
+},
+{
+"rank": 1282,
+"en": "several",
+"freq": 1978,
+"forms": [
+"several"
+]
+},
+{
+"rank": 1283,
+"en": "refuse",
+"freq": 1976,
+"forms": [
+"refuse",
+"refused",
+"refuses"
+]
+},
+{
+"rank": 1284,
+"en": "insane",
+"freq": 1973,
+"forms": [
+"insane"
+]
+},
+{
+"rank": 1285,
+"en": "spring",
+"freq": 1967,
+"forms": [
+"spring",
+"springs"
+]
+},
+{
+"rank": 1286,
+"en": "bloody",
+"freq": 1962,
+"forms": [
+"bloody"
+]
+},
+{
+"rank": 1287,
+"en": "insurance",
+"freq": 1955,
+"forms": [
+"insurance"
+]
+},
+{
+"rank": 1288,
+"en": "repeat",
+"freq": 1954,
+"forms": [
+"repeat",
+"repeating"
+]
+},
+{
+"rank": 1289,
+"en": "jealous",
+"freq": 1952,
+"forms": [
+"jealous"
+]
+},
+{
+"rank": 1290,
+"en": "poison",
+"freq": 1948,
+"forms": [
+"poison",
+"poisoned",
+"poisoning"
+]
+},
+{
+"rank": 1291,
+"en": "national",
+"freq": 1946,
+"forms": [
+"national"
+]
+},
+{
+"rank": 1292,
+"en": "plate",
+"freq": 1946,
+"forms": [
+"plate",
+"plates"
+]
+},
+{
+"rank": 1293,
+"en": "contract",
+"freq": 1946,
+"forms": [
+"contract",
+"contracts"
+]
+},
+{
+"rank": 1294,
+"en": "grade",
+"freq": 1944,
+"forms": [
+"grade",
+"grades"
+]
+},
+{
+"rank": 1295,
+"en": "sale",
+"freq": 1943,
+"forms": [
+"sale",
+"sales"
+]
+},
+{
+"rank": 1296,
+"en": "approach",
+"freq": 1943,
+"forms": [
+"approach",
+"approaching",
+"approached"
+]
+},
+{
+"rank": 1297,
+"en": "witch",
+"freq": 1943,
+"forms": [
+"witch",
+"witches"
+]
+},
+{
+"rank": 1298,
+"en": "manage",
+"freq": 1941,
+"forms": [
+"manage",
+"managed"
+]
+},
+{
+"rank": 1299,
+"en": "spread",
+"freq": 1940,
+"forms": [
+"spread",
+"spreading"
+]
+},
+{
+"rank": 1300,
+"en": "airport",
+"freq": 1940,
+"forms": [
+"airport"
+]
+}
+]

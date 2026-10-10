@@ -1,0 +1,100 @@
+patient|sust|paciente|Be patient.|Ten paciencia.
+rise|verbo|subir / salir (sol)|The sun rises at six.|El sol sale a las seis.
+angel|sust|ángel|You're an angel.|Eres un ángel.
+waste|verbo|desperdiciar · basura|Don't waste time.|No pierdas el tiempo.
+raise|verbo|levantar / criar · aumento|Raise your hand.|Levanta la mano.
+draw|verbo|dibujar|My son draws a lot.|Mi hijo dibuja mucho.
+soul|sust|alma|Bless your soul.|Dios te bendiga.
+station|sust|estación|The bus station.|La estación de buses.
+personal|adj|personal|It's personal.|Es personal.
+afternoon|sust|tarde|Good afternoon!|¡Buenas tardes!
+appreciate|verbo|agradecer / valorar|I appreciate it.|Te lo agradezco.
+store|sust|tienda|I go to the store.|Voy a la tienda.
+owe|verbo|deber (dinero)|How much do I owe you?|¿Cuánto te debo?
+ground|sust|suelo / tierra|On the ground.|En el suelo.
+track|sust|pista · rastrear|Track your steps.|Cuenta tus pasos.
+tough|adj|duro / difícil|A tough day.|Un día duro.
+age|sust|edad|What's your age?|¿Qué edad tienes?
+choose|verbo|elegir / escoger|Choose one.|Escoge uno.
+mention|verbo|mencionar|Don't mention it.|No hay de qué.
+buck|sust|dólar (informal)|Five bucks.|Cinco dólares.
+situation|sust|situación|A hard situation.|Una situación difícil.
+information|sust|información|More information, please.|Más información, por favor.
+simple|adj|sencillo / simple|Keep it simple.|Hazlo sencillo.
+middle|sust|medio / mitad|In the middle of the day.|A mitad del día.
+study|verbo|estudiar|I study English.|Estudio inglés.
+calm|adj|tranquilo / calmado|Stay calm.|Mantén la calma.
+ticket|sust|boleto / entrada · multa|Two tickets, please.|Dos boletos, por favor.
+forever|adv|para siempre|Friends forever.|Amigos para siempre.
+dark|adj|oscuro|It's dark outside.|Afuera está oscuro.
+anywhere|adv|en cualquier lugar / a ningún lado|Sit anywhere.|Siéntate donde quieras.
+grab|verbo|agarrar / coger|Let's grab a coffee.|Vamos por un café.
+shop|sust|tienda · ir de compras|A coffee shop.|Una cafetería.
+accident|sust|accidente|It was an accident.|Fue un accidente.
+cute|adj|lindo / tierno|Your dog is cute.|Tu perro es lindo.
+apartment|sust|departamento|My apartment is small.|Mi departamento es pequeño.
+weapon|sust|arma|No weapons here.|Aquí no se permiten armas.
+strong|adj|fuerte|Strong coffee.|Café cargado.
+amazing|adj|increíble / genial|That's amazing!|¡Qué increíble!
+strange|adj|extraño / raro|That's strange.|Qué extraño.
+smile|verbo|sonreír · sonrisa|Smile!|¡Sonríe!
+scream|verbo|gritar|Don't scream.|No grites.
+beer|sust|cerveza|A cold beer.|Una cerveza fría.
+list|sust|lista|A shopping list.|Una lista de compras.
+suit|sust|traje · quedar bien|A black suit.|Un traje negro.
+tape|sust|cinta|Tape it.|Pégalo con cinta.
+cat|sust|gato|My cat sleeps a lot.|Mi gato duerme mucho.
+totally|adv|totalmente|Totally true.|Totalmente cierto.
+destroy|verbo|destruir|Don't destroy it.|No lo destruyas.
+difference|sust|diferencia|What's the difference?|¿Cuál es la diferencia?
+army|sust|ejército|He's in the army.|Está en el ejército.
+concern|sust|preocupación|Thanks for your concern.|Gracias por preocuparte.
+visit|verbo|visitar · visita|Visit me soon.|Visítame pronto.
+certain|adj|seguro / cierto|Are you certain?|¿Estás seguro?
+college|sust|universidad|My son goes to college.|Mi hijo va a la universidad.
+evidence|sust|prueba(s) / evidencia|Show me the evidence.|Muéstrame las pruebas.
+besides|adv|además|Besides, it's late.|Además, es tarde.
+respect|sust|respeto · respetar|Respect your parents.|Respeta a tus padres.
+animal|sust|animal|I love animals.|Me encantan los animales.
+completely|adv|completamente|Completely different.|Completamente diferente.
+girlfriend|sust|novia|My girlfriend is here.|Mi novia está aquí.
+machine|sust|máquina|A coffee machine.|Una máquina de café.
+file|sust|archivo|Save the file.|Guarda el archivo.
+history|sust|historia|I like history.|Me gusta la historia.
+fear|sust|miedo|No fear.|Sin miedo.
+area|sust|zona / área|A quiet area.|Una zona tranquila.
+ice|sust|hielo|Water with ice.|Agua con hielo.
+proud|adj|orgulloso|I'm proud of you.|Estoy orgulloso de ti.
+excited|adj|emocionado|I'm so excited!|¡Estoy muy emocionado!
+involve|verbo|involucrar|Don't involve me.|No me metas en eso.
+gift|sust|regalo|A gift for you.|Un regalo para ti.
+forgive|verbo|perdonar|Forgive me.|Perdóname.
+near|prep|cerca de|Near my house.|Cerca de mi casa.
+scene|sust|escena|My favorite scene.|Mi escena favorita.
+group|sust|grupo|A group of friends.|Un grupo de amigos.
+note|sust|nota|Take notes.|Toma apuntes.
+crime|sust|crimen / delito|Crime doesn't pay.|El crimen no paga.
+truck|sust|camión|A big truck.|Un camión grande.
+chief|sust|jefe|The fire chief.|El jefe de bomberos.
+guard|sust|guardia|The guard is at the door.|El guardia está en la puerta.
+belong|verbo|pertenecer|This belongs to me.|Esto es mío.
+continue|verbo|continuar / seguir|Please continue.|Por favor, continúa.
+spot|sust|lugar / sitio · mancha|A nice spot.|Un buen sitio.
+field|sust|campo / cancha|A soccer field.|Una cancha de fútbol.
+experience|sust|experiencia|Good experience.|Buena experiencia.
+position|sust|posición / puesto|A new position at work.|Un nuevo puesto en el trabajo.
+tie|sust|corbata · empate · atar|Tie your shoes.|Amárrate los zapatos.
+cross|verbo|cruzar|Cross the street.|Cruza la calle.
+doc|sust|doctor (informal)|Thanks, doc.|Gracias, doctor.
+fill|verbo|llenar|Fill the glass.|Llena el vaso.
+pleasure|sust|placer / gusto|My pleasure.|Con gusto.
+ought|verbo|debería|You ought to rest.|Deberías descansar.
+cook|verbo|cocinar|I cook dinner.|Cocino la cena.
+race|sust|carrera|A long race.|Una carrera larga.
+rich|adj|rico (dinero)|He's very rich.|Es muy rico.
+contact|sust|contacto|Stay in contact.|Seguimos en contacto.
+art|sust|arte|I like art.|Me gusta el arte.
+film|sust|película|A good film.|Una buena película.
+paint|verbo|pintar · pintura|We paint the house.|Pintamos la casa.
+entire|adj|entero / todo|The entire day.|Todo el día.
+pack|verbo|empacar · paquete|Pack your bag.|Arma tu maleta.

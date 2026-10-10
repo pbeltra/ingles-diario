@@ -1,0 +1,100 @@
+hit|verbo|golpear|He hit the ball.|Le pegó a la pelota.
+sound|sust|sonido · sonar|Sounds good!|¡Suena bien!
+buy|verbo|comprar|I buy bread every day.|Compro pan todos los días.
+stuff|sust|cosas|My stuff is in the car.|Mis cosas están en el carro.
+since|prep|desde / ya que|Since Monday.|Desde el lunes.
+read|verbo|leer|I read at night.|Leo en la noche.
+mrs|sust|señora (Sra.)|Good morning, Mrs. Lopez.|Buenos días, señora López.
+fight|verbo|pelear · pelea|Don't fight.|No peleen.
+case|sust|caso|Just in case.|Por si acaso.
+pick|verbo|escoger / recoger|I pick up my son at five.|Recojo a mi hijo a las cinco.
+alone|adj|solo|I live alone.|Vivo solo.
+hard|adj|duro / difícil|It's a hard day.|Es un día difícil.
+deal|sust|trato|It's a deal!|¡Trato hecho!
+write|verbo|escribir|Write your name.|Escribe tu nombre.
+fire|sust|fuego / incendio|Fire! Call 911!|¡Fuego! ¡Llama al 911!
+easy|adj|fácil|It's easy.|Es fácil.
+hurt|verbo|doler / lastimar|My back hurts.|Me duele la espalda.
+until|prep|hasta|Until tomorrow.|Hasta mañana.
+few|adj|pocos / unos cuantos|A few minutes.|Unos minutos.
+honey|sust|miel · cariño|Hi, honey!|¡Hola, cariño!
+doctor|sust|doctor / médico|I need a doctor.|Necesito un médico.
+dr|sust|doctor (Dr.)|Dr. Pérez is here.|El doctor Pérez está aquí.
+both|det|ambos / los dos|Both are good.|Los dos son buenos.
+soon|adv|pronto|See you soon.|Nos vemos pronto.
+later|adv|más tarde / luego|See you later.|Nos vemos luego.
+such|det|tal / tan|Such a nice day!|¡Qué día tan lindo!
+part|sust|parte|Part of the team.|Parte del equipo.
+phone|sust|teléfono / celular|My phone is dead.|Mi celular no tiene batería.
+lie|verbo|mentir · acostarse|Don't lie to me.|No me mientas.
+ago|adv|hace (tiempo)|Two days ago.|Hace dos días.
+five|num|cinco|Five minutes.|Cinco minutos.
+point|sust|punto|Good point.|Buen punto.
+probably|adv|probablemente|Probably tomorrow.|Probablemente mañana.
+drive|verbo|manejar / conducir|I drive to work.|Manejo al trabajo.
+number|sust|número|What's your phone number?|¿Cuál es tu número de teléfono?
+beautiful|adj|hermoso / lindo|What a beautiful day!|¡Qué día tan hermoso!
+game|sust|juego / partido|Let's watch the game.|Veamos el partido.
+gun|sust|pistola / arma|He has a gun.|Él tiene una pistola.
+hate|verbo|odiar|I hate traffic.|Odio el tráfico.
+crazy|adj|loco|That's crazy!|¡Qué locura!
+plan|sust|plan|What's the plan?|¿Cuál es el plan?
+chance|sust|oportunidad / posibilidad|Give me a chance.|Dame una oportunidad.
+fall|verbo|caer · otoño|Don't fall!|¡No te caigas!
+late|adj|tarde|I'm late.|Llego tarde.
+wish|verbo|desear|I wish you luck.|Te deseo suerte.
+shut|verbo|cerrar|Shut the door.|Cierra la puerta.
+set|verbo|poner / fijar|Set the alarm.|Pon la alarma.
+save|verbo|ahorrar / salvar / guardar|I save money.|Ahorro dinero.
+heart|sust|corazón|With all my heart.|Con todo mi corazón.
+nobody|pron|nadie|Nobody is home.|No hay nadie en casa.
+story|sust|historia / cuento|Tell me a story.|Cuéntame una historia.
+cut|verbo|cortar|Cut the bread.|Corta el pan.
+order|verbo|pedir · orden|I want to order.|Quiero pedir.
+under|prep|debajo de|Under the table.|Debajo de la mesa.
+month|sust|mes|Next month.|El próximo mes.
+mine|pron|mío / mía|It's mine.|Es mío.
+party|sust|fiesta|Let's go to the party.|Vamos a la fiesta.
+four|num|cuatro|Four people.|Cuatro personas.
+line|sust|línea / fila|Wait in line.|Espera en la fila.
+anyone|pron|alguien / cualquiera|Is anyone home?|¿Hay alguien en casa?
+book|sust|libro|I read a book.|Leo un libro.
+town|sust|pueblo / ciudad|A small town.|Un pueblo pequeño.
+true|adj|verdad / cierto|That's true.|Es verdad.
+each|det|cada|Each day.|Cada día.
+catch|verbo|atrapar / tomar (bus)|Catch the ball!|¡Atrapa la pelota!
+afraid|adj|con miedo|Don't be afraid.|No tengas miedo.
+exactly|adv|exactamente|Exactly!|¡Exacto!
+whatever|pron|lo que sea|Whatever you want.|Lo que tú quieras.
+dog|sust|perro|My dog is big.|Mi perro es grande.
+bit|sust|poco / pedacito|A bit tired.|Un poco cansado.
+young|adj|joven|You look young.|Te ves joven.
+trouble|sust|problema(s) / lío|I'm in trouble.|Estoy en problemas.
+everyone|pron|todos|Thanks, everyone.|Gracias a todos.
+hang|verbo|colgar|Hang up the phone.|Cuelga el teléfono.
+wear|verbo|llevar puesto / usar|I wear glasses.|Uso lentes.
+anyway|adv|de todos modos|Thanks anyway.|Gracias de todos modos.
+dream|sust|sueño · soñar|Sweet dreams.|Dulces sueños.
+light|sust|luz · ligero|Turn on the light.|Prende la luz.
+interest|sust|interés|No interest.|Sin interés.
+police|sust|policía|Call the police!|¡Llama a la policía!
+water|sust|agua|A glass of water, please.|Un vaso de agua, por favor.
+fun|sust|diversión · divertido|Have fun!|¡Diviértete!
+answer|sust|respuesta · contestar|Answer the phone.|Contesta el teléfono.
+promise|verbo|prometer · promesa|I promise.|Lo prometo.
+couple|sust|pareja · un par|A couple of days.|Un par de días.
+figure|verbo|imaginar / resolver · figura|I'll figure it out.|Ya lo resolveré.
+pull|verbo|halar / jalar|Pull the door.|Hala la puerta.
+body|sust|cuerpo|My body hurts.|Me duele el cuerpo.
+anybody|pron|alguien / nadie|Is anybody here?|¿Hay alguien aquí?
+throw|verbo|lanzar / tirar|Throw it away.|Bótalo.
+reason|sust|razón / motivo|For no reason.|Sin motivo.
+death|sust|muerte|Life and death.|La vida y la muerte.
+dear|adj|querido|My dear friend.|Mi querido amigo.
+far|adv|lejos|Is it far?|¿Está lejos?
+person|sust|persona|A good person.|Una buena persona.
+rest|verbo|descansar · el resto|I need to rest.|Necesito descansar.
+funny|adj|gracioso / chistoso|That's funny!|¡Qué chistoso!
+dance|verbo|bailar|Let's dance!|¡Bailemos!
+side|sust|lado|On the left side.|Al lado izquierdo.
+inside|adv|adentro / dentro|Come inside.|Entra.

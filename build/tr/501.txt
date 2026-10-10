@@ -1,0 +1,100 @@
+hair|sust|pelo / cabello|I cut my hair.|Me corto el pelo.
+perfect|adj|perfecto|Perfect!|¡Perfecto!
+company|sust|empresa · compañía|I work for a big company.|Trabajo para una empresa grande.
+sort|sust|tipo · ordenar|Sort of.|Más o menos.
+sing|verbo|cantar|I sing in the car.|Canto en el carro.
+train|sust|tren · entrenar|I train every morning.|Entreno cada mañana.
+paper|sust|papel|A piece of paper.|Una hoja de papel.
+alive|adj|vivo|I feel alive.|Me siento vivo.
+food|sust|comida|I love Ecuadorian food.|Me encanta la comida ecuatoriana.
+parent|sust|padre o madre (padres)|My parents live in Quito.|Mis padres viven en Quito.
+luck|sust|suerte|Good luck!|¡Buena suerte!
+grow|verbo|crecer · cultivar|Kids grow fast.|Los niños crecen rápido.
+sex|sust|sexo|Sex: male.|Sexo: masculino.
+music|sust|música|I listen to music.|Escucho música.
+laugh|verbo|reír(se)|Don't laugh!|¡No te rías!
+control|sust|control · controlar|Stay in control.|Mantén el control.
+record|verbo|grabar · récord|Record the class.|Graba la clase.
+special|adj|especial|A special day.|Un día especial.
+serious|adj|serio|Are you serious?|¿En serio?
+red|adj|rojo|A red car.|Un carro rojo.
+arm|sust|brazo|My arm hurts.|Me duele el brazo.
+lead|verbo|guiar / liderar|You lead, I follow.|Tú guías, yo te sigo.
+cover|verbo|cubrir · tapa|Cover the food.|Tapa la comida.
+early|adv|temprano|I get up early.|Me levanto temprano.
+wake|verbo|despertar(se)|I wake up at five.|Me despierto a las cinco.
+decide|verbo|decidir|You decide.|Tú decides.
+burn|verbo|quemar|Don't burn the rice.|No quemes el arroz.
+hide|verbo|esconder(se)|Where do you hide the keys?|¿Dónde escondes las llaves?
+ring|sust|anillo · sonar|The phone is ringing.|Está sonando el teléfono.
+sweet|adj|dulce|Sweet dreams!|¡Dulces sueños!
+ball|sust|pelota / balón|Pass the ball.|Pasa la pelota.
+ten|num|diez|Ten minutes.|Diez minutos.
+coffee|sust|café|I want coffee.|Quiero café.
+lucky|adj|afortunado / con suerte|I'm lucky.|Tengo suerte.
+safe|adj|seguro / a salvo|Get home safe.|Llega bien a casa.
+teach|verbo|enseñar|She teaches English.|Ella enseña inglés.
+human|adj|humano|I'm only human.|Solo soy humano.
+top|sust|parte de arriba / cima|On top of the table.|Encima de la mesa.
+president|sust|presidente|The president speaks today.|El presidente habla hoy.
+himself|pron|él mismo / se|He did it himself.|Lo hizo él mismo.
+sense|sust|sentido|It makes sense.|Tiene sentido.
+charge|verbo|cobrar / cargar|Charge your phone.|Carga tu celular.
+air|sust|aire|Fresh air.|Aire fresco.
+explain|verbo|explicar|Explain it again, please.|Explícalo otra vez, por favor.
+cry|verbo|llorar|Don't cry.|No llores.
+king|sust|rey|The king of the house.|El rey de la casa.
+lord|sust|señor (Dios)|Oh, Lord!|¡Ay, Dios mío!
+key|sust|llave · clave|Where are my keys?|¿Dónde están mis llaves?
+handle|verbo|manejar / encargarse|I can handle it.|Yo me encargo.
+return|verbo|devolver / regresar|Return the book.|Devuelve el libro.
+mistake|sust|error|It's okay to make mistakes.|Está bien equivocarse.
+perhaps|adv|quizás / tal vez|Perhaps later.|Quizás más tarde.
+tired|adj|cansado|I'm tired.|Estoy cansado.
+horse|sust|caballo|A white horse.|Un caballo blanco.
+card|sust|tarjeta|Can I pay by card?|¿Puedo pagar con tarjeta?
+secret|sust|secreto|Can you keep a secret?|¿Puedes guardar un secreto?
+law|sust|ley|It's the law.|Es la ley.
+class|sust|clase|I have English class.|Tengo clase de inglés.
+test|sust|prueba / examen|I have a test today.|Hoy tengo un examen.
+officer|sust|oficial / agente|Thank you, officer.|Gracias, oficial.
+count|verbo|contar|Count to ten.|Cuenta hasta diez.
+hospital|sust|hospital|She's in the hospital.|Ella está en el hospital.
+cold|adj|frío · resfriado|It's cold today.|Hoy hace frío.
+darling|sust|querido / cariño|Good night, darling.|Buenas noches, cariño.
+fix|verbo|arreglar|Can you fix it?|¿Lo puedes arreglar?
+poor|adj|pobre|Poor dog!|¡Pobre perro!
+ship|sust|barco|A big ship.|Un barco grande.
+boss|sust|jefe|My boss is nice.|Mi jefe es buena gente.
+kick|verbo|patear|Kick the ball.|Patea la pelota.
+star|sust|estrella|Look at the stars.|Mira las estrellas.
+fool|sust|tonto|Don't be a fool.|No seas tonto.
+rule|sust|regla|Those are the rules.|Esas son las reglas.
+small|adj|pequeño|A small coffee, please.|Un café pequeño, por favor.
+uncle|sust|tío|My uncle lives in Cuenca.|Mi tío vive en Cuenca.
+land|sust|tierra · aterrizar|The plane lands at nine.|El avión aterriza a las nueve.
+past|sust|pasado|Forget the past.|Olvida el pasado.
+agent|sust|agente|Ask the agent.|Pregúntale al agente.
+offer|verbo|ofrecer · oferta|Can I offer you a coffee?|¿Te puedo ofrecer un café?
+force|sust|fuerza · obligar|Don't force it.|No lo fuerces.
+smell|verbo|oler · olor|It smells good.|Huele bien.
+bag|sust|bolsa / bolso|Do you need a bag?|¿Necesita una funda?
+straight|adv|derecho / recto|Go straight.|Siga derecho.
+christmas|sust|Navidad|Merry Christmas!|¡Feliz Navidad!
+road|sust|carretera / camino|The road is closed.|La carretera está cerrada.
+carry|verbo|llevar / cargar|I carry my bag.|Llevo mi bolso.
+million|num|millón|A million thanks.|Un millón de gracias.
+letter|sust|carta · letra|I write a letter.|Escribo una carta.
+lock|verbo|cerrar con llave|Lock the door.|Cierra la puerta con llave.
+general|adj|general|In general, I'm fine.|En general, estoy bien.
+certainly|adv|por supuesto / sin duda|Certainly, sir.|Por supuesto, señor.
+attack|sust|ataque|A heart attack.|Un ataque al corazón.
+enjoy|verbo|disfrutar|Enjoy your meal!|¡Buen provecho!
+finally|adv|por fin / finalmente|Finally, Friday!|¡Por fin, viernes!
+table|sust|mesa|A table for two, please.|Una mesa para dos, por favor.
+quiet|adj|tranquilo / callado|A quiet morning.|Una mañana tranquila.
+goodbye|interj|adiós|Goodbye, see you soon.|Adiós, nos vemos pronto.
+song|sust|canción|I love this song.|Me encanta esta canción.
+realize|verbo|darse cuenta|I didn't realize.|No me di cuenta.
+buddy|sust|amigo / pana|Hey, buddy!|¡Hola, pana!
+present|sust|regalo · presente|A birthday present.|Un regalo de cumpleaños.

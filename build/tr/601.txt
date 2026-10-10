@@ -1,0 +1,100 @@
+rather|adv|más bien / preferir|I'd rather stay home.|Prefiero quedarme en casa.
+possible|adj|posible|Is it possible?|¿Es posible?
+unless|conj|a menos que|Unless it rains.|A menos que llueva.
+mad|adj|enojado · loco|Are you mad at me?|¿Estás enojado conmigo?
+rock|sust|roca / piedra · rock|I like rock music.|Me gusta el rock.
+absolutely|adv|totalmente / claro que sí|Absolutely!|¡Claro que sí!
+plane|sust|avión|The plane is late.|El avión está atrasado.
+box|sust|caja|A box of chocolates.|Una caja de chocolates.
+blue|adj|azul|The sky is blue.|El cielo está azul.
+leg|sust|pierna|My leg hurts.|Me duele la pierna.
+joke|sust|chiste · broma|It's a joke.|Es una broma.
+join|verbo|unirse|Join us!|¡Únete!
+except|prep|excepto / menos|Every day except Sunday.|Todos los días menos el domingo.
+somewhere|adv|en algún lugar|Let's go somewhere.|Vamos a algún lado.
+honor|sust|honor|It's an honor.|Es un honor.
+less|adv|menos|Less sugar, please.|Menos azúcar, por favor.
+none|pron|ninguno / nada|None for me, thanks.|Nada para mí, gracias.
+push|verbo|empujar|Push the door.|Empuja la puerta.
+jump|verbo|saltar|Jump!|¡Salta!
+message|sust|mensaje|Send me a message.|Mándame un mensaje.
+choice|sust|opción / elección|Your choice.|Tú eliges.
+mouth|sust|boca|Open your mouth.|Abre la boca.
+park|sust|parque · estacionar|I walk in the park.|Camino en el parque.
+window|sust|ventana|Close the window.|Cierra la ventana.
+mile|sust|milla|One mile.|Una milla.
+worth|adj|que vale (la pena)|It's worth it.|Vale la pena.
+club|sust|club|A tennis club.|Un club de tenis.
+seat|sust|asiento|Take a seat.|Tome asiento.
+careful|adj|cuidadoso|Be careful!|¡Ten cuidado!
+quick|adj|rápido|A quick coffee.|Un café rápido.
+floor|sust|piso / suelo|The second floor.|El segundo piso.
+knock|verbo|tocar (la puerta)|Knock, knock!|¡Toc, toc!
+hotel|sust|hotel|A nice hotel.|Un hotel bonito.
+system|sust|sistema|The system is down.|El sistema no funciona.
+mess|sust|desorden|What a mess!|¡Qué desorden!
+boat|sust|bote / lancha|We go by boat.|Vamos en lancha.
+fish|sust|pescado / pez|I eat fish on Friday.|Como pescado el viernes.
+court|sust|cancha · tribunal|Tennis court.|Cancha de tenis.
+swear|verbo|jurar|I swear!|¡Lo juro!
+busy|adj|ocupado|I'm busy now.|Ahora estoy ocupado.
+dude|sust|pana / tipo|Hey, dude!|¡Hola, pana!
+dollar|sust|dólar|Five dollars.|Cinco dólares.
+wedding|sust|boda|My sister's wedding.|La boda de mi hermana.
+agree|verbo|estar de acuerdo|I agree.|Estoy de acuerdo.
+major|adj|importante / mayor|A major problem.|Un problema grande.
+shoe|sust|zapato|My new shoes.|Mis zapatos nuevos.
+brain|sust|cerebro|Use your brain.|Usa la cabeza.
+seven|num|siete|At seven o'clock.|A las siete.
+fault|sust|culpa|It's my fault.|Es mi culpa.
+lunch|sust|almuerzo|Let's have lunch.|Vamos a almorzar.
+lieutenant|sust|teniente|Yes, lieutenant.|Sí, teniente.
+bar|sust|bar · barra|Let's meet at the bar.|Veámonos en el bar.
+relax|verbo|relajarse|Relax, it's okay.|Tranquilo, está bien.
+smoke|verbo|fumar · humo|I don't smoke.|No fumo.
+future|sust|futuro|In the future.|En el futuro.
+pain|sust|dolor|I have a lot of pain.|Tengo mucho dolor.
+bother|verbo|molestar|Sorry to bother you.|Perdón por molestar.
+roll|verbo|rodar · rollo / pancito|A bread roll.|Un pancito.
+tv|sust|televisión / tele|I watch TV at night.|Veo tele en la noche.
+voice|sust|voz|You have a nice voice.|Tienes linda voz.
+clothes|sust|ropa|I wash my clothes.|Lavo mi ropa.
+weird|adj|raro|That's weird.|Qué raro.
+notice|verbo|notar / darse cuenta|Did you notice?|¿Te diste cuenta?
+bank|sust|banco|I go to the bank.|Voy al banco.
+service|sust|servicio|Good service.|Buen servicio.
+hundred|num|cien|One hundred dollars.|Cien dólares.
+prove|verbo|demostrar|Prove it.|Demuéstralo.
+judge|sust|juez · juzgar|Don't judge me.|No me juzgues.
+allow|verbo|permitir|Dogs are not allowed.|No se permiten perros.
+earth|sust|tierra|Planet Earth.|El planeta Tierra.
+partner|sust|socio / pareja|My business partner.|Mi socio.
+lay|verbo|poner / colocar|Lay it on the table.|Ponlo sobre la mesa.
+quit|verbo|dejar / renunciar|I quit smoking.|Dejé de fumar.
+attention|sust|atención|Pay attention.|Pon atención.
+lawyer|sust|abogado|I need a lawyer.|Necesito un abogado.
+share|verbo|compartir|Let's share.|Compartamos.
+eight|num|ocho|Eight hours.|Ocho horas.
+worse|adj|peor|It's getting worse.|Está empeorando.
+birthday|sust|cumpleaños|Happy birthday!|¡Feliz cumpleaños!
+protect|verbo|proteger|Protect your eyes.|Protege tus ojos.
+thousand|num|mil|A thousand words.|Mil palabras.
+yesterday|adv|ayer|I worked yesterday.|Ayer trabajé.
+smart|adj|inteligente / listo|You're smart.|Eres inteligente.
+colonel|sust|coronel|Yes, colonel.|Sí, coronel.
+imagine|verbo|imaginar|Imagine that!|¡Imagínate!
+tree|sust|árbol|A big tree.|Un árbol grande.
+wall|sust|pared / muro|On the wall.|En la pared.
+lovely|adj|precioso / encantador|What a lovely day!|¡Qué día tan lindo!
+short|adj|corto / bajo|A short break.|Un descanso corto.
+reach|verbo|alcanzar / llegar|I can't reach it.|No lo alcanzo.
+master|sust|maestro / amo|A master chef.|Un gran chef.
+fair|adj|justo|That's not fair.|No es justo.
+consider|verbo|considerar|Consider it done.|Considéralo hecho.
+arrest|verbo|arrestar|You're under arrest.|Está arrestado.
+security|sust|seguridad|Call security.|Llama a seguridad.
+across|prep|al otro lado de|Across the street.|Al otro lado de la calle.
+terrible|adj|terrible|Terrible traffic.|Un tráfico terrible.
+trip|sust|viaje|Have a good trip!|¡Buen viaje!
+treat|verbo|tratar · invitar|My treat.|Yo invito.
+drug|sust|droga · medicamento|Drug store.|Farmacia.
